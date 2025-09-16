@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the difference between protons, electrons, and neutrons in terms of charge?",
+        "answer": "Protons have a positive charge (+1). \nElectrons have a negative charge (-1).\nNeutrons have no charge (0).",
+        "referenceAnswer": "The charges of electrons are negative and the charges of protons are considered to be positive. Neutron is electrically neutral that is it has no charge.",
+        "referenceContext": "The fundamental and special property of primary particles (electron and proton) of which the matter consist of is electrical property, which is determined by charge. The charges of electrons are negative and the charges of protons are considered to be positive. Neutron is electrically neutral that is it has no charge.",
+        "context": " "
+    }
+][
+    {
+        "question": "What is electrostatic induction?",
+        "answer": "Electrostatic induction occurs when a charged object causes another uncharged object to become polarized, resulting in a separation of positive and negative charges. This happens because the charged object induces opposite charges on itself due to the presence of electrons, creating an electric field that affects the surrounding neutral objects.\n\nMathematically, it can be explained by Coulomb's law and Laplace's equation:\n\n\u0394V/\u03b5\u2080 = \u2207\u22c5(\u03c3E)\n\nwhere:\n- \u0394V is the potential difference\n- \u03b5\u2080 is the electric constant (permittivity of free space)\n- \u03c3 is the charge density\n- E is the electric field\n\nGraphically, it can be represented by a vector field showing the direction and magnitude of the induced electric field.\n\nIn simple terms, when a charged object is brought near another uncharged object, the charged object causes the electrons in the neutral object to move towards one end, leaving behind a region with an excess of positive charge. This separation of charges creates an electric field around the neutral object that can induce a voltage across it.\n\nFor example, if you bring a charged balloon close to a piece of fur, the fur will become polarized and attract the balloon due to electrostatic induction.",
+        "referenceAnswer": "When the neutral body is placed not in contact with the charged body but close to the charged body, the former becomes charged. This happens due to induction. The process of charging a neutral body by bringing it very near to the charged body is called electrostatic induction.",
+        "referenceContext": "We know that when two bodies are rubbed together electric charge is produced. Again when a charged body is brought in contact with another neutral body the later is charged. When the neutral body is placed not in contact with the charged body but close to the charged body, the former becomes charged. This happens due to induction. The process of charging a neutral body by bringing it very near to the charged body is called electrostatic induction.",
+        "context": " "
+    }
+]

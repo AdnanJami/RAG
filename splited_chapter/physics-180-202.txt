@@ -1,0 +1,599 @@
+
+
+Chapter eleven
+CURRENT ELECTRICITY
+
+
+
+
+
+[We rely on electricity in different areas of our daily lives. Most of the modern instruments and equipments are run by electricity. We have come to depend so much on electricity that it is difficult to imagine what would be life without electricity. In the previous chapter we have discussed about static electricity. In this chapter different quantities related to current electricity e.g. electric current, resistance, electromotive force and potential difference will be described. In addition, the direction of electricity, conductor, insulator and semiconductor, electric circuit, Ohm's law, fixed and variable resistance, dependence of resistance, series and parallel combination of resistance, electric power, system loss of electricity and load shedding, safe and effective use of electricity will be discussed.]
+By the end of this chapter we will be able to-
+1. Demonstrate production of current electricity from static electricity.
+2. Explain the direction of electric current and flow of electrons.
+3. Draw the circuit by using the symbols of electric devices and appliances.
+4. Explain conductor, insulator and semiconductor.
+5. Establish a relationship between electric current and potential difference by using graph.
+6. Explain fixed resistance and variable resistance.
+7. Explain electromotive force and potential difference.
+8. Explain dependence of resistance.
+9. Explain resistivity and conductivity.
+10. Use series and parallel circuit.
+11. Use an equivalent resistance in a circuit.
+12. Calculate electric power in a circuit.
+13. Explain system loss and load shedding in a circuit.
+14. Describe the safe and effective use of electricity.
+15. Draw a typical house circuit and demonstrate the use of ac sources in its different parts.
+16. Develop consciousness about the safe and effective use of electricity.
+17. Draw poster to build consciousness about dissipation of electricity and conservation.
+
+
+11.1 Production of current electricity from static electricity Electric current
+When two bodies of different potential are connected by a conducting wire, electrons flow from the body of low potential to that of higher potential. This flow of electron continues until the potential difference between the two bodies becomes zero. If by any process the potential difference between the two objects is maintained, then this flow of electron goes on continuously. This continuous flow of electrons is electric current.
+The amount of charge that flows in unit time through any cross section of a conductor is called electric current. If through any cross section of a conductor, the quantity of charge Q flows in time t, then the electric current will be I = Q
+Unit: The unit of electric current is ampere. If an amount of charge 1 C flows in 1 second through any cross section of a conductor, then the quantity of electric current produced is called 1 A. [But this is not the fundamental definition of ampere. It is given in chapter one, section 1.5.]
+I = 1C = 1Cs-1 =1A 
+1s 
+
+Figure: 11.1
+In an isolated charged conductor, the charge stays on its surface and do not move. Such type of charges is called electrostatic charge. However, if we can provide a conducting path, the charges will flow instead of being bound on the conductor. When it happens, we say an electric current is produced.
+How electric current is produced from moving charges is described in terms of the circuit as shown in figure 11.1. At the start of the experiment, two plug keys K1 and K2 are taken out and the two metal plates A and B are uncharged by touching with hand. Now, if the plug K1 is closed, the high voltage source will be connected to the two metal plates.
+Next, switch on the high voltage source to charge up the two metal plates positively and negatively by an equal amount. Now, key K1 is removed and key K2 is pluged in to
+
+
+provide a continuous conducting path linking the positively and negatively charged metal plates to the galvanometer. Here, the galvanometer is a device that can detect the existence of flow of current. It would be observed that the pointer in the galvanometer is seen to deflect momentarily to one side and then quickly return to its initial position.
+The galvanometer's deflection shows that an electric current is produced. How this electric current is produced? The current is caused by the flow of electrons from the negatively charged plate B through the galvanometer and then to positively charged plate A. The positive charges of plate A are neutralized by the incoming negatively charged electrons. As a result, the transient current which is detected by the galvanometer is produced due to the discharge of the two metal plates.
+11.2 Direction of electric current and direction of electron flow
+When current electricity was invented first, it was assumed that the electricity was produced due to the flow of positive charges. This positive charge flows from higher potential to lower potential. So, the direction of conventional current is taken to be from higher potential to lower potential or from positive plate to negative plate of an electric cell. But we know that actually electric current is the flow of negative charges or of electrons, so the actual direction of electric current is from lower potential to higher potential. That is from negative plate to positive plate of an electric cell. Therefore, the actual direction of electric current is opposite to that of conventional current. The arrow demonstrated in the diagram is indicating the direction of conventional current.
+
+
+Figure: 11.2
+11.3 Electric symbols
+The complete path through which electric current can flow is called electric circuit. When two plates of a cell are joined to the two ends of a resistor or an electric devices an electric circuit is formed.
+We have to draw simple and clear circuit diagrams to study current electricity. Symbols that are used to represent common electrical devices that are employed to draw electric circuits are shown in table.
+
+
+Table 11.1: Symbols of circuit
+
+DeviceSymbolSwitchCellBatteryFixed resistor
+Variable resistor
+Fuse
+AmmeterVoltmeterGalvanometerEarth connectorWires crossedWires not connectedBulb or
+11.4 Conductor, insulator and semiconductor
+We know, electric current is the flow of charges through a material. This electric current can move very easily through some substance. There are some mediums through which electricity cannot move at all. Solid materials are classified into three groups depending on their electricity conduction. For example: (1) conductor (2) insulator (3) semiconductor.
+1. Conductor: The materials through which electric current can flow very easily are called conductors. Electrons can flow freely within these materials. In metal wires the charges are carried by electrons. So, the metallic materials are good conductors of electricity. Copper, silver, aluminium etc. are good conductors. Due to this reason, metallic wires are used as electric connectors.
+2. Insulator: The materials through which electric current cannot flow are called insulators. Therefore, the materials where electrons are not free to move about are the
+
+
+insulators. For example: Plastic, rubber, wood, glass etc. There are no free electrons inside insulating materials. Electrons do not flow easily through plastic type materials. As a result plastics are insulator for electricity. Due to this, the handles of screwdrivers and pliers used by electricians are covered with plastic type materials. In addition, the copper wires which we use in our daily needs are covered with plastic.
+3. Semiconductor: The materials whose current conduction capacity lies between that of conductors and insulators in normal temperature are called semiconductors. For example- germanium, silicon etc. The current conduction capacity of semiconductor can be increased by adding suitable impurities.
+11.5 Relationship between potential difference and electric current- Ohm's law
+We know, if there is a potential difference between the two terminals of a conductor, current flows through it. The quantity of this electric current depends on the potential difference between the two ends of the conductor, the conductor itself and the temperature of it. George Simon Ohm has discovered the law regarding the relationship between the electric current that flows in a conductor and the potential difference between the two terminals of it- which is known as Ohm's law.
+Ohm's law
+The current passing through a conductor at constant temperature is directly proportional to the potential difference between the two ends of the conductor.
+By proportionality it means- if the potential difference between the two ends is doubled, the current flowing through the conductor will be doubled. Again, if the potential difference between the two terminals is made one third, the current passing through the conductor will be one third.
+Assume AB is a conducting wire. The potential of its two terminals are VA and VB [Figure 11.3] respectively. If VA ? VB, The potential difference between the two terminals of the conductor will be V = VA - VB.
+
+Figure: 11.3
+Now at constant temperature, if the current passing through the conductor is I, then according to ohm's law,
+I ? V
+
+==> V ? R I
+
+= constant
+
+This constant is called the resistance of the conductor at that temperature.
+V
+
+Fig: 11.14
+
+or, I ?
+R
+Graph of V-I is shown in fig. 11.4
+
+
+Mathematical Example11.1: A current of 4 A is flowing through the filament of the headlight of a motor car. If the potential difference between the two ends of the filament is 12 V, what is the resistance of it?
+
+We know
+I ? V
+R
+V
+
+Here,
+Electric current, I = 4 A Potential difference, V = 12 V Resistance, R =?
+
+or, R ?
+I
+? 12V
+4 A
+= 3 ?
+Answer: 3 ?.
+11.6 Resistance: Fixed and variable resistance
+We know electric current is the flow of electrons. When the electrons move within the bulk of a conductor, they collide with the atoms and molecules of the conductor. Due to this their motion is resisted and electric current is obstructed. This property of a conductor is called resistance.
+At particular temperature,
+Resistance, R ? V
+I
+Potential difference of two ends Electric current
+The SI unit for resistance is ohm. It is expressed by the capital letter omega (?).
+1 ? is the resistance of a conductor through which a current of 1A flows when a potential difference of 1 V is applied across it.
+Resistors: A resistor is a conductor used in a circuit that has a known value of resistance. The main objective of using resistors is to control the quantity of the current flowing in a circuit. There are two types of resistors that are used in a circuit. These are:
+1. Fixed resistors
+2. Variable resistors
+1. Fixed resistors: The fixed resistors are those who have fixed values of resistance. The fixed resistors that are generally used in laboratory are shown in figure 11.5.
+Figure: 11.5
+
+
+2. Variable resistors: The variable resistors are those whose value of the resistance can be changed according to the necessity. These are called rheostat too. A rheostat is included in a circuit to vary the current flowing through it. Figure 11.6 shows a rheostat commonly used in the laboratories.
+11.7 Electromotive force and potential difference Electromotive force
+Electrical energy is needed to produce electric current in a circuit. The electromotive force of an electrical energy source is defined as the work done by the source or the energy spent by the source in driving a unit positive charge from one point of the circuit to the same point by traversing the complete circuit along with the source.
+If the work done is W J in bringing Q C of charge in a complete circuit, then the work
+done in bringing 1 C of charge is W . Therefore the electromotive force of the source
+Q
+
+
+is,
+
+E ? W
+Q
+
+Unit: The SI unit of electromotive force is JC-1 or volt (V).
+The devices which can transform some other forms of energy into electrical energy they only have electromotive force. For example: cell, generator, etc. An electric cell converts chemical energy into electrical energy and a generator coverts mechanical energy into electrical energy. The electromotive force of a cell is the sum of the potential differences which develops in different parts of the circuit along with the cell.
+Potential difference:
+The electricity flows through a conductor due to the potential difference between the two terminals. The potential difference between any two points is defined as the amount of work done to carry unit positive charge from one point to another of a circuit. When a dry cell is used in a torch, the electrical energy provided by the dry cell is converted into light and heat energy. The conservation of energy is maintained in this process of transformation of energy. The amount of energy converted across the light bulb for migration of unit positive charge is the potential difference between the two terminals of the bulb. Therefore, the potential difference between the two points of a circuit is defined as the amount of electrical energy converted to other forms of energy (e.g. - heat, light) when unit positive charge migrates between the two points. If W is the amount of electrical energy converted to other forms for migration of Q amount of charge, then the potential difference between the two points is
+
+
+V ? W
+Q
+The SI unit for potential difference is the same as that for electromotive force. That is volt (V). The potential difference between the two points will be 1 V if 1 J of electrical energy is converted to other forms when 1C positive charge flows between the two points.
+
+The voltmeter reading is the potential difference between the two ends of the bulb or of resistance during the current flow. Now compare the values of the measured electromotive force and potential difference. You will observe that the value of E is larger than that of V.
+11.8 Dependence of resistance
+We know, when temperature and other physical conditions (e.g. - length, cross section, area) remain the same, the resistance of a conductor is a constant. The resistance of a conductor depends on four factors.
+1. Length of the conductor.
+2. Cross sectional area of the conductor.
+3. Materials of the conductor and.
+4. Temperature of the conductor.
+We know, if the temperature remains constant, the resistance of a conductor depends only on its length, area of cross section and the material of the conductor. This dependence of resistance is expressed by two laws.
+Figure 11.7 shows two conducting wires P and Q with the same cross sectional area and made of the same material. The length of wire P is longer than that of Q. Its resistance is greater as it is longer.
+
+Figure: 11.7
+Law of length: The resistance of a conductor is directly proportional to its length when
+the cross sectional area, material and temperature of the conductor remain the same.
+If the length of the conductor is L, area of cross section is A, and its resistance is R, then according to this law,
+
+
+R ? L , when temperature, material and A is constant.	(11.1)
+
+Figure: 11.8
+Figure 11.8 shows two conducting wires S and T with the same length and made of the same material. The area of cross section of wire S is bigger than the area of cross section of wire T. Larger the area of cross section of a wire, the lower its resistance.
+Law of cross section: The resistance of a conductor is inversely proportional to its cross
+sectional area when the length, material and temperature of the conductor remain the same.
+
+That is, R ? 1
+
+, when temperature, material and L is constant	(11.2)
+
+11.9 Resistivity and Conductivity
+At constant temperature, the resistance of a conductor of particular material varies proportionately with the length and inversely with the area of cross section. Therefore, we get from the laws of resistance,
+
+R ? L
+A
+
+when temperature and material remain the same.
+
+or, R =? L
+
+(11.3)
+
+Here ? is a constant, the value of which depends on the material of the conductor and its temperature. This constant is called the resistivity or specific resistance of the material at that temperature.
+In equation (11.3), if L=1 unit, A=1 unit, then, ? ? R .
+Therefore, at a particular temperature, the resistance of a conductor of unit length and unit cross sectional area is called the specific resistance of that material at that temperature.
+At a certain temperature, the resistance of a conductor depends on its physical conditions (e.g. length, cross section etc.). But the resistivity of a conductor depends only on its material.
+Unit of specific resistance: Rewriting equation (11.3) we can write,
+
+? = R A
+
+(11.4)
+
+Substituting the units of the quantities on the right side of the equation, the unit of ? is
+? m2 ? ?
+m
+m
+
+
+Significance: The resistivity of silver at 20 ?C is 1.6×10-8 ? m. Therefore, the resistance of a silver wire of length 1m and cross sectional area of 1m2 is 1.6×10-8 ?. Table shows the values of the resistivity of some common materials.
+Table 11.2 Resistivities of different materials
+
+MaterialResistivity (? m)Silver1.6×10-8Copper1.7×10-8Tungsten5.5×10-8Nichrome100×10-8From the table above we see that the materials with lower resistivities are good conductors of electricity. For example- copper is much better conductor of electricity than nichrome. Due to this, copper is widely used as connecting wires in electrical circuits.
+Besides, materials with higher resistivities also have multiple uses. One example is the nichrome wire. The resistivity and melting point of nichrome is much higher than that of copper. Due to the high resistivity of nichrome, a lot of thermal energy is produced when a current flows through it. This property of nichrome causes water to boil very quickly in electric kettle. The filament of electric bulbs that are used in our houses is made of tungsten. Tungsten can convert electrical energy to light and thermal energy owing to its high resistivity and melting point.
+Conductivity
+The reciprocal quantity of resistance is called conductance. Like that, the reciprocal quantity of specific resistance is called conductivity. Conductivity is expressed by the letter ?. The value of ? depends on the type of material of the conductor and its temperature.
+Say, the specific resistance of the material of a conductor = ?
+Therefore, the conductivity of its material is ? ? 1
+?
+As unit of ? is ? m, Therefore, the unit of ? is (? m)-1.
+Mathematics Example 11.2: The specific resistance of the nichrome wire used in an electrical heater is 100 × 10-8 ? m. What will be the resistance of 15 m long wire having cross sectional area 2.0 × 10-7 m2?
+We know,
+
+R ? ? L
+A
+(100 ?10?8 ? m)(15 m)
+
+Here,
+Specific resistance, ? =100 ×10-8 ? m Cross sectional area, A = 2.0×10-7 m2
+
+=
+= 75 ?
+
+2.0 ?10?7 m2
+
+Length of the wire, L = 15 m Resistance, R =?
+
+Answer: Resistance 75 ? |
+
+
+11.10 Making series and parallel circuits and their uses
+
+
+
+
+
+
+
+
+
+
+Figure: 11.9
+Series circuit
+The circuit in which the electric components are connected one after another in a single loop is called a series circuit. By arranging a cell E, two bulbs B1 and B2 one after another a series circuit is formed in figure 11.9. As there is a single path in the circuit, the same current will flow throughout the whole circuit. Now if the ammeter is connected at the points A, B or C, the value of the electric current will found to be the same.
+The little bulbs that are used for decoration purpose in wedding ceremony or in different programs are connected in series. We increase the voltage by connecting more than one battery in series in a torch light. The ammeter is connected in series to measure the electric current in a circuit.
+Parallel circuit
+The circuit in which the electric components are arranged in such a way that one terminal of all the components are joined at a common point and the other terminal are joined at another common point then this circuit is called a parallel circuit.
+In figure 11.10 one end of the bulbs B1 and B2 are connected at the point and the other
+end at the point b and so formed a parallel circuit. In a parallel circuit there are alternative paths for the current to flow.
+Figure: 11.3
+
+
+Say, the total current in the circuit is I which splits into two parts I1 and I2 at the junction
+a. Let I1 and I2 are the currents flowing through the bulbs B1 and B2 respectively. At the junction b the currents I1 and I2 recombine to form the current I again. If the current at the points P, Q and R is measured by an ammeter, then it will be found that
+I ? I1 ? I2
+Here, total current of the circuit ? I
+i.e. in a parallel circuit, the sum of the individual currents flowing through each of the parallel branches is equal to the total current.
+The electrical appliances such as- light, fan etc. which we use in houses or offices is connected in parallel to the AC mains. Each of the appliances gets the same voltage supply due to parallel connection. But they get different amounts of current.
+11.11 Equivalent resistance and its uses in circuit
+Sometimes several resistances are connected together for different purposes. Connection of more than one resistance together is called combination of resistances.
+Equivalent resistance: If a single resistance is used instead of combination of resistances and if the current and potential difference is not changed in the circuit, then that resistance is called the equivalent resistance of the combination.
+Combination of resistances is of two types, e.g. - series combination and parallel combination.
+Series combination of resistances
+Figure shows resistors R1, R2 and R3 are connected in series. The resistances are connected one after another successively. In this case, the same current I is flowing through each of the resistors. Now we shall calculate the equivalent resistance of these three resistances those are connected in series.
+Figure: 11.11
+From Ohm's law we get,
+
+The potential difference across resistance R1,
+
+V1 ? IR1
+
+The potential difference across resistance R2, V2 ? IR2
+The potential difference across resistance R3, V3 ? IR3
+If V is the potential difference between the two terminals of all the resistors, i.e. the potential difference across the combination,
+? V ? V1 ?V2 ? V3
+= IR1 ? IR2 ? IR3
+
+
+
+? I (R1 ? R2 ? R3 )
+
+(11.5)
+
+Now if three resistances R1, R2 and R3 are replaced by a single resistance RS , so that same current I flows through the circuit and the potential difference V across them remains unchanged, then RS is the equivalent resistance of the combination.
+In case of equivalent resistance, V = IRs	(11.6) Comparing equations we get,
+IRS ? I (R1 ? R2 ? R3 )
+RS ? R1 ? R2 ? R3
+If instead of three resistances, n number of resistances are connected in series then
+equivalent resistance Rs will be
+RS ? R1 ? R2 ? R3 ? ... ? Rn
+Therefore, the equivalent resistance of resistors connected is series is equal to the sum of the different resistances included in the combination. The value of the equivalent resistance in series combination is greater than that of individual resistances.
+Parallel combination of resistances
+When several resistances are connected in such a way that one terminal of all the resistances are joined at a common point A and the other terminals are joined at another common point B and potential difference across each of the resistors remains the same, then this combination of resistances are called parallel combination of resistances.
+
+
+
+
+
+
+Fig. 11.12
+Three resistors R1, R2 and R3 are connected in a parallel combination. In this case, same potential difference V is maintained across the two terminals of the three resistors. Different amount of current is flowing through each of the resistors owing to their different values. The main current I of the circuit splits into three parts at the junction a and later recombine at the point b. Let I1, I2 and I3 are the currents flowing through the resistances R1, R2 and R3 respectively. Therefore, sum of the currents I1, I2 and I3 of
+parallel paths is equal to the current I at the junction a. Therefore,
+I = I1 + I2 + I3	(11.7)
+Here, the potential difference between the two terminals being V, applying Ohm's law we get,
+
+
+
+I ? V ,
+1
+
+I ? V
+2
+
+V
+and I3
+3
+
+Substituting the values of I1, I2 and I3 in equation (11.7) we get,
+I ? V ? V ? V R1	R2	R3
+
+? V ( 1 ? 1
+R1	R2
+
+? 1 )
+R3
+
+(11.8)
+
+Now if three resistances R1, R2 and R3 are replaced by a single resistance RP, so that same current I flows through the circuit and the potential difference V across them remains unchanged, then RP is the equivalent resistance of the combination.
+
+?	I ? V RP
+
+(11.9)
+
+Comparing equations (11.8) I (11.9) we get,
+
+V	? V ( 1 ? 1
+RP	R1	R2
+1  ? ( 1 ? 1
+
+? 1 )
+R3
+? 1 )
+
+RP	R1	R2	R3
+If instead of three resistances, n numbers of resistances are connected in parallel then the equivalent resistance RP can be expressed as
+
+1	? 1 ? 1
+RP	R1	R2
+
+? 1 ? ... ? 1
+R3	Rn
+
+(11.10)
+
+That is, resistances connected in parallel combination, the sum of the inverse of the individual resistances is equal to the inverse of the equivalent resistance.
+Mathematical Example 11.3: If two resistances of values 5 ? and10 ? are connected in series and parallel combination separately, calculate the equivalent resistance in both cases.
+We know,
+RS ? R1 ? R2
+= 5 ? + 10 ?
+= 15 ?
+Again,
+
+1 ? 1 ?
+RP	R1
+1 ? 1 ?
+RP	5?
+
+1
+
+
+R2
+1
+
+
+10?
+
+
+= 2 ?1 ??1 10
+= 3 ??1
+10
+RP = 3.33 ?
+Answer: RS = 15 ? and RP = 3.33 ?
+11.12 Electric power
+When a potential difference is applied between the two terminals of a conductor, an electric current is set up. Due to this, work is done and the electrons acquire energy. This electrical energy may be transformed into different forms of energy (e.g.- heat, light, mechanical energy etc.) according to the nature of the circuit.
+
+Figure 11.13
+Say, AB is a conductor of resistance R and Q amount of charge is flowing through it. The potential difference between the points A and B is V. We know, if the potential difference between the two terminals of a conductor is 1 volt and 1 coulomb charge flows through it, then the amount of work done or energy spent is 1joule. Now, if Q coulomb charge flows through the conductor, the amount of work done = VQ joule.
+Therefore, energy spent or the amount of energy converted is
+W ? VQ
+
+Again, electric current,
+
+I ? Q
+t
+or, Q ? It
+? W ? VIt
+
+
+
+
+(11.11)
+
+Using ohm's law this relationship can be expressed as below,
+
+?
+Electric power
+
+2
+W ? VIt ? I Rt ?	t
+R
+
+
+Joule	(11.12)
+
+The electric appliances which we use in houses or in offices are generally marked with the voltage by which it runs and the electric power in watt. We know the rate of work done or the rate of energy conversion is called power. Therefore, the rate at which energy is converted into other forms in an electric device is its power.
+
+Therefore, power = Work done
+? P ? W
+t
+
+energy converted time
+
+
+
+(11.13)
+
+
+
+Substituting the value of W from equation (11.11) we get,
+P ? VI
+Applying Ohm's law P can be expressed in terms of V, I and R as below-
+2	V 2
+
+
+(11.14)
+
+P ? VI ? I R ?	(11.15)
+R
+We know the unit of power is watt (W). In the calculations of electric energy generally kW, MW etc. are used instead of watt. 1 kW=103 W and 1 MW=106 W.
+The power of some of the electric appliances which we use in our houses is mentioned below. The power of an electric bulb is generally 40, 60 and 100 W. The power of an electric fan is found to 65-75 W commonly. Power of a television is generally 60-70 W. The energy saving bulbs which we use now-a-days has power of 11-30 W.
+Besides this, we use refrigerator, heater, iron etc. in houses- their power is more. So, it is commended not to use these appliances during peak hour.
+Calculation of electrical energy spent
+We have to pay for the electrical energy we utilize in our houses, shops, mills and factories. There is an electricity meter in the houses those use electricity, which maintain the accounts of spent electrical energy. Throughout the world, the electricity supply authority measures the amount of electrical energy consumed in units of kilowatt-hour (kWh). We call this kilowatt-hour unit as 'board of trade' unit or in brief 'unit'. From the difference of the readings of two times in the electricity meter, we get the amount of consumed electric power during this period.
+Since power, P = Work done = Converted energy
+
+time
+? W
+t
+
+time
+
+?  W ? Pt
+If P=1 kW and t =1h, then W=1 kW×1h=1 kWh.
+Therefore, the amount of electrical energy converted or spent when an electric device of 1 kilowatt power works for 1 hour is called 1 kilowatt-hour or 1 unit.
+1 kWh = 3.6× 106 J
+When power is expressed in watt and time in hour, the amount of electrical energy consumed can be expressed as:
+W ? Pt Wh
+Dividing this by 1000, the electricity consumed is found to be in kWh.
+
+
+
+Example 11.4: On the body of an electric bulb 100 W-220 V is written. What is its
+filament resistance? What amount of electricity will flow through it? We know,
+V 2	Here,
+P	R	Potential difference, V = 220 V
+Power, P = 100 W
+V 2	Resistance, R =?
+P	Electric current, I =?
+220 V × 220 V
+100 W
+= 484 ?
+Again, P ? VI
+I ? P
+V
+ 100 W 220 V
+= 0.455 A
+Answer: 484 ? and 0.455 A
+11.13 System loss and load shedding
+We know, electrical energy is produced in power stations situated at different places. The electricity thus generated has to be transmitted at different places according to the demand. The electrical energy produced is transmitted to the different substations situated at different places by the electricity transmission system. Then from different
+substations this electrical energy is distributed to the consumers by electricity distribution system again.
+In the power station the electrical energy is generated at low voltage. Then this low voltage is transformed into high voltage by the step-up transformer. The conducting wires which are used for electricity transmission have a definite amount of resistance. As a result, to overcome this resistance, part of the electrical energy is converted to heat. That is, a loss or decay of energy occurs. This loss of energy is termed as system loss. Due to the transmission of electricity at high voltage, the loss that occurs due to the power grid or of conductor is decreased to a great extent. For a definite amount of electrical energy, the value of the electric current becomes lower due to high voltage transmission. As an example- if the transmission line voltage is increased by ten times, then the electric current becomes one tenth. As a result, the i2R loss of the power grid becomes one hundredth. Therefore, by increasing the transmission line voltage we can lower the system loss.
+
+
+Load shedding
+Each of the power stations generates a definite amount of electric power. The electricity generated by all the power stations is added in the national power grid. According to the demand of different locality power sub-stations collect electricity from the national grid. Then the power sub-station delivers or distributes the electricity to the consumer level.
+When in a particular area, the demand of electricity exceeds the supply or generation; the power sub-station can no longer fulfill the demand of electricity. Then the sub-station authority is forced to switch off or to disconnect the power distribution for a while in some parts of the distribution network. This is called load shedding. When the sub- station gets the supply according to its demand, then it distributes electricity in that region again.
+If the load shedding takes place for a couple of hours continuously, authority load sheds circularly in different area to make load shedding tolerable at the consumer level.
+11.14 Safe and effective use of electricity Dangers of electricity
+Electricity plays a very important role in our daily lives. Though electricity is very useful to us, it can also be very dangerous in the careless uses. Any type of faults in electrical appliances or circuits can cause fires and electric shocks. Due to the passage of electricity through the body there is a risk of death of people.
+Uses of electricity can be dangerous due to three reasons described below.
+1. Damaged insulation
+2. Overheating of the cables
+3. Damped conditions
+1. Damaged insulation:
+The electrical appliances work when these are connected to the voltage source by two conducting wires to complete the circuit. These two wires are called live and neutral wire. These conducting wires are usually insulated with rubber. Then they are wound together to form a cable and enclosed by PVC or rubber.
+These insulating materials become worn with time and use. For example- the electrical cables of the electric iron which we use in home get bent and twisted because of the way they are used. This might cause the electrical insulation to crack and break. As a result, the conducting wires inside is exposed. If by any means a person comes into contact with the exposed live wire, it may cause severe electric shock to the user. If the live and neural wires come into mutual contact due to the damaged insulation, a short circuit will happen and may cause a fire.
+2. Overheating of the cables: Overheating of cables occur when unusually large current flows through the electric cables or conducting wires. For example- an unusual
+
+
+large current flows, when an electric fan motor overheats and melts, as a result the live and neutral wire is fused together. Besides this, we make connection of too many electrical devices in a wall socket by using a multi-plug. Due to this, the conducting wire connected to the socket draws more current from the main line than the current which the conducting wire can draw safely. As a result, the cable wire is overheated, insulation is melted and causes fire.
+3. Damped conditions: Many electrical accidents may occur in damped conditions. We know, electricity can pass through water. The parts of an electric appliance which are not insulated must be kept dry. Otherwise, there is a risk of short circuits and electric shocks. As an example, leaving a hair dryer on a wet sink is very dangerous. The person using the sink could be electrocuted if the wires were exposed or the insulation had damaged. Besides this, switching on or off of
+
+an electric switch by wet hand is risky.
+Safe use of electricity
+
+Figure: 11.14
+
+In the previous section you were informed about the dangers of electricity. In the present section, we will learn about the safe uses of electricity.
+When using electricity at home, the safety measures that are needed:
+1. Circuit breaker
+2. Fuses
+3. Correct connection of switch
+4. Earth wire
+1. Circuit breaker
+Circuit breakers are used as safety devices. Generally this is placed near the front door of a house. Circuit breaker switches off the electrical supply in a circuit when there is an overflow of current. Circuit breaker disconnects the electrical supply in a definite part of the house. Without circuit breaker in a circuit, this excessive current can cause damage of home appliances or even start a fire.
+2. Fuses: A fuse is a safety device. A fuse is included in an electrical circuit to prevent excessive current flow. The fuse is always connected to the live wire of electrical cables. A short thin piece of wire is used as a fuse. The fuse becomes hot and melts when the electric current flowing through it is greater than a definite value. As a result, the circuit is disconnected and the electrical appliances will be safe. The fuse is marked with definite amount of current on its body. Fuses will be such that it can bring slightly higher current than the maximum current an electrical device or appliance can tolerate safely. If the fuse burns, the appliance will not be electrified any more. Before changing fuse, you have to switch off the mains of electricity supply.
+
+
+3. Correct connection of switch: A switch breaks or completes an electrical circuit. During switch connection in a circuit, an important precaution is that the switch must be fitted onto the live wire. For this, switching off will disconnect the high voltage source from the appliance instantly [Figure 11.15]. If the switch is fitted onto the neutral wire wrongly, the electric appliance will be 'live' even if the switch is 'off' [Figure 11.16] and increase the risk of electric shock.
+Figure 11.15 and 11.16
+4. Earth wire: All electrical appliances or devices need at least two wires to form a complete circuit. These are the live (L) and neutral (N) wire. The live wire delivers the electrical energy to the appliance. On the contrary, the current returns back to the supply through the neutral wire and complete the circuit. The potential of neutral wire is zero. The earth wire is a low-resistance wire. It is usually connected to the metallic casing of the appliance. The circuit may be faulty from different reasons. If the live wire is not properly connected and it touches the metal casing of the appliance- the user may be electrocuted from an electric shock. Earthing of the casing prevents this from happening. In this case, the large current will flow from the live wire to the earth through the metal casing. As a result, the fuse will blow out and cut off the electric supply to the appliance. It is strongly recommended to provide an earthing to the refrigerator in houses for safe use of it. Figure 11.17 demonstrates how a washing machine without earthing may be risky. How earth wire works as a safety precaution is demonstrated in figure 11.18.
+
+Figure 11.17 and 11.18
+
+
+
+
+Figure: 11.18
+In addition, three-pin plugs are used in many portable devices. Fuses are connected in these plugs as safety measures. Fuse keeps the device safe.
+Investigation-11.1
+To design an electric circuit suitable for home and demonstration of its uses.
+Objectives: The learners will design an electric circuit suitable for home and demonstrate the uses of AC source in different parts of it.
+Procedure:
+1. Draw the live (L) and neutral (N) wire of the electric cable at the beginning.
+2. Now connect this two wires to main fuse box, electricity meter and distribution box one after another.
+3. Draw main switch in the distribution box.
+4. Now draw two fuses in the distribution box. The fuses must be connected to the live
+(L) wire.
+5. Connect two lamps and a fan with the fuse in parallel and complete the circuit. Draw switch on the L wire for each of the lamp and fan.
+6. Give connection to different power sockets for television set, electric iron etc. using the other fuse.
+
+
+
+Exercise
+A. Multiple choice questions
+Tick (? ) the correct answer.
+1. What are the materials through which electric current can flow very easily?
+a. insulator	b. bad conductor
+c. semiconductor	d. conductor
+2. If three resistances of values 2 ?, 3 ? and 4 ? are connected in series, then what will be the equivalent resistance?
+a. 8 ?	(b) 7 ?
+c. 9 ?	(d) 20 ?
+3. The potential difference between the two terminals of a conductor is 100 V. If the amount of current flowing through it is 10 A, what will be its resistance?
+a. 1000 ?	b. 0.1 ?
+c. 10 ?	d. none of them
+4. The electrical condition of a circuit is measure by-
+i. Voltmeter
+ii. Ammeter
+ iii. Generator Which one is correct?
+a. i and ii	(b) i and iii
+c. ii and iii	(d) i, ii and iii
+B. Creative questions
+1. The length and cross-sectional area of nichrome wire used in an electrical heater, is 30 m and 2 × 10-7 m2 respectively. The resistivity of nichrome is 100 × 10-8 ? m. The nichrome wire is replaced by a copper wire of identical length and cross- sectional area. The resistivity of copper is 1.7 × 10-8 ? m.
+a. What is resistance?
+b. Why the resistance of conductor increases with increasing temperature.
+c. Determine the resistance of copper wire.
+d. Analyze the logic of using copper wire.
+
+
+2. Alvi uses a bulb of 220V-100W during his study for 3 hours daily. On the contrary his brother Alif uses a table lamp of 220V-40W for 4 hours daily. The cost of each unit of electrical energy is 3.5 taka.
+a. Write down the Ohm's law.
+b. Explain, what will be the change in resistance of a conductor if the length is increased by 5 times provided that the temperature, material and area of cross- section remain unchanged?
+c. Determine the current of the lamp used by Alif.
+d. Who is economical between Alvi and Alif considering money? Analyze with mathematical arguments.
+C. General questions
+1. What is electric current?
+2. What are directions of the conventional current flow and electron flow?
+3. What are conductor, insulator and semiconductor material?
+4. State the Ohm's law.
+5. Show that, V=IR.
+6. Plot a graph of I versus V in a graph paper.
+7. Define specific resistance.
+8. Show that, the value of the equivalent resistance of resistors connected in series is equal to the sum of the different resistances included in the combination.
+9. What are the causes of using electrical energy can be dangerous?
+10. 	A current of 2.5 A is flowing through the filament of the headlight of a motor car. If the potential difference between the two ends of the filament is 12 V, what is the resistance?
+11. The electromotive force of a dry cell is 1.5 V. What is the energy spent by the cell in driving 0.5 C of charge round the circuit.
+12. What are fixed and variable resistors?
+13. What do you understand by electromotive force and potential difference?
+
+
+
+
+
+

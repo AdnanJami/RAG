@@ -1,0 +1,456 @@
+
+
+Chapter nine
+REFRACTION OF LIGHT
+
+
+[A straight stick appears to be bent when it is obliquely immersed partly in water. If we look directly to the bottom of a jug full of transparent water its bottom seems to be raised up. Of course we observe these phenomena in our everyday life. These events results from a special property of light called refraction. A special event of refraction is total internal reflection. Mirage is formed in the desert, diamond looks bright and information signals are sent through optical fiber because of total internal reflection of light. Many of us use spectacles to remove the defects of eyes. The glass of the spectacle is a lens. We will discuss all these phenomena in this chapter.]
+By the end of this chapter we will be able to -
+1. Explain the laws of refraction
+2. Explain the refractive index
+3. Explain the total internal reflection
+4. Explain the use of optical fiber
+5. Explain the lens and its classification
+6. Describe the different quantities of lens by drawing ray diagram
+7. Describe the image formed by the lens by drawing ray diagram
+8. Describe the power of lens
+9. Describe the function of eyes by drawing ray diagram
+10. Describe least distance of distinct vision
+11. Describe the defects of eyes
+12. Describe the uses of lens to remedy the defects of eye by drawing ray diagram
+13. Explain the perception of coloured objects
+14. Describe the uses of refraction of light in our everyday life
+
+
+9.1 Refraction of light:
+Look at figure 9.1. here two media, air and glass are shown. Coming from air medium following the path AB, light ray incidents at point B of the separation surface PQ of two media. If the light ray goes straight it will follow the path BC' but it changes its path and follows BC. This phenomenon of bending of ray of light is called refraction. Therefore, when the ray of light travels obliquely from one transparent medium to another, the bending of ray of light at the surface of separation of the two media is called the refraction of light.
+Fig-9.1	Fig - 9.2
+
+In figure 9.1 the incident ray is AB, the refracted ray is BC and NBN' is the normal drawn at point B on PQ. ? ABN is called the angle of incidence i and ? N'BC is called the angle of refraction r.
+Since the velocity of light differs from medium to medium, during the change of medium refraction takes place. When ray of light enters from a rarer medium (air) to a denser medium (glass) the refracted ray bends towards the normal i.e. in this case i>r again when it enters from a denser medium to a rarer medium it goes away from the normal i.e. in this case r>i.
+
+The point O has raised at point O'. This happens because of refraction of light. The ray of light coming from O enters the rarer medium from denser medium. As a result the refracted ray goes away from the normal. If the refracted ray is extended backward it appears to come from O'. Here the point O' is the virtual image of the point O. If we look directly at the point O it seems to be raised at point O' (fig: 9.3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+Laws of refraction of light:
+
+
+Fig:9.3
+
+We have already noticed that in the fig: 9.1 (here fig: 9.4) AB is the incident ray, BC is the refracted ray and NBN? is the normal drawn at B on PQ. ? ABN is the angle of incidence i and ? N?BC is the angle of refraction r.
+Now if the angle of incidence is increased the angle of refraction will also increase but the angle of refraction will not be proportional to the angle of incidence that is if the angle of incidence i is doubled the angle of refraction r will never be so. It is seen that if the angles of incidence are i1, i2, i3, ....... and their respective
+
+angles of refraction are r , r , r , .... then, sin i1
+
+= sin i2 =
+
+sin i3 = constant
+3
+
+1  2  3
+
+sin r1
+
+sin r2
+
+The value of this constant depends upon the nature of media and the colour of the light used. Again it is seen that AB, BC and the normal NBN? are on the plane of your book. From this observation we see that refraction of light follows the following two laws.
+First law: The incident ray, normal drawn at the point of incidence on the surface of separation and the refracted ray lie on the same plane.
+Second law: When light enters obliquely to a transparent medium from another transparent medium then for a fixed pair of media and for a fixed colour of light the ratio of the sine of the angle of incidence to the sine of the angle of refraction always remains constant.
+This law is also known as Snell's law.
+9.2 Refractive index
+For a particular pair of transparent medium and a particular colour of light when ray of light refracts from one medium to another, then if the angle of incidence is i and the
+
+angle of refraction is r, then  sin i
+
+will be a constant and it is called refractive index of
+
+the second medium with respect to the first medium for that colour of light. It is expressed by n.
+
+
+
+
+
+
+	
+Fig:9.5	Fig:9.6
+If the ray of light enters in the medium b from medium a then the refractive index of
+
+medium b with respect to a is (fig 9.5), anb =  sin i
+
+(9.1)
+
+The right subscript of n indicates the medium of which refractive index is and the left subscript of n indicates the medium with respect to which the refractive index is.
+Again when the ray of light enters obliquely to a medium from vacuum, then the refractive index of the medium with respect to vacuum is called absolute refractive index of the medium for that particular colour of light (fig:9.6). If the ray of light refracts into
+ sin i
+medium b from vacuum, then the absolute refractive index of medium b is nb = sin r .
+During expressing absolute refractive index of given medium nothing on left side of n is used as subscript and on right side of n the medium is written as subscript. For example, absolute refractive index of medium b is nb.
+When light passes from medium b to the medium a then according to the reversibility of ray of light (fig 9.5) CB will be the incident ray and BA will be the refracted ray, i.e. here the angle of incidence = r and the angle of refraction = i. Therefore the refractive index of medium a with respect to b will be [according to equation 9.1]
+
+bna = sin r
+
+= 	1	 =  1 
+
+(9.2)
+
+sin i
+
+sin i / sin r
+
+anb
+
+Bear in mind that the refractive index of medium a with respect to medium b is reciprocal of the refractive index of medium b with respect to medium a.
+bna =  1  and reversely anb =  1 
+anb	bna
+Again the refractive index can also be expressed in terms of velocity of light,
+velocity of light in medium a
+
+anb =
+
+And 0nb =
+
+
+velocity of light in medium b velocity of light in vacuum velocity of light in medium b
+
+
+The medium whose refractive index is greater, density of that medium is greater and velocity of light is less in it. On the other hand, the medium whose refractive index is less, density of that medium is less and velocity of light is greater in it.
+Mathematical example 9.1: When light refracts from air to water, the angle of incidence is 30° and angle of refraction is 19°. Find the refractive index of water with respect to air.
+
+We know,
+Sin i
+= n
+Sin r
+
+Given,
+Angle of incidence, i= 30° Angle of refraction, r= 19°
+
+Sin i
+anw =	Sin r =
+
+Sin 30°
+Sin 19°
+
+0.5
+=	0.325
+
+=1.538
+
+Refractive index of water with respect to air, anw =?
+
+Ans: Refractive index 1.538
+Mathematical example 9.2: The refractive index of water with respect to air is 1.33. What is the refractive index of air with respect to water?
+
+We know,
+
+Given,
+
+wna =
+=
+
+1
+anw
+1
+1.33
+
+
+= 0.75
+
+Refractive index of water with respect to air, anw = 1.33
+Refractive index of air with respect
+
+Ans: 0.75
+9.3 Critical angle and total internal reflection: Critical angle:
+
+to water, wna =?
+
+When ray of light passes from a denser medium to a rarer medium, then the refracted ray
+is deviated away from the normal. As a result the angle of refraction becomes greater than the angle of incidence.
+1. Suppose AB is the separating surface of glass and air. Glass is denser and air is rarer medium. P is a point in the glass medium. From P a ray of light PQ incidents at point Q of separating surface AB at a small angle. QR is the refracted ray in air [Fig: 9.7(a)]. In this case the angle of refraction ( ? NQR) will be greater than the angle of incidence ( ? PQN?).
+
+
+
+
+
+
+
+
+
+
+2. Now in denser medium if the angle of incidence gradually increases, the corresponding angle of refraction in rarer medium will also increase. In this way if the angle of incidence is increased finally for a definite angle of incidence ? P1QN? will be
+
+
+obtained [Fig: 9.7(b)] for which the refracted ray QR will pass along the separating surface AB, i.e. the angle of refraction will be ? NQR1=90°. In this situation the angle of incidence in the denser medium ( ? P1QN?) is called the critical angle with respect to the rarer medium. In fig: 9.7(b) ? P1QN? = ?c = critical angle. The value of this critical angle also depends on the nature of the medium and the colour of light.
+Total Internal Reflection:
+If the angle of incidence in denser medium is increased further (i > ?c), then the incident ray of light will be totally reflected in the denser medium. In this case no refracted ray can be observed. In this situation the separating surface of the two media behaves like a mirror. This phenomenon is called the total internal reflection.
+In fig: 9.7(c) the angle of incidence in denser medium ? P2QN? is greater than the critical angle ?c of the two media. For this reason the light ray P2Q incidents on separating surface AB and reflects along QR2 following the laws of reflection.
+Conditions for total internal reflection:
+i) The ray of light must incident from a denser medium at the surface of separation of a denser and a rarer medium.
+ii) The angle of incidence in the denser medium must be greater than the critical angle.
+9.4 Mirage
+Sometimes thirsty traveler in desert sees the inverted image of a distant tree and thinks there is water. When he comes close to the tree he realizes his mistake that there is no water. This happens due to total internal reflection of light. This very event is called mirage. The sandy surface of desert is rapidly heated by the tremendous heat coming from the sun. So, the layers of air in contact with the sandy surface become hot. As a result the lower layers become hot and lighter but the upper layers are comparatively colder and denser. The ray of light coming from the tree enters continuously into rarer medium from denser medium. As a result the refracted ray continues to go away from the normal. In a certain moment the ray of light incidents on a layer at an angle which is greater than the critical angle and total internal reflection occurs. At that time the upside down image is seen (fig 9.8) and we call it mirage.
+
+
+9.5 Optical Fiber
+Optical fiber is made of very long thin flexible but solid glass or plastic fiber. The refractive index of the material of fiber is 1.7. A layer is made on this fiber by a material of comparatively less refractive index (1.5). When light ray that incidents at a small angle enters through one end of the fiber, then successive total internal reflections of light take place on the wall of the fiber and finally it emerges through the other end.
+Light can be sent through the fiber almost without any loss of energy even if it is bent or coiled. A set of optical fiber is called optical tube.
+Uses of optical fiber in the field of health and telecommunication:
+An optical tube is passed through the mouth to stomach in order to examine the inner wall of the stomach of any patient. A set of optical fiber of this optical tube is sent to lighten the stomach and the other set helps to see the lightened portion of stomach from the outside. This process is known as endoscopy. In this way by sending optical tube the block inside the artery, vein and function of valves of heart can be observed. Optical fiber is used for sending or receiving electrical signals from one place to another. Before sending, the electrical signal has to be converted into optical signal.
+Near about 2000 telephone signals can be transmitted at a time through a single optical fiber. Almost no change takes place to the intensity of the signals for this kind of transmission. The use of optical fiber at present has brought about a significant change in communication system.
+9.6 Lenses and their Classification:
+A lens is a transparent refractive medium bounded by two spherical surfaces.
+Lenses are of two types:
+i) Convex lens or converging lens
+ii) Concave lens or diverging lens
+Convex lens: The lens whose mid portion is thick but the edges are thin is called convex lens. As the convex lens can converge a beam of parallel light
+
+rays after refraction hence it is also called converging lens. [ Fig. 9.10A]
+
+
+Figure: 9.10
+
+Concave lens: The lens whose mid portion is thin but the edges are thick is called concave lens. As the concave lens can diverge a beam of parallel light rays after refraction hence it is also called diverging lens. [Fig. 9.10 B]
+
+
+9.7 Few definitions related to lens:
+Centre of curvature: Both surfaces of a lens are parts of different spheres. The centre of each sphere is called the centre of curvature of the respective surface. In figure: 9.11 C1 and C2 are two centres of curvature of the lens LN. If one of the surfaces is plane instead of spherical then its centre of curvature will be at infinity.
+Principal axis: Generally there are two spherical surfaces of a lens. The straight line passing through the two centres of curvature of the two spherical surfaces is called the principal axis. In figure 9.11 the straight line C1C2 is the principal axis of the lens.
+Figure: 9.11
+Optical centre: The point on the principal axis inside a lens through which if a ray of light is passed then due to refraction if the ray emerges from the other surface being parallel to the incident ray then it is called optical centre.
+In figure 9.12 a ray of light PQ incidents on a surface of lens and refracts along the path QR. This ray emerges from the other surface along the path RS. The emergent ray RS and incident ray PQ are parallel to each other. The refracted ray QR intersects the principal axis C1C2 at point O inside the lens. The point O is called the optical centre of the lens.
+Figure: 9.12
+For a thin lens the point on the principal axis through which if the ray of light is passed and due to refraction no deviation of ray takes place that point inside the lens is called optical centre.
+Principal focus: When a pencil of parallel rays adjacent to the principal axis incident on a lens in a direction parallel to principal axis, then after refraction the refracted rays either actually converge to a point on the principal axis (in the case of convex lens) or they appear to diverge from a point on the principal axis (in the case of concave lens). This point on the principal axis is called the principal focus of the lens. In figure 9.13 the point F is the principal focus of the lens.
+
+
+Focal length: The distance of the principal focus from the optical centre of a lens is called the focal length of the lens. Focal length is expressed by f. In the figure 9.13 OF is the focal length of the lens.
+Figure: 9.13
+Focal plane: The imaginary plane at the principal focus perpendicular to the principal
+axis is called focal plane of the lens. In the figure 9.14 ABCD is the focal plane of the lens.
+
+Figure: 9.14
+Rules of drawing ray diagram in lens:
+1. Rays of light incident in a direction through the optical centre of a lens is refracted along the same straight line without any deviation (Fig: 9.15 A and B)
+2. Rays incident in a direction parallel to the principal axis after refraction passes through the principal focus (in the case of a convex lens) [9.15 (C) ] or appear to diverge from the principal focus (in the case of a concave lens) [9.15 (D)].
+3. A ray of light incidents through the principal focus (in the case of a convex lens) [9.15 (E)] or directed towards the principal focus (in the case of concave lens) [9.15 (F)] after refraction through the lens becomes parallel to the principal axis.
+Figure: 9.15
+
+
+Image of an extended object Convex Lens:
+Suppose LOL1 is a convex lens. FOF? is its principal axis, O is its optical centre and F is
+its principal focus. An extended object PQ is placed perpendicularly on the principal axis
+in front of the lens at a point between f and 2f. The image of the object PQ is to be drawn.
+A ray of light PR coming from P parallel to the principal axis incidents at R and is refracted through the principal focus F along the path RFP1. Another ray PO from P passes through the optical centre O and is refracted along the path OP1. The refracted rays RFP1 and OP1 meet at point P1. So, P1 is the real image of point P. From point P1 a perpendicular P1Q1 is drawn on the principal axis. So, P1Q1 is the real image of PQ. Here OQ is the distance of object and OQ1 is the distance of image [figure 9.16].
+
+Figure: 9.16
+In this case the image is real, inverted and magnified.
+Depending on the position of the object on the principal axis the nature of image may be real, virtual, erect, inverted, magnified, diminished or equal in size to the object.
+If the position of the object is between the focus and optical centre the image will be virtual, erect and magnified.
+Image of an extended object Concave Lens:
+Suppose LOL1 is a concave lens. FOF? is its principal axis, O is its optical centre and F is
+its principal focus. An extended object PQ is placed perpendicularly on the principal axis in front of the lens [fig: 9.17].The image of the object PQ is to be drawn.
+
+
+
+
+
+
+Figure: 9.17
+A ray of light PR emitted from P parallel to the principal axis incidents at R and is refracted along RM in such a way that it appears that the ray is coming from principal focus F. Another ray PO from P passes through the optical centre O` and refracts straight along PON. These two refracted rays are divergent so they do not meet. If they are extended in the backward direction then it appears that they are coming from the point P1. Now if we draw a perpendicular P1Q1 on the principal axis from P1 then P1Q1 will be
+
+
+the virtual image of PQ. This image is virtual, erect and smaller than the object in size. Concave lens always forms image which is virtual, erect and smaller in size than the object.
+Identification of lens:
+When we hold a finger in front and very near of a lens and then look from the other side if a virtual, erect and magnified image of the finger is found to be formed, the lens is a convex one. But if the image is virtual, erect and diminished, the lens is a concave one.
+After being refracted by convex lens, magnified image is formed and so you are seeing the writings larger.
+9.8 Power of lens:
+Suppose there are two convex lenses. The focal length of the first one is greater and the focal length of the second one is smaller.
+
+Figure: 9.18	Figure: 9.19
+Now if a beam of parallel rays of light parallel to the principal axis incidents on the lens then after refraction the rays will meet at the principal focus. In the case of second lens that focal point will not be as far as the first one, rather it will be nearer. The power of a convex lens is the ability to convert a parallel beam of light into a convergent beam. Therefore it can be said that the power of the first lens is less than that of the second one. The power of a lens is greater if its focal length is less and the power will be less if the focal length is greater.
+In figure: 9.19 the refraction of parallel rays in concave lens is shown. In the case of concave lens the ability to convert a parallel beam of light into a divergent beam is called its power. The more the concave lens can diverge a beam of parallel rays the more is its power. That is the shorter the focal length of a lens, the greater is its power.
+In general we can say that the capacity of a lens to convert a parallel beam of light into a convergent beam or into a divergent beam is called the power of the lens.
+1
+There is a relation between the power P and focal length f. That is, P =	.
+f
+The power of a lens of focal length one meter is called one diapter (d). The power of
+spectacle that the eye specialists recommend is written in diapter unit.
+
+
+Sign convention:
+All distances are to be measured starting from the optical centre of the lens. All real distances are positive and real distances means the distance actually covered by the ray of light. SO, distance of real object, distance of real image and distance of real focus are all taken to be positive. All virtual distances are negative. Distance of virtual object, distance of virtual image and distance of virtual focus are all taken to be virtual distance.
+Focal length of convex lens is positive and focal length of concave lens is negative.
+Mathematical example 9.3: If the focal length of a lens is +0.1m then what is the power of the lens?
+
+We know,
+P =
+
+
+1	1
+=
+f	+0.1
+
+
+= 10D
+
+Given,
+
+
+Focal length, f = +0.1m
+
+Ans: 10D
+9.9 Human eye
+The structure and functions of human eyes are
+
+Power, P =?
+
+similar to a camera. We know that
+
+photograph is taken by keeping the object before a camera. Similarly if any object is placed before the eyes, there is a picture of that image inside the eyes. The structure and functions of eyes are discussed below.
+The structure of eyes:
+1. Eye-ball: The circular object situated in the eye cavity/orbit is called the eye-ball. This ball is flattened in its front and back. It can rotate around a certain area in the eye cavity.
+2. Sclerotic: It is composed of white, strong and dense fibrous tissues [fig: 9.20]. It determines the size of the eyes and protects the
+eyes and save them from any external hazards.
+3. Cornea: It is the frontal part of sclerotic. This part of sclerotic is transparent and slightly convex at the outer side.
+4. Choroid: There is a deep black layer on the inner side of the sclera. This is called choroids. Due to this black layer light is not reflected internally within the eye.
+
+5. Iris: Just behind the cornea, there is an opaque
+
+Figure: 9.20
+
+diaphragm. It is called Iris. The colour of the Iris may vary from person to person. Usually the colour of Iris is black, light azure or deep brown. Iris regulates the amount of light falling on the eye lens.
+6. Pupil: The hole at the centre of the Iris is called Pupil. Through this pupil, light enters the eyes.
+7. Eye lens: It is the most important part of the eye. It is situated just behind the pupil. It is made of transparent organic substances. Its radius of curvature of the back side is greater than that of the front side. This lens is hooked in the eye ball by ciliary
+
+
+muscles and suspensor ligaments. Due to the contractions and suspension of these muscles and ligaments, the curvature of the lens changes. It ultimately changes the focal length. To see different objects of near and distance, we need to adjust our focal length.
+8. Retina: Just behind the eye lens, there is a layer of semi-transparent light sensitive membrane in the innermost side of the eye ball. It is called the retina. It is made of some nerve-fibers called rods and cones. These nerve-fibers are connected to the eye-nerves. When light falls on the retina, it creates a kind of excitement in nerve- fibers. Hence, a sensation of vision is created in the brain.
+Aqueous humour and Vitreous humour: The saline watery fluid that fills up the space between the eye lens and cornea is called aqueous humour. On the other hand, the jelly like substance that fills the gap between retina and eye lens is called vitreous humour.
+Accommodation of eye: If an object is placed before a convex lens, it forms a real image at the back of the lens. If a screen is placed at the back of the lens an inverted image of the object is found on the screen.
+Experiment proves that in a certain place of the screen the image is most clear. For any reason, if the object is moved forward to or backward from the lens, the screen is to be moved forward or backward as well to get a clear image. Now if we want to get a clear image of the object on the screen at its previous position, we have to use lenses of different focal lengths.
+Things happen in a similar way in case of eyes. The cornea, aqueous humour, eye lens and vitreous humour together work as a convergent lens system. If any object is placed before our eyes and if the image of that object is reflected on our retina, then there will be a sensation of vision in the brain. As a result, we see the object. We see objects of different distances through our eyes. The specialty of the eye lens is that it changes its shape according to the necessity and thus it changes its focal length. Due to the change of the focal length, image of objects at any position is always formed at the same distance from the lens. Therefore, clear images are formed on the retina. The capacity of eyes to change their focal length to see objects of any distance is called the accommodation power of eyes. And the process is called accommodation of eye.
+Least distance of distinct vision: From our daily experience, we see that the closer the object is to the eyes the clearer it is to see. But, there is a point after which it cannot be seen clearly. The nearest point at which eyes can see without any difficulty is called the distance of distinct vision. For any normal eye, this distance is nearly 25cm. So, the near point of a normal eye is 25 cm away from the eye. It is difficult for our eyes to see any object clearly that stays closer to this distance.
+Again, the distance which is maximum from the eye to see an object is called the farthest distance of distinct vision. It is also called the far point of the eye. The far point of any normal eye is at infinity. This means that a normal eye can see up to a huge distance.
+
+
+Persistence of vision: If any object is placed before our eyes an image of the object is formed in our retina. As a result of it, we see the object. For any reason, if the object is removed from our eyes, a sensation of that object stays in our brain for about 0.1 second. This period is called the persistence of vision.
+Advantage of having two eyes:
+If we see an object by our two eyes we can only see a single object. Though each eye forms individual images on their own retinas but the brain combines the two images to make a single one. We can measure the distance accurately for having two eyes. So, it is very difficult to thread a needle keeping one eye closed. Apart from that, due to the relative position of our eyes with respect to the object we see the right portion of the object better with our right eye and the left portion better with our left eye. If we see an object by our two eyes the superimposition of two images will happen and we will be able to see the object clearly.
+9.10 Function of an eye:
+We have known earlier that there is a convex lens just behind the pupil of the eye which is called eye lens. It is necessary to change the focal length of eye lens to see the distant as well as near objects.
+
+Figure: 9.21
+In figure 9.21 the eye lens is shown. In front of the eye i.e. in front of the lens PQ is an object. A ray of light PR coming from P parallel to the principal axis incidents at R and is refracted through the principal focus F along the path RFP1. Another ray PO coming from P passes through the optical centre O and is refracted along the path OP1. The refracted rays RP1 and OP1 meet at point P1. From point P1 a perpendicular P1Q1 is drawn on the principal axis. So, P1Q1 is the real and inverted image of PQ.
+Where the image is formed is known as retina. It consists of some light sensitive cells or nerve-fibers called rods and cones. When image or light falls on retina a kind of stimulation is created in the nerve-fibers and as a result a sensation of vision is created in the brain and we can see the object.
+It is mentionable that the inverted image of an object is formed on retina. This sensation is transmitted to the brain by the eye nerves. The brain then and there inverts the inverted image formed in the retina and we can see the object in its right shape and size.
+9.11 Defects of vision and its remedy
+The range of vision of a normal eye is 25 cm to infinite distance. This means that normal eye can see any object at a distance between 25 cm to infinity. An eye which is unable to see any object distinctly within this distance that eye is a defective eye. Usually an eye has two kinds of defects. These are:
+
+
+1. Short sight or Myopia
+2. Long sight or Hypermetropia
+1. Short sight or Myopia: If anybody has this problem, he or she cannot see any distant object distinctly but can see anything of near distance distinctly. Sometimes the distance of near point for such an eye is less than 25 cm. Therefore, if the near point of the eye is less than 25cm then that is also considered as short sight.
+Cause: This defect may be caused if the radius of the eye ball increases or if the focal length decreases for any reason and thereby increases the power of convergence of the eye lens. [Figure 9.22 (a) ]
+Effects of such problem: In this case, rays of light coming from any object placed at large distance, after refraction through the eye lens converge to a point I in front of the retina (Fig. 9.22 a). As a result, objects are not seen
+distinctly. For this kind of eye, the far point is not situated at	Figure: 9.22
+infinity. Rather, it is a certain finite point F. For this reason, such type of eye cannot see object distinctly placed beyond F (Fig 9.22(b) ]
+Remedy: It has been said earlier that such type of defect arises due to the increase in the power of convergence of the eye lens. To remedy this defect, we need to decrease the power of convergence of the eye lens. For doing this, concave lens is used as aid lens or as spectacles.
+Besides, only a concave lens can create a virtual, erect and diminished image at a position nearer than that of the object. Therefore, to rectify short sight, a concave lens or spectacles should be used as aid lens in front of the eye. They should have such focal length or power so that due to refraction through the image of an object placed at infinity the image is formed at the far point of the defective eye [ fig 9.22 c]. We know that when the object is at infinity its virtual image is formed at the principal focus of the concave lens. Therefore, the focal length of the concave lens used as spectacles should be equal to the distance of the far point of the defective eye.
+2. Long sight or hypermetropia: If any eye has this type of defect, it can see distant objects distinctly but cannot see near objects distinctly.
+Effect of such problem: In such a case, rays coming from the object placed at the near point of a normal eye, after refraction through the eye lens converge to a point I behind the retina [Fig. 9.23 (a)]. As a result, the image becomes blurred. The near point N of such an eye shifts away to O, which is more than 25 cm (the distance of the near point for a normal eye). Therefore, such a defective eye cannot see any objects distinctly, which is placed
+
+nearer to O [Fig 9.23 (b)].
+
+Figure: 9.23
+
+
+Remedy: It is already said that such defect of eye arises due to the decrease in the power of convergence of the eye lens. Therefore, to rectify the defect, the power of convergence of the eye lens should be increased. For this, convex lens of suitable focal length i.e. of suitable power should be used as aid lens or spectacles.
+We also know that only a convex lens can provide a virtual and erect image at a distance greater than that of the object. For this reason, a convex lens of suitable focal length or power is used in this case as aid lens or spectacles in front of the eye. The focal length of this lens should be such so that due to the refraction the virtual image of an object placed at normal near point N, is formed at the near point O of the defective eye. [Fig 9.23 (c)]
+9.12 Perceptions of coloured object:
+When we see an object, then the light from the object falls on our eyes. The light being refracted by the lens of eye forms an image of the object on retina. There are numerous nerves in retina which send this perception to brain. We can see the object after the perfect analysis of the signals in the brain. The nerves that have reached the brain from retinas are called rods and cones. Among them the cones cells are colour sensitive. There are three types of cone cells - blue colour sensitive, red colour sensitive and green colour sensitive cone cells. It does not matter whether the colour is compound or complex, the eye perceives the colour of an object in terms of these three colours. The cone cells of retina send the accumulated information to brain. Brain separates all these colours through a particular process. Thus we can perceive the colour of coloured object.
+9.13 Uses of refraction in our daily life:
+There is a convex lens in our eyes. When we seen an object, the light from the object, being refracted by the lens of the eye, forms an image on retina. We can see the object when a real and inverted image of that object is formed on retina. So, refraction of light helps us to see an object.
+There are many people who have defects in their eyes. Among them some cannot see the distant object, some cannot see near object. For the remedy of the defects we use spectacles made by lens of particular power. The incoming light refracted through the lens falls on our eyes and helps to see the object properly. Therefore, refraction plays an important role to see an object.
+By using the property of refraction of light we can take photograph with camera, we can see very small object magnifying it by microscope and see the distant object by telescope.
+The optical fiber that we use in the field of health and telecommunication is also the contribution of refraction of light.
+There are fish aquariums in many of our houses. If we keep some colour fish in the aquarium we can enjoy their interesting movement. The light from the fish coming through water at first falls on the glass of the aquarium. After the refraction of light through the glass, the sight reaches our eyes. Therefore it is also a contribution of refraction of light.
+
+
+Investigation: 9.1
+Image formation by a convex lens and its demonstration.
+Objective: Use of convex lens and production of real image in the lab.
+Apparatus: A convex lens.
+Working procedure:
+1. Take a convex lens.
+2. Stand near the door or window of the lab with the lens.
+3. Hold the lens in front of any sight such as trees, buildings etc outside the lab.
+4. Move the lens from left to right and form the image of the sight on a white paper behind the lens.
+5. To make the image clear move the lens forward or backward from the paper.
+6. You will see the clear image of the object on the paper at definite distance.
+7. In this way the image of a distant object can be projected on the wall.
+8. Describe the form of the image.
+Investigation: 9.2
+Determination of the least distance of distinct vision of different people and identification of usable spectacles.
+Objective: To identify the defect of eye by measuring the least distance of distinct vision and to identify the usable spectacles.
+Tools: Newspaper or book
+Working procedure:
+1. Select five persons from your teachers, classmates, parents, elder brothers and sisters.
+2. Let one of the selected persons read out the newspaper.
+3. Mark the distance where he/she can read the newspaper comfortably.
+4. Now measure the distance between the newspaper and the eye by a meter scale. This is the least distance of his/her distinct vision.
+5. Similarly measure the least distance of distinct vision of five persons and record it in a table.
+6. Justifying the least distance of distinct vision of each person (less or more than 25cm) and you can recommend for spectacles.
+7. Describe the reasons of different least distances of distinct vision for different people.
+Table of observation
+
+Name of personApproximate ageLeast distance of distinct visionRecommended Spectacles (If necessary)
+
+
+
+A. Multiple choice questions
+
+Exercise
+
+Give tick (?) mark by the side of the correct answer.
+1. Where will be the image of an object when it is placed in a denser medium and looked from rarer medium?
+a) raised upward	b) gone downward
+   c) remained at the same place	d) moved aside Answer the questions 2 & 3 from the figure
+2. What is the angle of refraction here?
+a) 0°	b) 90°
+c) 180°	d) 45°
+3. What will happen if the angle of incidence is greater than the critical angle?
+a) Total internal refraction	b) Total internal reflection
+c) Refraction	d) Reflection
+4. The ray diagram usually used to draw the image for a convex lens is -
+
+
+
+
+
+
+
+(a) i	(b)ii	(c) I & ii	(d)i, ii & iii
+5. Which is the unit of power of lens?
+a) Dioptre	b) Watt
+c) Horsepower	d) Kilo-Watt Hour
+B. Creative Question
+1. Sheuli, a student of class10 cannot see the written words on the blackboard. She consults with the doctor and the doctor advised her to use a lens of power -2D as spectacle.
+a) What is lens?
+b) How do you identify lens without touching it?
+c) What is the focal length of Sheuli's spectacle?
+d) Explain why it is logical for Sheuli to use a spectacle of (-)ve power.
+
+
+
+
+
+

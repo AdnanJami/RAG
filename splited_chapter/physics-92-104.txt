@@ -1,0 +1,367 @@
+
+
+Chapter five
+PRESSURE AND STATES OF MATTER
+
+
+[We know matter can exist in three states- solid, liquid and gas. Plasma is another state of matter. Liquids and gases can flow easily so they are called fluids. The fluid can create pressure. We can do many works using pressure of fluids. Elasticity is a special characteristic of matter. We will discuss all these in this chapter.]
+By the end of the chapter, we will be able to -
+1. Explain the change of pressure with the change of force and area.
+2. Explain the density.
+3. Explain the usage of density in our everyday life.
+4. Explain the atmospheric pressure.
+5. Find the atmospheric pressure by using the height of the liquid column.
+6. Analyze the change of atmospheric pressure with the increase of height.
+7. Analyze the effect of change of atmospheric pressure on weather.
+8. Determine the expression for pressure at a point in a liquid at rest.
+9. Explain the upward pressure of submerged body in liquid.
+10. Explain why object floats on water.
+11. Analyze the causes of accidents in waterway in Bangladesh.
+12. Explain Pascal's law.
+13. Demonstrate practical application of Pascal's law.
+14. Explain stress and strain.
+15. Explain Hooke's law.
+16. Explain the molecular kinetic theory of matter.
+17. Explain the plasma state of matter.
+
+
+5.1 Pressure and Area
+Can you stand on a single leg easily that you can do by using your two legs? The shoes pierce into the mud when one walks on soft mud wearing a high hill. But if one does so wearing a flat pair of shoes, then it does not get into the mud. We will see that it happens due to the change of pressure.
+Fig-5.1
+The force exerted perpendicularly to unit are of a body is called pressure. Let a force F act perpendicularly on area A of a surface, then pressure, P = F
+i.e.  Pressure = Force
+It is noted that less the area A, more is the pressure P and more the force F, more is the pressure P.
+Example:
+(i) The area of the sharp edge of a nail is very small. So when the sharp end of the nail is placed on a wood like surface and hammered on the flat head of the nail, comparatively more pressure is exerted on the sharp end as a result the nail easily enters into the substance.
+(ii) The area of the sharp edge of the knife is very small. So, by placing the sharp edge of the knife on a substance if force is applied, then more pressure acts on the substance along edge. Therefore the substance can easily be cut.
+
+More pressure is felt on the sharper edge of the pin when force is applied on its flat end. When force is applied on the flat end of the blunt pin, less pressure is exerted on the blunt end .So, it is easy to hole a paper by a sharper pin.
+
+
+
+Unit of pressure:
+If we divide the unit of force by the unit of area, we get the unit of pressure. Therefore the unit of pressure is Nm-2. It is called pascal (Pa).
+? 1Pa = 1Nm-2
+If a force of 1N force is applied perpendicularly to an area of 1m2, then the pressure generated is known as 1Pa.
+Mathematical Example 5.1: The mass of a woman wearing a shoe is 50kg. The area of the bottom of the shoe is 200cm2. Find the pressure.
+We know.
+
+Pressure
+
+
+P = F/A = W/A
+
+490N
+=	-4 2
+200×10 m
+
+Given,
+mass, m=50kg
+force, F = w = mg = 50kg×9.8ms-2
+= 490N
+Area of the bottom of the shoe, A = 200cm2
+
+
+5.2 : Density
+
+= 2.45×104Pa
+
+= 200×10-4m2
+
+The space occupied by a body is called its volume. If we drop a piece of cork and a piece of iron of the same volume into water, we see that the piece of cork floats on water but the piece of iron gets submerged into water. We may say in general that the density of iron is more than the density of cork. So, iron gets sunk into water. Though the volume of the substances are the same, actually the more the density, the heavier the object is, and the less the density, the lighter the object is. The mass per unit volume of a substance is called the density of its material. Density is a general property of matter. Density of a body depends on its material and temperature.
+Density is denoted by ?. If the mass of a body is m and its volume is V,
+
+then density ? = m
+
+ mass of the body  volume of the body
+
+The unit of density is kgm-3.
+
+The jug filled with honey will appear heavier because the density of honey is more.
+
+
+Some substances and their density
+
+SubstancesDensity (kg-3)SubstancesDensity (kg-3)Air1.29Water (at 4?C)1000Cork250Iron7,800Glycerin1260Silver10,500Ice920Gold19,300
+
+Of course you have heard the name of Dead Sea. It is in Jordan. Due to Salt and other impurities the density of the water of the sea is so high that man does not get sunk into it.
+Uses of density in every day life:
+The balloons are released in different inaugural ceremonies. The balloons are puffed of by hydrogen gas. The density of hydrogen is
+
+
+Figur: 5.2
+
+considerably less than the density of air. So, these light balloons filled with gas go up easily.
+When electricity goes off many of us use IPS and huge battery is used in an IPS. This type of battery known as storage cell is also used in cars and microphones. Sulphuric acid used in these cells has density ranging from 1.5x103kgm-3 to 1.3x103kgm-3. Sometimes, hydrometer is used to measure the density. The cell will damage if the density of acid increases. For this reason necessary amount of water is added to it time to time to keep the density at desired level.
+Eggs sink in water, but rotten eggs remain floating. As the density of the rotten egg is less than the water, it floats on water
+Mathematical example 5.2: what is the density of liquid of mass 2000kg and volume 2m3?
+
+We know,
+Density,?	= mass/volume = m/v
+
+2000kg
+
+
+=	2m3
+
+Given
+Mass, m = 2000 kg volume, v = 2m3 Density, ?= ?
+
+= 1000 kgm-3
+5.3 Atmospheric pressure
+This earth is surrounded by air. Atmosphere has weight. So it has pressure. This very pressure on earth surface is almost 105N per square meter. The atmospheric pressure is
+1.5x105N on the body of an adult if the area of his body is 1.5m2. As the internal blood pressure of a human body is greater to some extent than the atmospheric pressure, generally it is not felt by the people.
+The atmosphere for its weight applies force on the earth's surface and the amount of force acting perpendicularly on per-unit surface area of the earth, is called atmospheric pressure.
+
+
+Torricelli's experiment and the measure of atmospheric pressure
+Take a glass tube about one meter long opened at one end having uniform diameter. Fill the whole tube with pure mercury. Close the open end of the tube tightly with finger and
+
+invert the tube. Take this inverted end of the tube along with your finger inside the pure mercury contained in a container. Now remove the finger and take necessary steps to keep the tube vertical. It will be observed that the mercury has come down to some extent and has attained a steady position. It might appear apparently that the mercury inside the tube is in standing position by itself. But in reality it is not so. It happens so due to air pressure. Atmosphere is always exerting pressure on the mercury of the container. This pressure is convoyed through the mercury and acts in the upward direction in the tube. This very pressure holds the mercury column
+
+Torricelli's vacuum
+
+
+
+
+ cm
+
+
+
+Figur: 5.3
+
+of the tube. In absence of this pressure the mercury of the tube will come down due to the force of gravity. Therefore, atmospheric pressure is equal to the pressure of the mercury column of the tube. Generally the height of the mercury column that remains in the tube in about 76cm i.e. the air pressure supports the pressure of 76cm column of mercury. In this way using the height of a liquid the atmospheric pressure can be measured.
+The space that remains just above the mercury column in the tube up to its closed end is totally empty. This empty space is termed as Torricelli's vacuum. Only a scarce amount of mercury vapor exists there. The apparatus used to measure the air pressure is called barometer.
+5.4 : Altitude and atmospheric pressure
+The atmospheric pressure depends on the density and height of the atmosphere. On the earth's surface and on sea level the normal air pressure is 76cm of mercury pressure. With the increase of altitude from the sea-level the weight and density of air-column decreases. So, the air pressure reduces with the increase of height. The atmospheric pressure on the peak of Mount Everest is
+
+about 30% of the sea-level air pressure. For this reason
+
+Figur: 5.4
+
+respiration becomes difficult at such a high level. There is a possibility of bleeding from the nose at high altitude as atmospheric pressure is considerably low there. Nowadays normal pressure is kept inside a plane for the convenience of the passengers when it flies at a very high altitude and low pressure region. With the increase of height from the earth's surface the pressure of the atmosphere decreases. The change of pressure of the atmosphere with altitude is shown in the graph [Fig: 5.4].
+5.5 Change in atmospheric pressure and weather
+With the change of time the atmospheric pressure of a certain place also changes. The variation of water vapor in air is the cause of this change. The density of air also changes
+
+
+with the change of vapor in air. We can understand the change of atmospheric pressure by observing the change in the height of the mercury column of a barometer.
+1. If the height of the mercury decreases gradually then it would be understood that the pressure of water vapor is gradually increasing because water vapor is lighter than air. It indicates the possibility of rain.
+2. All of a sudden if the mercury height falls down then it is to be realized that the atmospheric pressure of the surrounding area has fallen down and low pressure has been created. The air at a high pressure from the neighboring area will rush with tremendous speed to the depression area. So, there is a possibility of storm.
+3. When the height of the mercury column of the barometer slowly increases, then it indicates that water vapor from the air is being disappeared and dry air is occupying that space. So, the weather will remain dry and clear. By determining the air pressure by a barometer in this way weather can be forecast.
+5.6 Pressure at a point in a liquid at equilibrium
+Pressure at a point in a liquid means a force exerted perpendicularly by the liquid on unit area around that point in the liquid. In fig. 5.5 some liquid is kept in a vessel.
+Let the area of the base of the vessel = A
+density of the liquid = ?
+depth of the liquid = h acceleration due to gravity = g We know, pressure = force ÷ area
+Now, the force acting on area A = weight of the liquid
+= mass of the liquid × g
+
+
+
+Pressure, P = Ah?g/A
+or, Pressure, P= h?g
+
+= volume of the liquid × density × g
+= area of the base × depth × density × g
+= Ah?g
+
+Figur: 5.5
+
+Again as 'g' is a constant, so P ? h?
+i.e. the pressure at a point in a liquid at equilibrium is directly proportional to the depth of that point from the free surface of the liquid and its density. Therefore pressure rises with the increase of depth of the liquid and also increase in density causes the rise of pressure. As pressure rises with the increase
+
+
+
+
+
+
+Figur: 5.6
+
+of depth, the liquid comes out with more speed from a hole at greater depth (shown in the figure 5.6).
+Mathematical Example 5.3 : A vessel contains kerosene. Find the magnitude of pressure at a point 75cm deep from the surface of kerosene. [Density of kerosene is 800kgm-3]
+
+
+
+Solution
+We know,
+P= h?g
+or, P = 0.75 m × 800 kgm-3 × 9.8 ms-2
+= 5880Pa Ans: 5880Pa
+5.7 Pressure of a fluid and buoyancy
+
+Given,
+Depth of the liquid, h=75cm = 0.75m Density of the liquid, ? = 800 kgm-3 Acceleration due to gravity, g= 9.8ms-2 Pressure P =?
+
+A fluid is a substance which flows or is capable of flowing. Fluids are of two types - liquids and gases.
+Pressure of a fluid: The force exerted perpendicularly by a fluid at rest on unit area of a surface is called pressure. If the area of the surface is A and the force applied perpendicularly by the fluid is F, then pressure p = F/A.
+Buoyancy: A water filled pitcher is easy to move in water but it is not that much easy to move keeping it out of water. The pitcher is felt considerably lighter in immersed condition as upward thrust acts on it.
+Therefore, the thrust acting vertically upward is equal to the weight of equal volume of water displaced by the submersed
+
+body. For this reason an immersed body apparently losses its weight.
+Magnitude of buoyancy:
+
+Figur: 5.7
+
+Every point of a body immersed in a fluid will experience thrust in all directions. Let a cylinder PQRS is of cross-sectional area A and height h. It is submersed in a fluid of density ?. The depth of the upper and lower surface of the cylinder from the free surface of the fluid are h1 and h2 respectively.
+So, h = h2 - h1
+The downward force acting on the surface PQ of the cylinder, F1 = Ah1?g
+The upward thrust exerted by the liquid on the surface SR of the cylinder, F2 = Ah2?g The lateral pressures experienced by the curved surface of the cylinder being equal and opposite of each other it become neutralized.
+? Upward thrust or buoyancy
+= F2 - F1
+= Ah2?g - Ah1?g
+= A (h2 - h1) ?g
+= Ah?g.
+= (hA)?g
+= V?g [ V = hA = volume of the cylinder]
+= weight of the displaced fluid by the cylinder.
+So, the upward thrust or buoyancy acting on a submersed body is equal to the weight of the fluid displaced by it. For this upward thrust it seems that a submersed body losses weight.
+
+
+5.8 Floatation and immersion of a body
+Two forces act simultaneously on a body when it is released in a liquid at rest.
+1. The weight of the body, W1 acts vertically downwards.
+2. The buoyancy W2 acts vertically upward on an immersed body. There are three conditions of floatation and immersion of a body-
+a) If W1? W2, i.e. when the weight of the body is greater than the buoyancy of the liquid the body sinks.
+In this case the weight of the body is more than the weight of
+
+the displaced liquid.
+
+Figur: 5.8
+
+b) If W1=W2 i.e. when the weight of the body equals to the buoyancy of the liquid the body floats being fully immersed in liquid. In such situation the weight of the body is equal to the weight of the liquid displaced.
+c) If W1?W2 i.e. the weight of the body is less than the buoyancy of the liquid, the body does not sink. It floats being partly immersed in liquid. In such a position the weight of the body is less than the displaced water.
+5.9 : Archimedes Law:
+From the experience of our daily life we observe that any solid substance when immersed in liquid it appears lighter. Its cause is on an immersing body vertically upward force or buoyancy acts on it.
+Before 300 B.C. the Greek philosopher Archimedes invented that
+
+if a body is partly or fully immersed in a liquid or gas in
+
+Figur: 5.9
+
+equilibrium, it seems to have lost a part of its weight. This apparent loss of weight is equal to the weight of the displaced liquid or gas.
+
+
+
+
+Causes of accidents in waterway in Bangladesh
+Accidents occur frequently in the waterways in our country. When a ship is made, its size and shape both are made in such a way that at the floating state the weight of the water displaced by the immersed part of the body is equal to the weight of the ship.
+Now as more passengers get onboard, the more of its weight increases and it keeps immersing into water. When more passengers than its capacity get on the ship, it sinks. According to weather signals a ship will have to sail carefully taking less number of passengers than its capacity as current and waves are there in the river. Due to defective design of the ship its centre of mass changes and becomes the cause of accident. One should not get onboard being an excess passenger.
+5.10 : Pascal's Law
+If pressure is applied on any point of an enclosed liquid or gas it is transmitted in all directions. Pascal stated a law about this transmission of pressure.
+Pascal's law: External pressure applied to any portion of a liquid or a gas enclosed in a container is equally transmitted in all directions in the liquid or the gas without any trace of diminution and acts perpendicularly on the surface of the container in contact with the liquid or gas.
+Mathematical explanation of Pascal's law: principle of multiplications of force
+On any portion of a confined liquid if force is applied by a smaller piston, then forces of greater magnitudes are exerted on the pistons of greater cross sectional area. This is known as principle of multiplication of force.
+Let, C1 and C2 be two cylinders (Fig:5.10) and A1
+
+and A2 be their cross sectional areas respectively. The
+
+Figur: 5.10
+
+two cylinders are connected by a pipe. There is an air tight piston in each cylinder. The two cylinders are filled up with a liquid. Now a force F applied to the smaller piston generates a pressure F1/A1. According to Pascal's law this pressure is transmitted in all directions through the liquid. Therefore the upward pressure exerted on the larger piston is F1/A1. Because of this pressure, the larger piston experiences an upward force equal to (F1/A1) × A2. If the upward force of larger piston is F2,
+then F2 =  F1 × A2
+1
+
+F2	A2
+F1	A1
+
+(5.4)
+
+So, greater is the cross sectional area of the larger piston, the greater is the force exerted on it. If the cross sectional area of the larger one is 100 times greater than that of the smaller one, then a force of 1N applied to the smaller one will produce an upward force of 100N on the larger piston.
+
+
+5.11 Elasticity: Stress and Strain
+From our general knowledge we know a rubber tape elongates along its length when it is pulled. As soon as the tape is released of the tension it regains its original length or tends to get back its previous length. Here pull means application of force and elongation in length means deformation. Actually as deformation of a body occurs, a resistive force generates within the body for which it tends to get back its original size and shape.
+Elasticity is defined as the attributed property by which a body is able to resist deformation, either in shape or in volume or both and recovers its original shape and size when the deforming force is removed. The substances which possess this property are called elastic substances. There is a certain limit of the deforming force and if the force applied exceeds the limit the body then unable to regain its previous shape and size. This limit of applied force is termed as elastic limit.
+The molecules of a substance move away form each other when external force is applied on elastic bodies. Original length, volume or size and shape of a body are changed due to this applied deforming force. The change per unit length or per unit volume of an object is called strain. Whenever an external force deforms a body, an internal resistive force will develop inside the body due to its elastic property. This opposing force comes into play to resist the applied external force. This developed internal restoring force acting perpendicularly per unit area of the body is called strain.
+Hooke's law: Scientist Robert Hooke invented the basic law of elasticity. According to this law- within elastic limit stress is directly proportional to strain.
+Mathematically we may write, stress ? strain
+? stress = constant × strain.
+This constant is called the modulus of elasticity of the material of the body. Strain has no unit. The unit of stress is Nm-2. The unit of modulus of elasticity is also Nm-2.
+5.12. Molecular kinetic theory of matter
+The basic conception of the molecular kinetic theory of matter is to consider that the molecules of a matter are in motion. The kinetic theory of matter is based on the following postulates:
+
+1. Any  substance  consists  of  innumerable
+
+Figur: 5.11
+
+number of minute particles. These particles are called molecules.
+2. The molecules are so small that they are considered as points.
+3. The molecules of a substance are always in motion.
+4. The gaseous molecules remain at a considerable distance. For this reason almost no force of attraction and repulsion act between them. Though the liquid molecules remain at some distance, force of attraction between them prevails. This cause
+
+
+compels the liquid to take the shape of the container in which it is kept. In solid substances the particles remain very close to each other and very strong attractive force exists in them which give the solid substance a definite size and volume.
+5. The molecules move at random in liquid and gas. So, these molecules collide among themselves and also on the surface of the walls of the container.
+5.13. Plasma state of matter
+The forth state of matter is called plasma state. This plasma is the ionized gas at very high temperature. The main source of plasma is the Sun. Except this the other stars are also the sources of plasma. The plasma state is formed at a few thousand degrees of temperature. Plasma has no definite shape and volume like gases. The plasma particles carry charges and act as conductor of electricity. Metals substances are cut by plasma torch in the industry.
+Investigation: 5.1
+To determine the density of a solid
+Objective: To find the density of a solid body of any shape.
+Apparatus: Measuring cylinder, balance, a solid substance of any shape.
+Theory: The space occupied by a solid substance is called its volume and the mass per unit volume of a body is called density. When a solid is dipped into liquid it displaces liquid equal to its own volume. The readings of the water level before and after the immersion of the solid in the measuring cylinder are V1cm3 and V2cm3.
+?The volume of the solid, V = (V2 -V1) cm3... ... ... (1) Let M gm be the mass of the body, therefore density,
+
+M gm V cm3
+
+M × 103 Kg m-3 ... ... ... (2)
+
+Working procedure:
+1. Measure the mass of the solid substance by a balance.
+2. Fill up the half portion of the measuring cylinder with water and take the reading of the upper level of the water.
+
+
+
+
+
+
+Figur: 5.12
+
+3. Tie the solid by a string and dip it into the water of the cylinder so that it stays at the bottom of it. When the water comes to a standstill position take the reading of the upper level of the water.
+4. Repeat working process 2 and 3 taking different amount of water in the measuring cylinder and write down the readings in the table.
+5. Find the volume of the solid substance with the help of necessary calculations. Using equation no.2 determine the density of the solid substance.
+
+
+Table of determining the mass and volume of the substance:
+
+Number of observati onsMass of the solid substance M gm.Reading of the upper level of water, before the immersion of the body V1Cm3Reading of the upper level of water, after the immersion of the body V2Cm3Volume of the solid body V'= (V2- V1)Cm3Average Volume Vcm3123Calculation: Volume of the solid substance, V = (V2-V1) Cm3
+=	× 10-6m3
+Density of the solid substance, d = M × 103 Kg m-3
+
+
+Exercise
+(A)	Multiple choice questions:
+1. What is the name of the apparatus used to measure the atmospheric pressure?
+(a) Thermometer (b) Barometer (c) Manometer (d) Seismometer.
+2. The amount of liquid pressure is -
+(a) proportional to its depth (b) proportional to area. (c) inversely proportional to density (d) equal to acceleration due to gravity.
+3. What is the name of the forth state of matter?
+(a) Gas (b) Plasma (C) Solid (d) Liquid.
+Give the answer of question no. 4 & 5 from the figure
+
+How much pressure will be felt at the bottom of the container?
+(a) 98Pa (b) 980Pa (c) 196Pa (d) 1960Pa
+
+
+4. If force is applied on the free surface of the container, then this force-
+i. will exert pressure at the bottom of the container only.
+ii. will exert pressure at the curved surface of the vessel only.
+   iii. will exert pressure in all directions of the vessel. Which one of the below is correct?
+(a) i (b) ii (c) iii (d) i, ii, & iii
+(B) Creative question
+Answer the following questions by observing the figure:
+(a) What is called density?
+(b) Explain the cause of the floatation of the body as shown in the figure.
+(c) Determine the density of the body.
+(d) Explain the effect of gradual increase of temperature of the liquid.
+(C) General questions:
+1. What is the relation among force, pressure and area?
+2. What is called density? What is its unit?
+3. What is called	atmospheric pressure?
+4. Is Torricelli's vacuum is a vacuum in reality? Explain.
+5. Establish a relation between pressure and height of liquid.
+
+
+
+
+
+

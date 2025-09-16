@@ -1,0 +1,4 @@
+chromadb==0.4.22
+langchain==0.1.5
+langchain_community==0.0.17
+langchain_core==0.1.19

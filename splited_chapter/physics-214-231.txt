@@ -1,0 +1,264 @@
+
+Chapter thirteen
+MODERN PHYSICS AND ELECTRONICS
+
+
+[At the beginning of 20th century, a new era has been introduced in the field of physics. During this time, theory of relativity and quantum theory have been invented. To explain the motion of high speed particles and the various phenomena of nuclear and atomic physics these two theories were needed. Besides, electronics has reached to a more developed stage through the process of evolution, as a result of which we become able to construct and use various developed devices of information and communication. Thus, the modern physics has been evolved. In this chapter, we shall discuss about radioactivity, radioactive particles and rays, the gradual development of electronics, semiconductor and integrated circuit, different electronic devices, microphone, speaker, radio, television, phone, fax machine, internet and e-mail.]
+By the end of this chapter, we shall be able to -
+1. Explain Radio-activity.
+2. Explain the characteristics of alpha, beta and gamma rays.
+3. Describe the sequential development of electronics.
+4. Differentiate between the analogue and digital electronics.
+5. Explain semiconductor and integrated circuit.
+6. Explain the functions of microphone and speaker.
+7. Explain the principles of the functions of selected communication technology devices.
+8. Explain the communication process with the help of internet and e-mail.
+9. Investigate how the information and communication technology devices influence our life.
+10. Be conscious to make the proper and effective use of information and communication technology devices and raise consciousness among others.
+
+
+13.1. Radioactivity
+In 1896, French scientist Henry Becquerel observes that a radiation with special penetrating power emits spontaneously from the nucleus of Uranium metal in a continuous manner. He also observes that the element that emits radiation, transforms totally into a new element. This is a nuclear event. This event is a spontaneous and continuous phenomenon and fully controlled by the nature. Any manmade external influences such as- pressure, heat, electric and magnetic field cannot stop or increase or decrease the emission of these rays. Later Madame Marie Curie (1867-1934) and her husband Pierre Curie (1859-1906) observed the similar events. They noticed that similar type of radiation also emits from the heavy elements like Polonium, Thorium and Actinium etc. This radiation is now-a-days known as radioactive rays. The phenomenon of emission of radioactive rays or particles from an element is called radioactivity. Radioactive elements emit three energetic rays, namely alpha, beta and gamma. As a result they transform into lighter elements by the process of disintegration. As the Radium metal transforms into Lead step by step through radioactive disintegration. The unit which is used to measure radioactivity is named Becquerel.
+13.2. Properties of alpha, beta and gamma rays
+Alpha particle: Alpha particle is a Helium nucleus. There are two protons and two neutrons in its nucleus. The penetrating power of alpha particle is less; it cannot pass through 6 cm thick air. These particles are influenced by both the magnetic and electric field. These particles can create intense ionization and are very harmful and dangerous. The mass of this particle is four times than that of the Hydrogen atom and its charge is
+3.2×10-19 C. Its presence can be detected by photographic films, cloud chamber and gold leaf electroscope. These particles create florescence on zinc sulphide screen. The velocity of it is 10% of the velocity of light.
+Beta particle: These particles are negatively charged and largely deflected by magnetic and electric field. The speed of it is 50% of the speed of light but it can be increased up to 98%. Its mass is the same as that of electron i.e. 9.11×10-31kg. Its existence can be detected by photographic film and cloud chamber. These particles can produce fluorescence. Their penetrating power is more than that of the Alpha particles. The motion of these particles can be stopped by a 3mm thick aluminum sheet. Beta particles can produce enough ionization in a gas.
+Gamma rays: These rays are charge neutral. This is an electromagnetic wave. It is of short wavelength. It has no mass. It is not deflected by electric and magnetic field. Its speed is same to that of light, which means 3×108 ms-1. Its penetrating power is very high. It can pass through a lead sheet having a few centimeter thickness. Though its ionizing power is less, it can produce fluorescence. Its presence can be identified by photographic film, cloud chamber and Geiger-Müller counter.
+
+
+13.3. Half-life of a radioactive element
+We can't say which atom of a radioactive element will decay and when it will take place. But we can calculate how many atoms will decay in a particular time. A cluster of atoms is considered to study the decay of atoms. The time during which just half of the total number of radioactive atoms undergoes disintegration is called the half-life of that element. As for example, let us assume that there are 800000 atoms in a radioactive element. The time required for the decay of its half i.e. 400000 atoms to transform into a new element is known as its half-life. After a next half-life, there remains 200000 numbers of atoms. After another half-life, the number of atoms will be 100000 and thus it will continue. Here a law of possibility works, which atom will disintegrate when, none can say it.
+13.4 : Uses of radioactivity
+There are a lot of uses of radioactivity in medical science, agriculture and industries. In medical science especially to treat incurable cancer, the uses of radioactivity are frequent now-a-days. In medical science, the radioactive isotopes are used as radioactive tracers to diagnose different diseases like blockage of kidney, thyroid problems etc. In agriculture, radioactive tracers are being successfully used, especially to develop high yielding variety of seeds and in the research to produce special type of fertilizer necessary for trees. The radioactivity is also widely used in industries. To make the equipment germless, to control the thickness of paper in the paper mill, to identify the presence of smoke in the fire, to verify the welding of metals, the radioactivity is being successfully used. It is also used to measure the quantity of different elements in the minerals. Even the radioactive tracers are being used successfully to diagnose diseases.
+The hands and number of many watches are seen glittering even in the dark. This happens because the hands and the numbers in the watches are covered with a mixture of radioactive thorium and zinc sulfide, as a result they glitter. Radioactivity is also used to determine the age or time of things of millions year old.
+13.5 : Dangers of radioactivity: Although radioactivity is beneficial to us, it can be very dangerous also. The high dose of radioactive radiation can create serious problems in human body. Life killer cancer may cause from this radiation. The preventive power against disease is reduced if someone keeps oneself in close-contact with excessive radioactive radiation for a long time. Man can be mentally disabled; even he may be physically invalid. The harmful effect of radioactivity can be observed from generation to generation. So the people who work with radioactive radiation should be careful. They should take proper steps to protect themselves from the excessive radioactive radiation.
+
+
+13.6 : Development of electronics
+The present era is the era of electronics. Radio, television, phone, fax, camera, computer, watch etc. are the contributions of electronics. The control of electric current through vacuum tube, special type of crystals and chips is known as electronics. The history of electronics is ancient of more than hundred years. The real journey of electronics begins with the invention of Addison's effect in 1883. When Addison was working with electric lamp, one thing was disturbing him highly. The positive end of the filament of carbon of the lamp was burning again and again. To remove this difficulty, he entered a plate by sealing it with the filament. He saw that when a positive potential is given to the plate with respect to the filament, an electric current flows through the vacuum tube. But when a negative potential is applied to the plate electric current does not flow. Addison explains this phenomenon in this way- as the emitted charge from the hot filament goes to the positive plate, so this charge is negative. If the plate is negative, it repels the emitted charge, as a result no current flows through the circuit. This is known as Addison effect. British physicist Fleming first invented the vacuum tube by using Addison effect. This tube works as a rectifier that means it changes alternating current to direct current. This is the real beginning of electronics. During this time, detector was very necessary for Marconi's Radio. This tube fills up the need of the detector. As there were two electrodes in it, this is called diode.
+After two years, an American named Lee de Forest invented another vacuum tube called triode. Since it had three electrodes, it was named as triode. Besides anode and cathode, there was another electrode known as grid in it. Grid controls the flow of electric current from anode to cathode. It is wonderful that the triode can work as an amplifier. So triode plays a vital role in the development of communication.
+Figures diode and triode
+As the size of diode and triode valves are very large, they create problem to fix them in different electronic devices. The expense of power for it is more, it is less reliable and cooling system is necessary to keep it cool. So the scientists were searching for a semiconductor device as its alternative. Later they invented p-n junction diode. After long experiments, they were able to invent n-p-n transistor. Transistor works as an amplifier.
+
+
+To set up several components in a single motherboard, problem creates. Sometimes it becomes impossible. So, IC or integrated circuit is invented. IC is such a creation using semiconductors like silicon, where millions of microscopic electric circuits are gathered in a place like a nail of our finger. Revolutionary changes took place in the design of IC chips after its invention in 1960.
+13.7. Analogue and Digital electronics
+Analogue signal: The magnitude of some quantity which changes continuously is called analogue. The magnitude of the quantities such as sound, light, temperature, pressure can be of any value within a definite extent. Analogue data is sent continuously. Telephone, radio, television broadcast and cable television generally send analogue data.
+So the analogue signals are continuously changeable voltage or current. This voltage or current is normally changed and can receive any value between the lowest and the highest value. Analogue signal is really a sine wave. Audio and video voltages are the example of analogue signals.
+Figure 13.1: Analogue signal	Figure 13.2: Digital signal
+Digital signal: Generally the word 'digit' means number. The word 'digital' comes from the word digit. Digital signal means such a communicative signal which can receive some definite value. These can be changed into discrete values and each of them can be identified separately. In this system, with the help of binary code i.e. 0 and 1, any information, number, letter or any special signal etc. can be understood or sent. In this signal system, the value of 'on' state is 1 and the value of 'off' state is 0.
+
+
+Figure 13.3: transformation of analogue signal to a digital signal
+Computer saves, process and sends any data as digital signal. With help of modem, analogue data can be changed into digital and digital data can be changed into analogue data. Analogue clock shows the time by continuous rotation of the hands and digital clock gives the time by changing the digits.
+Advantages and disadvantages of analogue and digital signal
+Which one is better between analogue and digital signal can be measured by three factors. These are: the qualitative standard of the signal, the elements to maintain the process and cost or expense.
+
+
+Digital signal is the best to send a signal to a long distance. If the distance is long, the power of analogue signal decreases gradually. Then to sustain the analogue signal, amplification has to be done. As a result noise increases, and the quality of the signal is reduced or distorted and it can be fully lost. But the digital signal is amplified on the way. As a result the signal remains unchanged. Digital signal is used to transmit a signal through an optical fiber, since the qualitative standard of the last signal remains unchanged. Besides many signal can be sent in every second. Though the digital device is more expensive than the analogue device, the total cost is less in digital system than that of the analogue system. Cross connection may be occurred in analogue device but it cannot be happened in digital system.
+13.8. Semiconductor and Integrated Circuit
+Semiconductor: There are some materials (such as- silicon and germanium) which are neither good conductor nor insulator. These are called semiconductors. Pure semiconductor works as an insulator when it is cold. At normal room temperature it behaves slightly as a conductor. But the conductivity of semiconductor can be increased by adding some definite elements with it. Semiconductor is divided into n-type and p- type on the basis of the elements added to it. Negative and positive charge carriers are denoted by n-type and p-type respectively. The semiconductor made by the addition of phosphorous with silicon is an example of n-type material. The presence of phosphorous atoms increases the number of negatively charged electrons which can move freely in the substance. The semiconductor made by the addition of boron with silicon is the example of p-type material. The boron atoms create gap or positive holes in the electronic structure of atom. The electrons move from one hole to another by jumping within the material.
+If an n-type material is sandwiched with a p-type material, a very necessary device is developed which is called a p-n junction diode. It works as a rectifier. Diode makes the electric current unidirectional i.e. the diode transforms the alternating current (AC) into a direct
+
+current (DC). It saves radio, TV, computer etc. to be electrified due to faulty connection.
+
+Figure 13.4: Diode and its symbol
+
+It is necessary to amplify the electric current and voltage for various reasons. The instrument which performs this work is called an amplifier. Transistor is such a device which works as an amplifier and high speed switch. A
+transistor is made when a p-type substance is introduced between two n-type materials like a sandwich. These three layers are called collector, base and emitter. The two n-type regions are the emitter and
+
+collector and the narrow p-type region is the base of the
+
+Fig: 13.5: Transistor and its symbol
+
+
+transistor.
+At the same way, transistor is made by using p-type and n-type semiconductor. Here p- type regions are the collector and emitter and n-type region is the base.
+Transistor is used to amplify the electric current.
+Integrated circuit: Integrated circuit is commonly known as IC. IC is used in most of the electronic appliances starting from computer, mobile phone to microoven which we see around us. IC is such a creation using semiconductor like silicon where millions of microscopic electronic circuits are gathered in a place like the nail of our finger. Revolutionary changes took place in the design of IC chips after its invention in 1960. At the early stage, there were hundreds of circuits or components organized in the IC chips. The number reaches to thousands by 1970. At that time IC was used only in computers and pocket calculators. At present, a single IC chip can contain millions of components which are able to operate or drive many complex devices or machines. The famous Intel chip is an example of it. The interesting matter is that as the number of components is increasing, the size of the chips is getting smaller and the standard of the devices is being developed.
+If the IC chips were not invented and developed, we would not get creative devices like mobile phone, internet, MP-3 player and so on. The modern IC chips have brought a revolution and given us many facilities and comforts.
+13.9. Microphone and Speaker
+Microphone is orally known as mike. In a big meeting or program, a speaker delivers his speech in front of an electronic device which is known as microphone or mike. Microphone converts sound into an electric signal. The audience can hear it loudly through a loud speaker. Because the speaker transforms the electric signal of microphone into sound. Perhaps you will have seen the use of microphone and speaker in various ceremonies of your school. Both microphones and speakers are found in tape-recorder, VCR etc.
+Microphone and its functions
+We have already said that microphone is such a device that changes sound wave into electrical audio wave or signal. The frequency and relative amplitude of the electrical audio signal remain the same as that of the sound wave.
+There is a moving coil and a thin metallic sheet named diaphragm in the microphone. When a person speaks through a microphone, the diaphragm vibrates by the sound wave. Diaphragm is that part of the microphone which is designed to transform the vibration of sound into electricity. The vibration of different types of sounds vibrates the diaphragm differently. This vibration makes the diaphragm
+move to and fro in the magnetic field. As a result,	Fig: 13.6 Microphone
+
+
+alternating electric current is induced in the moving coil. Thus microphone converts the sound energy into electrical energy. This is called audio signal. Having amplified, this electric audio signal can be transferred to a long distance through a telephone line or radio. So microphone plays a vital role in television and radio broadcasting, recording and telephone.
+Speaker: Speaker does just the opposite task of the microphone. Speaker converts the electric signal of microphone into corresponding sound wave.
+Functions of speaker: Most of the loudspeakers are moving coil loudspeaker. It has-
+1. A cylindrical permanent magnet which produces a strong
+
+magnetic field.
+
+Fig: 13.7
+
+2. A small coil or wire-loop is suspended. This wire-loop can oscillate to and fro in the magnetic field.
+3. A paper cone remains attached with wire-loop.
+When the alternating current produced by the sound flows through the loop, the loop moves to and fro. For this reason, the paper cone is vibrated. As a result, sound is produced.
+13.10 Information and communication technology
+At present, information and communication technology is a very popular subject. Starting from simple works of our daily life we can do very important tasks of our professional life by using information and communication technology easily. Communications have greatly influenced the life of human being at the beginning of 20th and 21st century. In 19th century, the development and expansion of telephone and telegraph has taken communication power of human one step forward. In 20th century radio, television, cell-phone, fax-machine have brought a revolution in the field of communication. After these, computer and internet have made great contribution to the development of communication.
+Radio: Radio is a wide and important medium of entertainment and communication. We can hear news, song, music, drama, discussion, debate and the advertisements of industrial products. Radio is used to exchange information in army and police department. Radio technology is used in the field of mobile or cellular phone communication. The scientists who have made a
+great contribution to invent radio are Googlielmo Marcony of
+
+Italy and Sir Jagadish Chandra Bose of Bikrampur in Bangladesh.
+
+Fig: 13.8
+
+We can hear sound from radio. How is this sound sent and how can we hear it? In the studio of a radio-telecast station, a person speaks before the microphone. Microphone
+
+
+converts that sound into electric wave. This wave is known as audio signal. The frequency or power of this signal is very weak and its frequency range is 20 hertz to 20000 hertz. This wave cannot go far. So this information carrying low frequency wave is mixed with high frequency electromagnetic wave. This high frequency electromagnetic wave is called carrier wave. This combined wave is called modulated wave. The process of mixing these two waves is called modulation. This modulated wave is also called radio wave. Radio wave is amplified with the help of an amplifier and transmitted to space as electromagnetic wave with the help of antenna of the transmitter. This radio wave spreads out in the space and it is divided into two waves called Ground wave and Sky wave. Ground wave directly reaches to the aerial of receiver. The radio set in our house is a radio wave receiver. The sky wave comes back to the earth by being reflected at the ionosphere and is received by Ariel of the receiver.
+The receiver receives the radio wave and converts into electrical signal. After that the sound wave is separated from the carrier wave by the process of demodulation. Later electrical signal is amplified with the help of amplifier and is sent to loudspeaker. Loudspeaker again changes the electrical signal into sound. We can hear this sound.
+So, the sound is not transmitted from the transmitter to the radio. The sound wave is sent by changing it into electromagnetic wave, the receiver receives the radio wave, the loudspeaker changes it into sound.
+
+
+Figure: 13.9
+Television: Television is such a device by which we can hear the sound and watch the picture of the speakers on the screen from distant place.
+In 1926, Logy Beard was able to send pictures on television. On that day, the TV actor was a talking doll.
+Figure: 13.10
+
+
+How television works: We know that we can see picture on television along with hearing sound. To send the sound and picture on television, there are separate transmitters in the transmitting station by which sound and picture can be sent in the form of electromagnetic wave.
+
+Figure: 13.10
+Pictures are transformed into electrical signals and then sent with the help of one of the transmitters. With the help of another transmitter pictures are transformed into electrical signals and then transmitted them in the form of electromagnetic wave. At first we should discuss about sending and receiving picture. The pictures or the scenery are to be sent has to be converted into electrical signals by the TV camera. This signal is mixed with a high frequency carrier in the modulation process. Afterwards it is sent in the form of electromagnetic radio wave with the help of an antenna.
+TV set receives electromagnetic carrier wave for the picture with the help of antenna. Rectifier separates video electrical signal from the carrier wave. This electrical signal is amplified by an amplifier and it is sent to the electron gun. This electron gun is attached to the back of the picture tube of the television. After receiving the video signal, the electron gun shoots the narrow electron beam like a needle. When the electron beam from the electron gun incidents on the fluorescent phosphor screen of the TV, then flash of light is created. With the combination of these bright and dark spots, bright and dark light spots and flashes are created on the TV screen. The picture sent from the camera is seen on the TV screen with the combination of these bright and dark spots. This forms 25 still picture on the TV screen in every second which our eyes see as moving picture.
+Transmitting and receiving of sound
+The picture which will be sent to television and the sound associated are converted into electrical signal with the help of microphone. This electric wave is mixed with a high frequency electromagnetic wave known as carrier wave and it is transmitted with the help of transmitter.
+The TV set that we use in our house has separate processes of receiving sound and picture signal. The electromagnetic wave comes to our TV antenna sent by the
+
+
+transmitter and creates electric current. This electric current reaches the receiver of television set passing through the wires. The sound receiving receiver of the television set receives this electrical signal and amplifies it. Later it is sent to the loudspeaker which converts this electrical signal into original sound .We can hear this sound.
+Generally these are the functions of black and white television.
+Colour television: There are no major differences between the basic principles of colour TV and Black and White TV. There are three separate electron guns in the camera of colour television for three basic colours (Red, Blue and Green) .There are also three electron guns in the receiving machine of colour television. The screen of colour television is made of three kinds of phosphor granules. A particular colour illuminates the phosphor granules of that particular colour. Consequently, the screen of a television tube gives red, blue and green light spots. Hence the coloured image becomes visible on the TV screen.
+Telephone
+Introduction: Telephone is the largest, most widely used and popular medium of communication in the world. It is used to communicate, send E-mail, Fax, and for computer communication etc. with any other country.
+Alexander Graham Bell invented Telephone in 1875. Through many evolutions, the telephone invented by Graham Bell has reached to the modern dimensions and cordless, cellular and mobile-phone has been made.
+How does telephone work
+In every telephone set, there is a system of receiving and transmitting signal. The mouthpiece of a telephone is microphone, it is the transmitter and the ear-piece is a speaker, and is the receiver. There is a ringer for making the ringing sound and a dialing system in a telephone set. When we speak, the microphone of the mouthpiece converts our voice into electrical signal. This signal reaches to the ear-piece of another telephone through the telephone wire. The speaker of the earpiece converts the electrical signal into sound. As a result, the caller or the called person can
+
+hear the sound and answer. This answer of the called person returns to the telephone set of the caller after being
+converted into electrical signal with the help of microphone of the mouthpiece and it is transformed into sound in the speaker of the earpiece of the caller, then the caller hears the speech of the called person. The electrical signal travels so fast through the telephone wire that it does not delay any single
+
+Figure: 13.11 Land and mobile telephone
+
+moment to transfer. Every telephone set is connected
+
+Figure: 13.11 Function of land telephone
+
+
+to the main regional office through wire. The connection with other telephone set is established through the regional head-office.
+Cell phone or mobile phone: Cell phone or Mobile phone is the most popular and widely used medium of communication of present time. You can not only communicate with other but also, can play games, download music, songs, hear music, watch film and use internet with the help of it. Besides, you can make cash payment, pay bill, check in at the airport and apply for the admission in a college or university using this phone. You can communicate from one corner of the country to another over phone.
+Making and receiving phone call in Mobile:
+This phone is not connected to another phone with wire. This type of phone sends and receives information or speech with the help of radio signal instead of wire. A mobile set is connected to the telephone network through dialing to other mobile sets from the keyboard of one set. When you make a call from a mobile from anywhere, the call travels to the transmitter-receiver tower as a radio wave.
+Then the call travels to the mobile switch station through
+
+micro wave or wire. This station sends this call to the local
+
+Figure: 13.13 Mobile Network
+
+telephone exchange. There the call reaches to the called person as a telephone call. Most of the mobile phones at present work with the combination of sending radio wave and telephone circuit switching.
+Fax: Fax is the short form of facsimile. It is used to send a document as it is, without any change.
+What is Fax: Fax is such an electronic system through which any information, picture diagram or writing can be sent by copying it as it is. Any original document can be reproduced with the help of this machine.
+Though the fax machine was invented in 1842, its journey started in 1930.The scientist Alexander Bain invented fax.
+
+
+
+How Fax works: Modern fax machine is an ultra modern technology of electro optical machine. Here the original document is scanned through electronic process. Then, the scanned signal is transformed into binary signal. This signal is sent using standard modem device through telephone. The receiver of fax machine receives the transmitted electronic signal through modem and converts it into original document by demodulating it. A printer prints out this document just as it is.
+Computer: This is the era of information and technology. The uses of computer are so excessive in every sphere of life including information technology and communication that this era is also called the era of computer. Most of the works of our daily life are being influenced by computer. Computer has become very essential in the field of science and technology. Computer can perform mathematical calculation and give mathematical logic. Besides, performing mathematical calculation, computer can select or choose anything, can copy, can compose, can decorate respectively etc. The use of computer is increasing day by day in the field of trade and commerce, administration, education, industry, medical science, communication, defense, entertainment etc.
+What is computer?
+The word computer means calculator. It is not only a calculating machine but also more than that. Computer is such an electronic device that can receive, process, transform, preserve and send any data. All the computers are controlled by the programmed command which tells the computer what it will have to do.
+
+Figure: 13.15 Computer
+Structure of computer
+Computer is a developed electronic system. Computer collects data, process it according to command and represents results as necessary. Where the computer receives information is called Input. Here the data of the computer is applied. For this, the input devices which are used generally are key-board, mouse-touch pad, scanner, digital camera and microphone. Where data is being processed is called CPU or Central Processing Unit. In this unit, there is memory unit or RAM, control unit and arithmetical logic Unit. The end from where the result is found is Output.
+
+
+There are mainly monitor, speaker and printer as output device. We get the processed data through them. A basic structure of computer is given below:
+
+The elemental devices by which a computer is made are called Hardware. Such as keyboard, mouse, processor, monitor, printer etc. Software is a group of commands that says computer what it will have to do. These are some programs as- Windows-98, Windows-2003, Windows-2007.
+Hardware is the body of a computer and software is its soul.
+Computer is considered as a very essential machine for its speed, ability of preserving data, relevancy, accuracy, tirelessness and automation. Computer can work in an unbelievable speed; it can make millions of mathematical calculations in a second.
+The uses of computer: Computer is being used in many spheres of our life. The fields of using computer are-
+1. Treatment: Computer is used for recording the appointment, identity, address, symptoms of diseases etc of patient, the selection of medicine, to examine the eye, X-ray or other diagnosis, the operation of heart and for the study of medical science.
+2. Trade and Commerce: Computer is used to control the deposit of goods, for commercial communication, for booking ticket, banking system, for giving salary of the staffs, to make budget of income and expense etc.
+3. Transport system: Computer is used to control traffic of ship, aero plane, motorcar, train etc, to control speed, to book ticket etc. Besides, computer is used to send, control and run space craft.
+4. Industries: Computer is being used to produce goods in an automated process, to justify the quality of goods, to collect data, to provide salary of the employees, to
+
+
+maintain schedule of the work etc .To run an atomic reactor or to use such complex and modern machine, computer is very essential.
+5. Education: Computer is being used for teaching in classrooms, for self-learning, to evaluate answer scripts and to publish results.
+6. Defense: Computer is used to conduct Army, to control arms, to communicate etc.
+7. Research: The uses of computer are increasing day by day in the field of research.
+8. Printing: The use of computer has brought about a revolution the field of printing.
+The excessive cost of printing has been reduced for using computer to compose, design etc.
+Internet and E-mail: You must have heard the name of internet and e-mail. Most of you who are living in a town perhaps have sent e-mail using internet from your residence or school. But most of you who are living in villages might have sent e-mail to your friends or relatives from internet and fax shops. At present e-mail is the widely used mailing medium.
+What is internet? Internet is the 'network' of networks or the 'mother of all networks'. It is an international network that has connected more than 400000 small networks of different countries. The American defence division has introduced internet in 1969. Internet is such a group of networks which is made of numerous computers, modems and telephone lines. These elements are mutually connected to one another physically. These networks are able to exchange any kind of information or data among themselves. Internet is the sum of many networks and they work as a single network all together.
+Figure: 13.17 How internet works
+We can browse website, send and receive e-mail, make video conferencing through internet. We can gossip, book tickets of bus, train and plane, can perform electronic trade and commerce, e-banking and shopping through internet. We can send and receive any file or document electronically. In addition, we can find millions of books, journals, magazines of the online libraries, read them if necessary and print them by downloading.
+E-mail: In short electronic mail is known as e-mail. E-mail is a fast and efficient mode of communication with friends, classmates, relatives or colleagues through internet.
+
+
+There is no need of stamp, post card or envelope or post man to send this mail or letter. We can send and receive letters from one computer to another, and exchange documents, pictures and any type of data through internet. The block diagram of sending e-mail is given below:
+
+Figure 13.18
+E-mail distributes the electronic messages and files among one or more electronic mailboxes. E-mail messages can reach to and come from any corner of the world within a few seconds. E-mail address is necessary for both sender and receiver to use e-mail. Follow the e-mail address given below:
+smtapan @ iut - dhaka . edu User ID
+Institution	domain  educational institution
+
+Another example of an easy e-mail address may be, smtapan@gmail.com
+Effective uses of instruments related to information and communication:
+We use various types of devices such as phone (land, mobile and cordless), radio, television, fax machine, computer etc. for communication. As a result of using such devices, the world has come to the control of our grip; again many problems have been created also. So we shall have to use them effectively to get maximum advantages from them.
+In our country there is a lack of electricity, so we shall not waste electricity by misusing the devices. Many people commit criminal activities using modern communication system. We shall be careful about them and will not do any criminal offence through these devices.
+We shall not use computer for a long time. Those who works with computer for a long time, they feel excessive stress in their arteries or veins, nerves, wrists, shoulders and neck for using the mouse and keyboard for a long period of time. If they do not take enough rest during the break of work, various problems may arise in these organs along
+
+
+with pain. Among these problems there are- pain in the hands, arms and fingers, swelling up of the fingers etc.
+If anyone works on a computer without taking rest for long time, he or she will fall victim to eye-problems. This is called computer vision syndrome. Among the syndromes there are: burning of eyes, dryness of eyes, itching of eyes and redness of eyes.
+When you will work on a computer; you should sit properly and look forward. The hands should not be kept on anything during typing and hands and fingers should be kept straight. The screen of the computer should be kept 20 to 24 inches (50-60 cm) apart from the eyes. The light from the lamp over your head and that on the table should be dimmed so that they cannot fall on your eyes or on the screen of computer.
+The problems caused by radio and televisions are mainly health problems related to sound pollution. Many of you play radio and televisions in a high volume. It does not only creats problem in your ears but also if there are patients suffering from heart diseases or high blood pressure or any other patients neighbouring you, they may suffer more and get restless from sound pollution. The people, who listen to radio and television with high volume, may fall victim to headache, hearing problems, tiredness etc. health problems. So, do not play radio and television with high volume.
+Many people disturb others misusing mobile phone. We should refrain ourselves from such activities.
+
+
+Exercise
+
+A. Multiple choice questions Tick (? ) the correct answer.
+1. What do mean by alpha particle emitting from radioactive elements?
+(a) a hydrogen nucleus	(b) a helium nucleus
+(c) a charge neutral particle	(d) a negative particle
+2. What is actually beta ray emitted due to the radioactive decay?
+(a) the flow of negative electrons  (b) a charge neutral particle
+(c) a positive nucleus	(d) flow of positive protons
+3. What is called a silicon chip if millions of circuit is added to it?
+(a) parallel circuit	(b) semiconductor transistor
+(c) integrated circuit	(d) semiconductor diode
+
+
+4. What is the function of a camera in broadcasting television?
+(a) to transform picture into electrical signal (b) to transform picture into sound wave
+(c) to transform electrical signal into picture (d) to transform sound wave into picture
+B. Creative question
+1. The world is getting smaller. We live in a global village. Information and communication technology have connected all the people of the world effectively and efficiently. The major media of communication are television, radio and telephone.
+a) What is communication machine?
+b) How does telephone work? Explain.
+c) How does a radio station transmit a signal of definite frequency and how does it reach the people, explain with diagram.
+d) Analyze and compare the effectiveness of television and radio as communication machine.
+2. The cricket match between Bangladesh and India is being telecast on BTV from the Premadasha Stadium of Srilanka. As a result we can enjoy the cricket match on television staying at home.
+a) What is analogue signal?
+b) Explain a digital signal drawing a picture.
+c) Explain the telecast-technique of the cricket match.
+d) How does the communication technology improve the standard of life? Explain.
+C. General questions
+1. What is radioactivity? Explain.
+2. What is the difference between alpha and beta particles?
+3. What is integrated circuit?
+4. What is internet? What can you do through it?
+5. How does fax work? Discuss.
+
+
+
+
+
+

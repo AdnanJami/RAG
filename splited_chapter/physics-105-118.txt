@@ -1,0 +1,419 @@
+
+
+Chapter six
+EFFECT OF HEAT ON SUBSTANCES
+
+
+[Heat is a form of energy related to the motion of molecules of substances. Temperature is an indicator to indicate the direction at which heat energy will flow. By the application or elimination of heat, shape of solid, volume of liquid and volume and pressure of gasses are changed. Application or removal of heat transforms a substance from one state to another. Such effects of heat on substances will be discussed in this chapter.]
+By the end of this chapter, we will be able to -
+1. Explain heat and temperature.
+2. Explain the thermal properties of matter.
+3. Analyze the relationship among Fahrenheit, Celsius and Kelvin scale.
+4. Explain the increase in temperature with the increase of internal energy of the substances.
+5. Explain the thermal expansion of substances.
+6. Explain the expansion in length, area and volume of a solid.
+7. Explain the real and apparent expansion of liquid.
+8. Explain the effect of heat in changing the state of matter.
+9. Explain melting, vaporization and condensation.
+10. Explain melting and boiling point.
+11. Explain the effect of pressure on melting point.
+12. Explain boiling and evaporation.
+13. Explain the latent heat of fusion and vaporization.
+14. Explain the cooling effect of evaporation.
+15. Explain the influence of factors on vaporization.
+16. Explain specific heat and heat capacity.
+17. Explain the principle of measurement of heat.
+
+
+6.1 Heat and Temperature Heat:
+Heat is a kind of energy which creates the sensation of hotness and coldness. Heat flows from hotter to colder bodies. Therefore the energy that transfers from one body to another due to the difference of temperature is called heat.
+The molecules of a substance always remain in the state of vibratory motion. So they possess kinetic energy. The total amount of energy of a substance is directly proportional to the sum of the kinetic energy of the molecules constituting the substance. When heat is applied to a body the motion of the molecules increases and as a result the kinetic energy of the molecules increases.
+Unit of Heat: In SI system the unit of heat is joule (J). Earlier the unit of heat used to be calorie (Cal). The relation between joule and calorie is 1Cal = 4.2 J.
+
+Water at a certain temperature is in the container B; yet hotness will be felt by the right hand and coldness by the left hand. Because the water in which the right hand was immersed previously was at a lower temperature than the water contained in B. Similarly coldness will be felt by the left hand because the water in which the left hand was immersed previously was at a higher temperature than the water contained in B.
+Temperature
+Temperature is such a thermal condition of a body which determines whether the body will receive or give up heat when it comes in thermal contact with another body.
+Temperature may be compared with the free surface of a liquid. We know that liquid flows from a higher level to a lower level. In the figure the height of liquid in vessel A is more than that of the liquid in vessel B. But the amount of
+liquid in vessel A is less than the amount of liquid in vessel
+B. When stop cork S is opened the liquid from vessel A will start flowing to vessel B until the height of the liquid on both sides become equal. In the same way after the thermal contact, heat continues to flow from hotter body to colder one until the temperatures of the both bodies come to
+
+equilibrium position. The body with more temperature will
+
+Fig: 6.2
+
+lose heat whereas the body having less temperature will gain heat. The name of the apparatus used to measure the temperature is called thermometer.
+
+
+Unit of temperature: In SI system the unit of temperature is Kelvin (K).
+Kelvin: The particular temperature and pressure at which water remains at its three states- solid, liquid and gas, is called the triple point of water. The temperature of the triple point of water is considered as
+
+	1	
+273.16
+
+th part of the temperature of the triple point of water is called 1K.
+
+6.2 Thermometric properties of matter:
+Special properties of matter are used to measure the temperature. Some physical properties of substances change uniformly with the change of temperature. Using that physical property of substance temperature can be measured easily and accurately and it is called the thermometric property of that substance. Thermometric substances are used in thermometers.
+Thermometric properties of substances are - volume, resistance and pressure etc. In mercury thermometer the mercury in the capillary glass tube is called thermometric substance and the length of the mercury column is called thermometric property. Similarly in the case of gas thermometer the gas kept in the container at a constant volume is termed as thermometric substance and the pressure of the gas is called thermometric property.
+6.3 Relation among Celsius, Fahrenheit and Kelvin scale:
+A scale of temperature is essential to indicate the temperature of a body accurately. Two definite temperatures are taken as constant to prepare a temperature scale. These two temperatures are called fixed points. The two fixed points are lower fixed point and the upper fixed point. At standard pressure and at the temperature at which pure ice melts to water or pure water freezes to ice is called the lower fixed point. It is also termed as freezing point or ice point. Again at standard pressure and at the temperature at which pure boiling water converts into water vapor is called upper fixed point. The upper fixed point is also called boiling point or steam point. The
+temperature difference between the two fixed points is called the fundamental interval of a thermometer. The fundamental interval i.e.	` the space
+\in between the two fixed points is divided in different ways to prepare different scales of temperature. There are three scales of temperature in use - Celsius, Fahrenheit and Kelvin scale. The units of temperature of these three scales are °C, °F and K respectively. The lower fixed point in Celsius scale is 0°C, in Fahrenheit scale 32°F and in Kelvin scale it is 273K. The upper fixed point in Celsius scale is 100°C, in Fahrenheit scale 212°F and in Kelvin scale it is 373K.
+
+
+Establishing a relation among different scales of temperature:
+Let A and B be the lower fixed point and upper fixed point of a thermometer respectively (figure 6.3). Three more thermometers graduated in Celsius, Fahrenheit and Kelvin scale are kept side by side. The readings of the point P of the thermometer AB in other three scales are C, F and K respectively. Therefore the readings of distance PA in these three scales are C-0, F-32 and K-273 respectively. Since PA is a constant it can be
+
+written, PA =  C-0 
+
+=  F-32  =  K-273 
+
+BA	100-0
+
+212-32	373-273
+
+or,  C  = F-32 = K-273
+100	180	100
+
+or, C
+
+= F-32 = K-273
+
+(6.1)
+
+5	9	5
+Equation (6.1) indicates the relation among Celsius, Fahrenheit and Kelvin scale.
+The convenient relation between Celsius and Kelvin scale is - by adding 273 to Celsius scale reading the Kelvin scale reading can be obtained. For example, 1°C temperature = (1+273) K = 274 K temperature. But if the temperature difference is 1K, then it is equal to 1°C.
+ Mathematical example 6.1:The temperature of body of a healthy man is 98.4°F. What would be the reading in Celsius scale?
+
+We know, C = F-32
+
+Given,
+Temperature in Fahrenheit scale, F
+= 98.4°F
+
+5	9	Temperature in Celsius scale, C = ?
+or, C = 98.4-32
+5	9
+or, C = 36.89 °C Ans: 36.89 °C
+6.4 Raise of temperature and internal energy of body:
+On the basis of molecular kinetic theory of substances we know that the molecules of a substance always remain in motion. The molecules of a solid vibrate about a fixed point. The molecules of liquids and gases move at random in different directions. Kinetic energy develops due to this motion of the molecules. Again attraction and repulsion forces are present among the molecules of a solid and this is the cause for the generation of potential energy. Among the gaseous molecules attraction-repulsion force does not exist and so there is no potential energy. The sum of the kinetic and potential energy of the molecules of a substance is called its internal energy. Evidently a part of the internal energy originates from kinetic energy and the other part from potential energy. If thermal energy is applied to a body then its internal energy will increase. But only the kinetic energy of the internal energy causes the raise of temperature of the body.
+
+
+6.5 Thermal Expansion of substance:
+Almost all the substances expand due to application of heat and contract for the extraction of heat. When a body is heated the heat energy and as such the kinetic energy of each molecule of the body increases. In solids the molecules vibrate with enhance energy against the intermolecular force and as a result the displacements of the molecules from their equilibrium position increase. But during displacement of a molecule from its equilibrium position a force of attraction is exerted on it. When the molecule tends to go near to its neighboring molecules then a repulsive force acts on it. Again with the increase of intermolecular distance a force of attraction acts on the molecule. For the increase in temperature the molecules of a solid vibrate but it is not a simple harmonic oscillation. Because, if the distance between two molecules is lessened than the distance in their equilibrium position then the repulsive force increases rapidly. But as the distance between two molecules relative to their equilibrium position increases, then the attractive force increases. But it does not happen as quickly as in the case of repulsive force. As a result due to increase of temperature when the molecules of a body vibrate at a random fashion they approach further towards the exterior than towards the interior. As such the average equilibrium position of each molecule gets displaced towards the exterior and the body expands. Since intermolecular force is less in liquids, expansion due to heat is more in it. For gaseous substances with the increase of temperature the random motion of the molecules increases. The thermal expansion of gases is maximum. The expansion of liquid is lower than that of gas and expansion of solid is the least.
+6.6 Expansion of solids:
+With the application of heat the length, area and volume of solid substance expands.
+Linear expansion of solid and coefficient of linear expansion:
+When heat is applied to a solid substance elongation of its length occurs towards a definite direction and the expansion along its length is called linear expansion.
+Let the length of a bar at ?1 temperature be l1 and at ?2 temperature the length be l2. Increase in length = l2 - l1
+And increase of temperature = ?2 - ?1
+The coefficient of linear expansion is denoted by ? and it can be expressed as,
+
+=		l2 - l1 l1(?2 - ?1)
+
+... ... ... (6.2)
+Increase in length
+
+=	Initial length x increase of temperature
+
+In equation 6.2, if the initial length l1 = 1m and increase of temperature, ?2 - ?1 = 1K, then
+? = l2 - l1 = increase in length.
+
+
+
+
+Fig: 6.4
+
+
+So, the increase in length of a solid rod of 1m for a rise of temperature 1K is defined as the coefficient of linear expansion of the material of the solid.
+Its unit is K-1. The coefficient of linear expansion of copper is 16.7 × 10-6 K-1 means if the temperature of copper rod is raised through 1K, then its length increases by 16.7 × 10-6 m.
+Mathematical example 6.2: The length of a steel rod is 100m at 20°C. If its length becomes 100.033m at 50°C, then determine the coefficient of linear expansion of steel.
+
+We know,
+
+
+l - l
+
+Initial length, l1 = 100m
+
+	2	1	
+Coefficient of linear expansion,	=
+1  2	1
+
+0.033m
+= 100m x 30K
+= 11 10-6 K-1
+
+Final length, l2 = 100.033m Initial temperature, ?1 = 20°C Final temperature, ?2 = 50°C
+Increase of temperature (?2 - ?1) = 30K Increase in length, (l2 - l1) = 0.033m Coefficient of linear expansion, ? = ?
+
+
+
+
+The rails expand due to heat of the sun or due to heat produced by
+friction between the wheels and rails while the train runs. For this expansion sufficient space is kept between the two rails. If gaps between the rails are not kept, the rail line will bend due to its expansion.
+Superficial expansion and coefficient of superficial expansion: The area of a solid is increased with the increase of temperature. It is called superficial expansion.
+Let initial surface area of a solid at ?1 temperature = A1
+When the temperature is increased to ?2 the final surface area = A2
+Increase in temperature = ?2 - ?1
+And increase in area = A2 - A1
+The coefficient of superficial expansion is expressed by the symbol ß
+
+
+
+
+
+
+Fig: 6.6
+
+? Superficial expansion, ß =
+ 
+A2-A1 A1(?2-?1)
+
+... ... ... (6.3)
+Increase in surface area
+
+=	Initial area x increase of temperature
+In equation 6.3 if the surface area A1 = 1m2 and the increase of temperature (?2 - ?1) = 1K is considered, then the increase in surface area ß = A2-A1=increase in surface area.
+So, the increase in surface area of 1m2 surface area of a solid for the rise of temperature 1K is called the coefficient of superficial expansion of the material of that solid. Its unit is K-1. The coefficient of superficial expansion of copper is 33.4  10-6 K-1. It means that if the temperature of a copper body is increased through 1K, then the increase in surface area of copper is 33.4  10-6 m2.
+
+
+
+Volume Expansion and Coefficient of Volume Expansion:
+The volume of a solid substance increases if its temperature is increased. It is called volume expansion.
+Let, the initial volume of a substance be V1 and initial temperature be ?1. When the temperature is raised to ?2, its volume becomes V2 after being increased. There increase in volume is V2 - V1 and increase of temperature = ?2 - ?1.
+Now if the coefficient of volume expansion is represented by ?, then
+V2-V1
+
+
+
+
+
+
+V2
+Fig: 6.7
+
+? =	V (? -? )
+
+... ... ... (6.4)
+
+1  2  1
+Increase in volume
+=	Initial volume x increase of temperature
+In equation 6.4 if the initial volume V1 = 1m3 and increase of temperature, ?2 - ?1 = 1K, then
+? = V2 - V1 = increase in volume.
+Therefore, the increase in volume of a solid of volume 1m3 for a rise of temperature 1K is called the coefficient of volume expansion of the material of the solid.
+The coefficient of volume expansion of copper is 50.1 10-6 m3 means that if the temperature of a copper body with a volume of 1m3 increases through 1K then its volume will increase by 50.1  10-6 m3.
+The relations among ?, ß and ? are as follow:
+? = 3? and ß = 2?
+6.7 Expansion of liquids:
+Liquids have no definite length or area. But it has definite volume. If the temperature is increased its volume increases. So, the expansion of liquid means the expansion in volume of the liquid. The rates of increase in volume of all the liquids are not the same. Different liquids having the same volume expand differently for the same rise of temperature.
+Experiment:
+A number of long necked glass bulbs of equal volume and size are taken. Equal volume of water, alcohol, kerosene, ether etc are taken in these bulbs (fig 6.8). Now water at room temperature is taken in a comparatively larger vessel
+
+and the bulbs are placed vertically in it. The upper level of
+
+Fig: 6.8
+
+the liquids in all the bulbs will be the same. Now some hot water is poured into the vessel. After some time the bulbs will attain a higher temperature and it will be seen in the stem of the bulbs the upper level of different liquids are not at the same height rather their heights are different. So, it is understood that the volumes of different liquids of same volume expand differently for a definite increase of temperature.
+
+
+6.8 Real and apparent expansion of liquids
+Liquid always has to be heated keeping it in a container. The liquid as well as the container expand when heat is applied. So, the expansion of the liquid observed by us is not the real expansion but it is an apparent expansion.
+There are two types of expansions of liquids-
+a. Real expansion
+b. Apparent expansion
+Real expansion:
+If it had been possible to heat a liquid without keeping it in a vessel then the real expansion of the liquid that would be obtained is called real expansion of the liquid. But heating a liquid without a container is not possible. So, considering the expansion of the container the actual expansion of the liquid that is obtained is called the real expansion. It is expressed by Vr.
+Apparent expansion:
+The expansion of liquid apparently observed without considering the expansion of the container is called the apparent expansion of liquid. It is denoted by Va.
+Relation between real expansion and apparent expansion:
+A glass bulb with a long graduated stem is filled with liquid up to the mark A. Now keeping an eye on the liquid column the bulb is heated and it is observed that the upper level of the liquid comes down from position A to position B. After that it moves up from the graduated line B crossing the mark A and reaches to mark C. The reason is that when heat is applied the volume of the bulb increases at first. Due to this cause liquid comes down to B from A. Later on as soon as the liquid gets heated its volume starts to increase and reaches from B to C. It happens so as the expansion of liquid is more than the expansion of solid. Apparently it appears to us that the liquid was at mark A and finally reaches to mark C. Therefore, CA is the apparent expansion. CB is the real expansion and AB indicates the expansion of the container.
+From figure it is observed that,
+CB = CA+AB
+or, Real expansion = Apparent expansion + expansion of the container
+?Vr = Va + Vg ... ... ... (6.5)
+6.9 Effect of heat on change of state:
+Matter can exist in three states e.g. solid, liquid and gas. All of us know that water has three states-ice, water and vapor. These three states are called solid, liquid and gas. These states of water depend on air
+
+pressure and temperature.
+
+Fig: 6.8
+
+A solid may be liquefied by applying heat. This process is called fusion. At the beginning the temperature of a body rises with the application of heat and at one stage the temperature does not change even if more heat is applied. At this moment the
+
+
+amount of heat absorbed by a body is used to convert the solid into liquid only. If heat is applied to ice below 0°C, temperature will rise and reach at 0°C. After this if more heat is applied the temperature will not rise but the ice will begin to melt to water. The amount of heat absorbed during the conversion of a solid to liquid is used to break the intermolecular bond of the molecules.
+On further heating the temperature of water of 0°C starts to rise. At a stage, water starts vaporizing and the temperature remains unchanged. During this time water absorbs heat to become vapor. Here also the effect of heat is used to break the intermolecular bond among the liquid molecules. On the other way around, gaseous substance may be converted to liquid and liquid to solid by extracting heat from them. So, on the transformation of substances effect of heat is remarkable.
+6.10 Fusion, Vaporization and Condensation:
+Fusion
+To transform a substance from solid to liquid by applying heat is called fusion. The definite temperature at which a solid starts to melt is called its melting point. This temperature remains unchanged until all of the substance melts.
+Vaporization
+The phenomenon of transformation of a liquid from its liquid state to gaseous state is called vaporization. This vaporization may occur in two processes-
+i) Evaporation
+ii) Boiling
+Evaporation
+The process in which a liquid at any temperature slowly changes from its free surface into vapor state is called evaporation.
+
+The water has been converted into vapor even at the room temperature and for this the amount of water has been lessened. This is called evaporation.
+Boiling
+The process in which a liquid is rapidly converted into vapor by increasing its temperature through application of heat is called boiling.
+The temperature at which boiling of liquid begins is called the boiling point of that liquid. The value of boiling point depends on pressure.
+Condensation:
+The process of converting a gaseous substance from its gaseous state to liquid state by lowering the temperature is called condensation.
+
+
+6.11 Effect of pressure on boiling point
+
+As the pressure acts on the surface of contact of the two pieces of ice, the melting point goes down i.e. the melting point becomes less than 0°C. But the temperature of the surface of contact remains at 0°C. So, ice at the surface of contact melts. The required amount of heat needed for melting is collected from the ice. After the removal of pressure the melting point again becomes 0°C. As a result the water obtained from the fusion of ice at the
+surface of contact again freezes to ice. For this reason if pressure is applied then two pieces of ice unite together to form a single piece.
+To melt a solid substance into liquid by applying pressure and again to bring it back to the solid state by reducing the pressure is called regelation.
+The melting point of a substance changes due to the variation of pressure on the substance. The changes of melting point may occur in two different ways for pressure.
+* The solid substances whose volumes contract on melting, their melting points reduce with the increase of pressure i.e. they melt at a lower temperature.
+* The solid substances whose volumes expand on melting, their melting points
+increase with the increase of pressure i.e. they melt at a higher temperature.
+6.12 Latent heat of fusion and latent heat of vaporization
+Latent heat of fusion: We know, when the temperature of a solid reaches the melting point due to application of heat then the temperature remain unchanged until all the substances transform into liquid. Here the amount of heat required to transform the solid into liquid is nothing but latent heat of fusion.
+This heat energy does not change the temperature but is used to loosen the intermolecular bond of the molecules of the substances.
+Latent heat of vaporization: If heat is applied to a liquid and its temperature reaches at the boiling point then whatever amount of heat is applied the temperature will remain unchanged until all the liquid is converted into vapor state. Here the amount of heat required to convert the liquid into vapor state is called latent heat of vaporization.
+Evaporation produces cooling:
+In summer days the water kept in a new earthen pitcher becomes cold. Uncountable numbers of pores are there on the body of an earthen pitcher. Through these pores water seeps out and evaporates. The needed amount of latent heat is provided by the water of the pitcher and as such the water becomes cold.
+Water kept in the glass or brass vessel does not become cold. Because the body of this kind of container has no pore and there is no possibility of evaporation.
+Now explain why do you feel cold when air blows over your sweating body?
+
+
+6.13 Dependence of Evaporation on Various Factors:
+Evaporation depends on the following factors:
+Flow of air: The speed of evaporation increases if the air flows faster over the liquid.
+The area of the exposed surface of the liquid: Evaporation increases as the area of the exposed surface of the liquid increases.
+Nature of liquid: The rates of evaporation of different liquids are different. Less the boiling point of a liquid, more would be the rate of evaporation. The rate of evaporation of volatile substances is maximum.
+Pressure on the liquid: The rate of evaporation decreases with the increase of atmospheric pressure on the liquid. The rate of evaporation increases with the decrease of pressure. The rate of evaporation in vacuum is maximum.
+Liquid and the temperature of the air in contact with the liquid: If the temperature of the air in contact with the liquid increases then the rate of evaporation will increase.
+Effect of dryness: The more the dryness of the air over the liquid surface i.e. the less the amount of water vapor in the air more will be the rate of evaporation. The soaked cloths dry up quickly in winter because air remains dry at that time.
+6.14 Thermal Capacity:
+The amount of heat required to raise the temperature of a body through 1K is called the heat capacity of that body. The heat capacity depends on the material and the mass of the body. Its unit is JK-1. The heat capacity of a body is 10JK-1 means 10J heat is required to raise the temperature of the body through 1K.
+Let, Q amount heat is required to increase the temperature of a body through ??. Therefore the amount
+of heat required to raise the temperature of the body through 1K is	Q	.
+Q	??
+? Heat capacity, C =	??	... ... ...	(6.6)
+6.15 Specific Heat
+The amount of heat required to raise the temperature of a body of mass 1Kg through 1K is called the specific heat of the material of that body. It is denoted by the letter S.
+Mathematically we can express,
+
+C	1	Q
+Specific heat, S = m  =  m x	??
+
+Q
+=  m??
+
+... ... (6.7)
+
+Here,
+C = Heat Capacity
+
+Unit: The unit of specific heat is Jkg-1K-1.
+The specific heat of lead is 130Jkg-1K-1 means 130J heat is required to raise the temperature of 1kg of lead through 1K.
+Specific heat of some matters
+
+Q = Absorbed Heat
+?? = Increase of temperature
+m = Mass of the body
+
+
+MatterSpecific Heat (Jkg-1K-1)Water4200
+
+MatterSpecific Heat (Jkg-1K-1)Ice2100Water Vapor2000Lead130Copper400Silver2306.16 Relation between specific heat and thermal capacity
+We know, the amount of heat required to increase the temperature of a body through 1K is called its heat capacity. Again if the specific heat of the material of a body is S, then S joule heat is required to raise the temperature of the body through 1K.
+Therefore,
+to increase the temperature through 1K of a body with a mass of 1kg the amount of heat required = S joule
+? to increase the temperature through 1K of a body with a mass of m kg the amount of heat required = mS joule
+It is the heat capacity of the body with a mass of m kg.
+?Heat capacity, C = mS joule ... ... ...	(6.8) or, Heat capacity = mass × specific heat
+Heat Capacity
+
+? Specific heat =
+
+mass
+
+It is the relation between heat capacity and specific heat.
+6.17 Fundamental principle of Calorimetry
+When two bodies of different temperatures are brought in thermal contact then reception and donation of heat take place. The body at higher temperature leaves heat whereas the body at lower temperature receives heat. This give and take will continue until they reach at the thermal equilibrium.
+If no heat is lost during donation and reception of heat, then the amount of heat given up by the body at higher temperature will be equal to the heat gained by the body at lower temperature.
+So, Heat lost = Heat gained ... ... ...	(6.9)
+It is called the principle of Calorimetry.
+Investigation no 6.1
+Determination of melting point of ice
+Aim: To observe the melting of ice and to find the relation between temperature and melting point and to draw a graph.
+Apparatus: Celsius thermometer, ice, stand, burner, beaker, stopwatch.
+Working procedure:
+1. After grinding some ice put them in a beaker.
+
+
+2. Carefully dip the thermometer in ice in such a way that the bulb remains in the ice but it does not come in contact with the wall of the beaker.
+3. The temperature is to be recorded slowly after applying heat.
+4. Take the reading of the temperature every after each minute until all the ice melts.
+5. Following the above procedure continue to apply heat even after all the ice melts and the temperature becomes 20°C-25°C. Record the temperature every after each minute.
+6. Draw a temperature vs. time graph using the obtained data.
+7. Find the melting point of ice from the graph.
+8. Analyze the nature of the graph.
+Drawing of temperature vs. time graph.
+
+
+ 
+Investigation no. 6.2
+Name of the Experiment: Determination of boiling point of water.
+Objective: To observe the boiling point of water and to find the relation between temperature and boiling point and to draw a graph.
+Apparatus: Thermometer, burner, beaker and stopwatch.
+Working Procedure:
+1. Take some water in a beaker at room temperature. Place the thermometer in the water of the beaker in such a way that the bulb may not touch the wall of the beaker.
+2. Heat the water with a burner and take the reading every after each minute to record the rise of temperature.
+3. Notice that after reaching the temperature of 100°C, the temperature of water does not increase even after the application of more
+heat.
+4. Draw a temperature vs. time graph on the basis of obtained data.
+5. Determine the boiling point of water from the graph.
+6. Analyze the nature of the graph.
+Drawing of temperature vs. time graph.
+
+
+
+
+A. Multiple choice questions
+
+Exercise
+
+Give tick mark by the side of the correct answer.
+1. At the time of construction of a rail line why a small gap is kept in between two rails?
+a) To save iron.
+b) In summer to increase or to decrease the temperature of the rail line.
+c) To produce knocking sound when the trains run.
+d) To avoid bending of the rails for its thermal expansion.
+2. Why do we feel comfort when wind is blown by fans over our sweating body?
+a) The wind blown by the fan prevents sweat to go out of the body.
+b) Evaporation produces cooling.
+c) The air blown by the fan bears cold water vapor.
+d) The air blown by the fan enters into our body through hair follicles.
+3. With the help of latent heat ---
+i. The temperature of a body increases.
+ii. The state of a substance changes.
+   iii. The internal energy of a body increases. Which one is correct?
+(a) i	(b) ii	(c) ii & iii	(d) i, ii & iii With the help of the figure give answer of the question no. 4 & 5
+
+4. How much time was required to melt all of the ice?
+a) 2min	b) 4min
+c) 6min	d) 8min
+5. What is the required time in minute for the melten water to reach the boiling temperature?
+a) 6min	b) 8min
+c) 12min	d) 18min
+B. Creative Question
+1. The distance between two electric poles is 30m. A copper wire with a length of 30.01m was connected to those two pillars in a day when temperature was 30°C. Coefficient of linear expansion of copper is 1.67 10-6K-1. The wire tore in a winter day when the temperature of the air was 4°C.
+a) Define triple point of water.
+b) If two bodies have the equal amount of heat, yet can they be at different temperature? Explain.
+c) Express the temperature of air in Fahrenheit scale.
+d) Explain the cause for the wire to tear with mathematical logic.
+
+
+
+
+
+

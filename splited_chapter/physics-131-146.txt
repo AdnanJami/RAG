@@ -1,0 +1,298 @@
+
+Chapter eight
+REFLECTION OF LIGHT
+
+
+
+[We see many things around us. When light comes directly to our eyes from any source, we can see the source. Again, when light emitted from a light source comes to our eyes after reflection from the surface of any object, we see the object too. Light is a kind of energy or external cause which enables us to see or creates the sense of vision in our eyes. In this chapter we will discuss about nature of light, mirrors, laws of reflection of light, types of mirror, how image is formed in a mirror, uses of mirror and magnification of images.]
+By the end of this chapter, we will be able to-
+13. Explain nature of light.
+14. Explain the laws of reflection of light.
+15. Explain mirrors.
+16. Explain images.
+17. Explain formation of images in mirrors by drawing action line of light rays.
+18. Explain some common phenomena of formation of images in plane and spherical mirrors.
+19. Explain uses of mirrors.
+20. Explain magnification.
+21. Demonstrate formation of images.
+22. 	Realize the influence of different optical phenomena and their contributions in our life and appreciate them.
+
+
+8.1 Nature of light
+We know, light is a form of energy by which we are able to see the objects. When light comes from an object to our eyes, we see the object at that time. The light entered into the eyes forms an image of the object in the retina and develops a sense of vision similar to the object in our brain through a complex process. Men have been trying to achieve knowledge about the nature of light from an ancient period. Once it was thought that light falls on an object from our eyes, so we see that object. Actually, when light comes to our eyes from an object, only then we can see the object.
+The major properties of light are:
+1. Light travels in a straightway through a transparent homogeneous medium.
+2. Light travels with a definite velocity in a definite medium. The value of this velocity in vacuum is c ? 3?108 ms-1.
+3. Reflection, refraction, interference, diffraction, dispersion and polarization of light take place.
+4. Light is a form of energy.
+5. Light is a kind of electromagnetic wave.
+6. Light behaves as wave in some cases and also as particle in some incidents.
+8.2 Laws of reflection of light
+We see many kinds of objects around us. Some of them give off light all around and some are not. The objects (such as- sun, star, lighted candle etc.) emit light of their own are called luminous objects. Conversely, objects (such as men, trees, table, wall, picture, chalk board etc.) that have no light of their own or do not emit light are called non- luminous objects. When light comes from the luminous object to our eyes we see the object. The common objects which we see around us are not luminous; in spite of this we can see them. The reason behind it is the reflection of light. Figure 8.1 shows how we can see a luminous (sun) and a non-luminous (cat) object. Eye sees the luminous object because light enters the eye directly from it. The light coming from the luminous object reflected by the cat enters our eyes and so we can see the cat.
+Figure 8.1
+
+
+In a homogenous transparent medium (e.g.- glass) light travels in straight line with the same velocity. But when light travelling through the first medium falls on the surface of a second medium, then a portion of the light returns back to the first medium from the surface of separation of two medium. This phenomenon is called reflection of light.
+Laws of reflection:
+The incident and reflected ray obey two simple laws:
+1. First law: The incident ray, reflected ray and the normal at the point of incidence on the reflector lie in the same plane.
+2. Second law: The angle of incidence is equal to the angle of reflection.
+
+Figure 8.2: Reflection of light
+When light is reflected from a surface, then it must obey the laws of reflection. How light will be reflected from a surface depends upon the nature of the reflecting surface. Depending on the nature of the reflecting surface, reflection may be of two kinds.
+1. Regular or uniform reflection
+2. Diffused or irregular reflection
+1. Regular reflection: If a parallel beam of light falls on a smooth surface and after reflection remains parallel, or is converted into a convergent or a divergent beam, then such type of reflection is called regular reflection. For example- when a parallel beam of light incident on a plane mirror or on a well polished metal surface, the beam remains parallel even after reflection. In this case, the angle of incidence for each incident ray is the same and the angle of reflection for each of the ray is also the same due to regular reflection.
+
+Figure 8.3: Regular reflection	Figure 8.4: Diffused reflection
+
+
+Diffused reflection
+If a parallel beam of light is incident on a surface and after reflection it is neither parallel nor converted into a convergent or a divergent beam, then such reflection is called diffused or irregular reflection.
+Figure 8.4 shows that a parallel beam of light incidents on a rough surface. In this case, the rays incident at different angles at different point of incidence on the rough surface, as a result the corresponding angle of reflection of these rays become different. Due to this, the reflected rays are no more parallel. Objects which we see around us, most of their surfaces are not smooth. As a result, the reflected rays which enter to our eyes are diffused in nature. Due to this, the objects appear dim instead of bright. Most of the surfaces which appear smooth to naked eyes actually are not smooth. When these objects are viewed with a microscope then they appear rough.
+8.3 Mirror
+A mirror is a smooth surface on which regular reflection takes place. A clear image of an object placed in front of a mirror is formed due to reflection of light.
+A mirror is made by giving a reflecting coating on a smooth surface. Generally a mirror is prepared by giving metal coating on one surface of glass. This process of coating with mercury or silver on glass is called silvering. Here, the surface opposite to the surface having metal coating works as the reflecting surface. Besides, surface of calm water, smooth ice etc. works as mirror.
+Mirrors are mainly of two types. Namely-
+1. Plane mirror
+2. Spherical mirror
+Plane mirror: If the reflecting surface is plane and smooth and regular reflection of light takes place on it, then this surface is called plane mirror. The mirror which we usually use is plane mirror.
+Spherical mirror
+If the reflecting surface is smooth and spherical, that means if the reflecting surface is a part of a sphere and regular reflection takes place on it, it is called spherical mirror. Spherical mirrors are shown in figures 8.5 and 8.6. If a part of a hollow glass sphere is cut off and silvering is done on one surface, then a spherical mirror is made. Again, spherical mirrors are of two types. These are:
+1. Concave mirror
+2. Convex mirror
+Concave mirror: If the concave surface of a sphere acts as the reflector, that is if regular reflection of light takes place from the concave surface of the spherical mirror, then it is called a concave mirror. In this case, concave mirror is made by silvering on the convex surface of the part of the sphere [figure 8.5]. The concave mirror is a
+
+
+converging mirror since the parallel beam of light converges at a point or meets together after reflection from its surface.
+
+Figure: 8.5	Figure: 8.6
+Convex mirror: If the convex surface of a sphere acts as the reflector, that is if regular reflection of light takes place from the convex surface of the spherical mirror, then it is called a convex mirror. In this case, convex mirror is made by silvering on the concave or inner surface of the part of the sphere [Figure 8.5]. The convex mirror is a diverging mirror since the parallel beam of light diverges from a point or spreads over and never meets at a point after reflection [Figure 8.6].
+Some definitions related to spherical mirrors
+Pole: The central point of the reflecting surface of a spherical mirror is called the pole of the mirror. In figure 8.7, P is the pole of the mirror. Pole is the lowest point of the reflecting surface in case of a concave mirror, while it is the highest point in a convex mirror.
+Center of curvature: The centre of the sphere of which the spherical mirror is a part is called the centre of curvature of that mirror. In figure 8.7, C is the centre of curvature.
+Radius of curvature: The radius of the sphere of which the spherical mirror is a part is called the radius of curvature of that mirror. In figure 8.7, PC or MC is the radius of curvature. Radius of curvature is denoted by r.
+
+
+Figure: 8.7
+Principal axis: The straight line passing through the pole and the centre of curvature of a spherical mirror is called the principal axis of that mirror. In figure 8.7, PC is the principal axis.
+Secondary axis: The straight line passing through the centre of curvature and any point other than the pole on the reflecting surface of the sphere is called the secondary axis. In figure 8.7, P?C is the secondary axis.
+
+
+Principal focus:
+A beam of rays adjacent and parallel to the principal axis being incident on a spherical mirror converges at a point on the principal axis (in case of concave mirror) or appears to be diverging from a point on the principal axis (in case of convex mirror) after reflection, then this point is called the principal focus of the mirror.
+
+
+
+Figure: 8.8	Figure: 8.9
+Focal length: The distance between the pole and the principal focus of a spherical mirror is called the focal length of the mirror. In figure 8.8 and 8.9, PF is the focal
+lengthr. In a spherical mirror, the focal length is half of the radius of curvature. Therefore,
+f ?	.
+2
+Focal plane: The plane imagined that passes through the principal focus and
+perpendicular to the principal axis is called the focal plane.
+8.4 Image
+When you look at a mirror, you see your image. It is not only in the case of mirrors, when you walk by the side of a pond or a river, your image appears in water that time also. This reflection is your image. When light is reflected in a mirror from your body or an object and comes to your eyes we see the image at that time.
+When light reflected from an object comes directly to our eyes, we see the object then. Again, if light does not enter our eyes directly rather it comes to our eyes being reflected or refracted in another medium, then also we see the object. Then it seems that the object is not in its actual position. When you see your image in a mirror, then it appears to you that you are behind the mirror. Actually you are in front of the mirror. The reflection of an object seen at the new position due to the presence of the mirror is called the image of that object.
+
+
+Figure 8.10
+
+
+In figure 8.10, O is a point object in front of a concave mirror. The ray OM from the point O being parallel to the principal axis incident on the mirror and reflected through the principal focus along the line MFI. The ray OP incident on the pole P reflects along the path PI. The reflected rays intersects at the point I. The point I is the image of the point O.
+
+Figure 8.11
+In figure 8.11, O is a point object in front of a plane mirror. From the point O, the ray OT incident perpendicularly on the mirror and reflects along the path TO. The ray OQ incident obliquely on the mirror and reflects along QR. As these two rays are diverging, if they are extended backward they meet at the point I. Therefore, the reflected rays seem to be diverging from the point I behind the mirror. This point I is the image of the point O.
+If a beam of rays after being reflected from or refracted through any surface meet at a second point or appears to diverge from the second point, then the second point is called the image of the first point. An object is the sum of innumerable points. As a result, image of an object is formed as like as an individual point.
+Classification of images
+When you see your appearance in a mirror, you see your image behind the mirror. This happens due to the reflection of light. Image like this formed in a mirror, through which light ray do not actually meet, is called virtual image. Images in which light rays actually meet together (e.g.- images on a cinema screen) are called real images. The pictures formed in the screen of a digital camera are real images. Real images can be displayed in a screen but the virtual images cannot be displayed in a screen. Images are of two types-
+(A) Real image
+(B) Virtual image
+(A) Real image: If light rays emitted from a point after being reflected or refracted on a surface actually converge at a second point, then this second point is called the real image of the first point. In figure 8.10, I is the real image due to reflection.
+(B) Virtual image: If light rays emitted from a point after being reflected or refracted on a surface seem to diverge from a second point, then this second point is called the virtual image of the first point. In figure 8.11, I is the virtual image due to reflection.
+8.5 Image in a mirror
+We know, mirrors are of two types. (A) Plane mirror (B) Spherical mirror. We will discuss how images are formed in plane and spherical mirrors.
+
+
+Formation of image in a plane mirror
+(A) Point object
+In figure 8.12, O is an object in front of a plane mirror M1M2. Ray OT from the point O incident normally on the plane mirror and reflected back along TO. Another ray OQ incident obliquely on the mirror and reflected along the path QR. If the reflected rays QR and TO are extended backward, they meet at the point I. As if the reflected rays are coming from the point I situated behind the mirror. Therefore, the point I is the virtual image of the point O.
+
+Figure: 8.12
+The normal QN is drawn at the point Q.
+Since TO and QN are parallel, OQ is the interjector.
+??TOQ = ?OQN = i	(8.1)
+Again, OI and QN are parallel, line RQI has intersected them.
+??TIQ = ?NQR = r	(8.2)
+We know, i = r
+We get from equations (8.1) and (8.2),
+?TOQ = ?TIQ
+Now between ?QOT and ?QIT,
+? TOQ = ?TIQ, TQ is a common arm, and ?QTO = ?QTI = 90°
+Therefore, the triangles are equal in all respects. Hence, OT = TI
+The image I in a plane mirror is at the same distance behind the mirror as the object O is in front.
+(B) Extended object
+The image of an extended object can also be drawn as the point object. In this case, the extended object should be considered as an aggregation of infinite number of points. Here, a virtual image is formed for each point behind the mirror [Figure 8.13].
+
+
+
+
+
+Figure: 8.13
+In the figure an object AO and its image BI are shown. From the points O and A, perpendiculars are drawn on the mirror M1M2. They intersect the mirror at the points R and L. Now OR and AL are extended backward to the points I and B respectively, such that OR=IR and AL=BL. Two rays from each of the points O and A incident obliquely on the mirror and get reflected. When the two reflected rays are produced backward, they seem to be coming from the points I and B respectively. Now I and B are joined. Therefore, BI is the virtual image of the object AO formed in the plane mirror.
+The size of the image formed in a plane mirror is always equal to that of the object. The characteristics of the image formed in a plane mirror.
+The images formed by a plane mirror have the following properties:
+1. The image in a plane mirror is at the same distance as the object is in front.
+2. The size of the image is equal to the size of the object.
+3. The image is virtual and erect.
+Images formed in a spherical mirror
+If an object is placed in front of a spherical mirror, that may be concave or convex, an image of the object is formed in the mirror. To know the position, size and nature of the image, we have to know the direction of the reflected beam of light emitted by an object. We can draw an image in a spherical mirror considering any two of the three rays described below.
+1. Rays incident along the radius of curvature returns back along the same path after reflection in a spherical mirror [Figure: 8.14].
+
+Figure: 8.14
+
+
+2. Rays incident parallel to the principal axis are reflected through the principal focus in a concave mirror. Rays incident parallel to the principal axis after reflection in a convex mirror appear to diverge from the principal focus [Figure: 8.15].
+
+A	Figure: 8.15	B
+In a concave mirror, rays incident through the principal focus are reflected parallel to the principal axis. Rays directed towards the principal focus after reflection become parallel to the principal axis [Figure: 8.16].
+
+Figure: 8.16
+Images formed in a concave mirror: The position, size and nature of an image formed in a spherical mirror depend on the position of the object placed in front of the mirror. If there is a change in the position of the object, then a corresponding change in the position, size and nature of the image also takes place. Let, MPM? be a concave mirror. Here, P is the pole, F is the principal focus and C is the centre of curvature of it. AO is the object situated perpendicularly on the principal axis in front of it.
+If the object is placed anywhere between infinity and the principal focus, the image thus formed will always be real and inverted. Again, in case of an object placed in between the principal focus and the pole, the image will be virtual and erect. The real and virtual images formed by a concave mirror are described below:
+Real image
+From the point O, a ray OM incident at the point M parallel to the principal axis and reflected through the principal focus along the path MI. Another ray OCM? from the point O incident through the centre of curvature C on the mirror and reflects back along the same path. After reflection, the two rays meet at the point I actually. Therefore I is the real image of the point O. From A, ray incident along the principal axis reflects back along the same path. So, the image of A will be formed on that line. Let us draw normal, IB, from the point I on the principal axis. Now, BI is the real image of the object AO [8.17]. The nature of the image is real and inverted.
+
+
+
+
+Figure: 8.17
+Virtual image:
+In figure 8.18 the object is situated between the pole and the principal focus. From the point O, a ray incident parallel to the principal axis and reflected through the principal focus. Another ray incident on the mirror through the centre of curvature reflects back along the same path. After reflection, two rays become mutually diverging. If the two rays are extended backward, they appear to come from the point I. So, point I is the virtual image of the point O. Normal IB is drawn on the principal axis from the point I. therefore, BI is the virtual and erect image of the object. The position of the image so developed is behind the mirror, its nature is virtual and erect, and magnified i.e. larger than the size of the object.
+Figure: 8.18
+Images formed in a convex mirror: Depending on the position of the object in a concave mirror, real or virtual images are formed. But a virtual image of an object is always formed in a convex mirror. The image is always erect and smaller in size than that of the object. In figure 8.19 MPM? is a convex mirror whose centre of curvature is C, principal focus is F and P is the pole. The object
+AO is placed perpendicular to the principal axis in front of the mirror. From the point O, the ray OM incident parallels to the principal axis of the mirror. After reflection the ray seems to diverge from the principal focus F of the mirror. Another ray OD
+incident	perpendicularly	through	the	centre	of	Figure: 8.19
+curvature and reflects back along the same path. If these two diverging reflected rays are extended backward, they intersect at the point I and appear to be coming from the point I, therefore the point I is the virtual image of the point O. Now perpendicular IB is drawn on the principal axis from the point I. This BI is the virtual image of the object AO. Since the image is formed behind the mirror, it is virtual, erect and smaller in size in comparison to the object. If the object is gradually brought nearer to the mirror, the
+
+
+image will also be displaced nearer to the mirror and the size of the image will increase gradually. But the image will always be smaller in size than that of the object.
+8.6 Some common phenomena of formation of images in plane and spherical mirrors
+1. Simple periscope: Periscope is used to see a distant object directly if there is an obstacle. A simple periscope is constructed using two plane mirrors. This instrument is formed utilizing successive reflection of light. In figure 8.20 a
+simple periscope is shown. Here, two plane mirrors are placed parallel to each other at an angle of 45? with the axis of a long rectangular wood or metal tube. At first parallel light rays from the distant object incident on the mirror M1 at angle of 45? with the normal to the mirror. The incident ray is reflected by the mirror M1 at an angle 45? and incident on the mirror M2 travelling along the axis. The light ray is again reflected by the mirror M2 and enters the eyes horizontally. So, the object can
+
+be seen.
+
+Figure: 8.20
+
+Thus by changing the direction of light we can see objects which cannot be seen directly using plane mirrors.
+Periscope is used to watch games in a crowd, to see something behind a wall, to observe the movement of the enemy soldiers etc. More developed types of periscope are used using prism in a submarine.
+2. Plane mirror in a saloon: We see plane mirrors in a saloon or a parlor while cutting hair situated in front and behind. We can see the anterior protion of head in the front mirror. The image of the back portion of the head formed in the mirror behind. This image works as a virtual object for the front mirror and again forms image in the front mirror. Thus, we are able to see the back portion of the head in the front mirror.
+3. Plane mirrors in medical field: The dentists use concave mirrors to examine the teeth. The mirror is placed very close to the teeth. As a result, a virtual and magnified image is formed in the mirror. Besides, the ENT doctors use concave mirrors for different purposes.
+8.7 Uses of mirror
+We use different types of mirror for different purposes. These are described below:
+Plane mirror
+1. We see our appearance by using plane mirrors.
+2. The ophthalmologist uses plane mirrors to examine the vision of a patient for reading the alphabets easily.
+3. Periscopes are constructed using plane mirrors.
+4. It is used to avoid accidents in the turns of hilly road.
+
+
+5. Optical instruments like telescope, overhead projector, and laser are made using plane mirrors.
+6. During shooting of drama, cinema etc. brightness of any place is increased by reflecting light by plane mirror.
+Concave mirror
+1. Using suitable size of the concave mirror, the magnified and erect image of the face is formed in a concave mirror. It helps in beautification and shaving.
+2. The dentists use concave mirror.
+3. Concave mirrors are used as reflectors. For example- the concave mirror is used in torch light, search light of launch and steamers to determine the path.
+4. Using concave mirror, the light and heat energy, etc. is centralized to heat a body. Besides, it is used to collect Radar and TV signal. For instance- dish antenna, solar oven, telescope and Radar collector etc.
+5. Since, the light rays can be centralized at a point using a concave mirror, the doctor use this mirror to examine eye, ear, nose and throat.
+Convex mirror
+1. Since, a convex mirror always produce a virtual, erect and diminished image, it is used in cars to see the vehicles and passersby behind. In marriage ceremony it is used as view mirrors.
+2. Since a wide range of area can be seen with the help of a convex mirror it is used in shopping mall or shop for security purpose.
+3. It is used to prepare reflecting telescope.
+4. It is used as reflector in the street lamps, since it spreads light over a large area.
+8.8 Safe driving
+To drive vehicles like car, motor cycle etc. safely the driver should have an eye to many things. At the very first, he has to check all the lamps in the car by switching them on. For perfect and safe driving, the drivers need not only to see what remains in front of him. Instead, he has to be careful about what remains behind the car. The mirrors are very important and indispensible parts of a car. For this, he has to adjust all the mirrors just after he gets on the car.
+8.9 Blinds turns on hilly roads
+To drive safely is an utmost duty for all drivers. Besides, it is more difficult to drive in bad weather like rainfall and fogs. Especially, driving in a hilly road is very risky. Since, hilly roads are zigzag as well as there are too ups and downs [Figure 8.23]. Sometimes, it becomes necessary to take turn by 90? for driving in a hilly road. While taking a turn, the driver has to take enough precautions. In a blind turn, the drivers coming from opposite directions cannot see themselves, besides they are not at all aware of what remains on the other side. To solve this problem, large area mirrors are fitted at an angle of 45? in the turn. As a result, the drivers can see everything around the turn and become able to drive safely. It is to be remembered that it is not appropriate to drive fast in the
+
+
+hilly turns. Besides this, one should not drive a car in a hilly road during the night time except there is an emergency. Since the vision is reduced a lot due to the scarcity of light.
+Figure: 8.21
+8.10 Magnification
+When we see an image produced by a mirror or a lens, then it may be larger, smaller or equal in size with respect to that of the object.
+Magnification is used to measure how large or small the size of the image is compared to that of the object formed in a mirror or a lens.
+In other words, the ratio of the length of the image of that object is called linear magnification or in short magnification.
+If an image of length l? is formed in a mirror or a lens for an object of length l, then magnification of the object is the ratio of l? to l.
+
+Therefore, m ? l?
+l
+
+(8.3)
+
+From the magnitude of magnification m, we know how many times larger or smaller the image is compared to that of the object.
+Investigation 8.1
+To Form and demonstrate an image using a concave mirror.
+Objective: Use of a concave mirror in the laboratory and formation of a real image. Instrument: A concave mirror.
+Procedure:
+1. Take a concave mirror.
+2. Stand beside a door or a window of your laboratory with the mirror.
+3. Now hold the mirror towards any external scene, for example- trees, buildings, etc.
+4. Form an image of the scenery on a very adjacent smooth wall, by moving the mirror right and left.
+5. Move the mirror back and forth from the wall to make the image distinct.
+6. At a certain distance, you will see a distinct image of the object on the wall.
+7. Thus a distinct image of an object at a long distance can be demonstrated on a wall.
+8. Discuss about the nature of the image.
+
+
+Exercise
+A. Multiple choice questions Tick (? ) the correct answer.
+1. Where convex mirrors are used?
+a. cars	b. torch light
+c. solar oven	d. Radar
+2. How many types of reflection are there?
+a. 4	b. 3
+c. 2	d. 1
+3. Image produced in a plane mirror -
+i. equal to object in size
+ii. can be formed in a screen
+   iii. formed at a distance equal to the distance of the object from the mirror. Which one of the following is correct?
+a. i and ii	b. ii and iii
+c. i and ii	d. i, ii and iii
+
+Answer question number 4 and 5 in the light of the above figure.
+4. What will be the size of object BO?
+a. magnified	b. diminished
+c. extremely magnified	d. extremely diminished
+3. Where will be the position of the object BO?
+a. between the focus and the pole  b. at the principal focus
+c. At the centre of curvature	d. between the centre of curvature and infinity
+B. Creative questions
+1	2
+a) What is a plane mirror?
+b) Why metal coating is given behind a mirror?
+c) Determine the position of the image of the object PQ by drawing figure.
+d) Compare the mirrors 1 and 2 in formation of images.
+
+
+2.
+
+
+
+a) What is an image?
+b) Why rays incident normally on the mirror returns back along the same path?
+c) Determine the value of the angle of reflection in the light of figure above?
+d) The image formed in the plane mirror PQ is virtual, explain with the help of diagram.
+D. General questions
+1. What do you mean by the reflection of light?
+2. What do you mean by regular and irregular reflection?
+3. What is a mirror?
+4. What is called an image? How many types of images are there? What are they?
+5. How real image is formed in a concave mirror? Demonstrate with the help of ray diagram.
+6. How virtual image is formed in a concave mirror? Demonstrate with the help of figure.
+
+
+
+
+
+
