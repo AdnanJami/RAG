@@ -1,0 +1,289 @@
+[
+    {
+        "question": "What is biophysics?",
+        "referenceAnswer": "A subject that combines physics and biology.",
+        "referenceContext": "Establishing a relationship between physics with biology, a new subject has been developed, which is called Bio-physics."
+    },
+    {
+        "question": "What is one of the chapter's objectives?",
+        "referenceAnswer": "To explain the applications of ideas and theories of physics in instruments for diagnosis of diseases in medical science.",
+        "referenceContext": "By the end of this chapter we will be able to- 1. Explain the basis of bio-physics. 2. Explain the contributions of Jagdish Chandra Bose in bio-physics. 3. Explain that human body runs following the rules of physics. 4. Explain the applications of ideas and theories of physics in the instruments for diagnosis of diseases in medical science."
+    },
+    {
+        "question": "What is the chapter's topic?",
+        "referenceAnswer": "PHYSICS TO SAVE LIFE",
+        "referenceContext": "Chapter fourteen\\nPHYSICS TO SAVE LIFE"
+    }
+,
+    {
+        "question": "What is the basis of biophysics?",
+        "referenceAnswer": "Theories and methods of physical science are used to study biological systems.",
+        "referenceContext": "Theories and methods of physical science are employed in biophysics to study a system of biology."
+    },
+    {
+        "question": "What is biology?",
+        "referenceAnswer": "The science of studying the living world.",
+        "referenceContext": "Biology is the science of studying living world."
+    },
+    {
+        "question": "What is the relationship between physics and biology?",
+        "referenceAnswer": "There is a deep harmony between these two seemingly different disciplines.",
+        "referenceContext": "But with the progress of physical and biological science, a deep harmony is found between these two apparently different disciplines."
+    }
+,
+    {
+        "question": "What is the challenge of biophysics?",
+        "referenceAnswer": "To explain the complexities of life using simple laws of physics.",
+        "referenceContext": "The challenge of bio-physics is to explain different complexities of life on the basis of simple laws of physics."
+    },
+    {
+        "question": "Who was Acharya Sir Jagadish Chandra Bose?",
+        "referenceAnswer": "A physicist and biologist.",
+        "referenceContext": "Acharya Sir Jagadish Chandra Bose was a physicist as well as a biologist."
+    },
+    {
+        "question": "Where was Jagadish Chandra Bose born?",
+        "referenceAnswer": "Mymensingh.",
+        "referenceContext": "He was born in Mymensingh on 30th November, 1958"
+    }
+,
+    {
+        "question": "Where did Jagadish Chandra Bose complete his B.A. degree?",
+        "referenceAnswer": "University of Cambridge.",
+        "referenceContext": "He completed the B.A. degree with honours in physics from University of Cambridge and a B. Sc. degree from University of London."
+    },
+    {
+        "question": "What was Jagadish Chandra Bose's profession before becoming a professor?",
+        "referenceAnswer": "He was a student.",
+        "referenceContext": "His education started at a vernacular school in Faridpur. Next he got admitted to Hare school and Saint Xavier's school and college in Kolkata and passed his student life."
+    },
+    {
+        "question": "What research did Jagadish Chandra Bose conduct?",
+        "referenceAnswer": "He researched how to transmit radio signals to distant places without wires.",
+        "referenceContext": "In the laboratory he researched a lot about, how radio signals can be transmitted to a distant place without the help of wire and succeeded."
+    }
+,
+    {
+        "question": "What was Jagadish Chandra Bose's notable contribution in microwave research?",
+        "referenceAnswer": "He was the first to reduce the wavelength of generated waves to the millimeter level (about 5 mm).",
+        "referenceContext": "He was the first who was able to reduce the wavelength of generated waves to millimeter level (about 5 mm)."
+    },
+    {
+        "question": "What did Jagadish Chandra Bose invent to study plant physiology?",
+        "referenceAnswer": "The crescograph.",
+        "referenceContext": "Among these, invention of crescograph to record the growth of plants, extremely slight movement and how plants respond to various stimuli are notable."
+    },
+    {
+        "question": "What was Jagadish Chandra Bose's major contribution to biophysics?",
+        "referenceAnswer": "He demonstrated that the nature of response of plants to different stimuli is electric, not chemical.",
+        "referenceContext": "His major contribution in the field of bio-physics is the nature of conduction of the stimuli in plants. Earlier it was thought that, the nature of response of plants to different stimuli is chemical, but he became able to show that it is electric in nature."
+    }
+,
+    {
+        "question": "When did Jagadish Chandra Bose die?",
+        "referenceAnswer": "November 23, 1937.",
+        "referenceContext": "Jagadish Chandra Bose expired dated on 23rd November 1937."
+    },
+    {
+        "question": "What is one analogy used to describe the human body?",
+        "referenceAnswer": "A machine.",
+        "referenceContext": "Though human body is not a machine at all, it behaves as a machine in many aspects."
+    },
+    {
+        "question": "What are some examples of organs in the human body?",
+        "referenceAnswer": "Heart, kidneys, lungs, and liver.",
+        "referenceContext": "Heart, kidneys, lungs, liver etc. are such parts of human body"
+    }
+,
+    {
+        "question": "What is the function of the heart in the human body?",
+        "referenceAnswer": "It acts as an automatic pump, circulating blood throughout the body.",
+        "referenceContext": "As for example- heart is actually an automatic pump, which is able to circulate blood throughout the whole body by its own electric signal without any external stimulation."
+    },
+    {
+        "question": "How does the human body obtain energy?",
+        "referenceAnswer": "By converting chemical energy from food into mechanical and heat energy through ingestion and respiration.",
+        "referenceContext": "Similarly, human body also transforms chemical energy into mechanical and heat energy by food ingestion and respiration. Therefore, human body is like an organic machine in fact."
+    },
+    {
+        "question": "What is one unique ability of the human body that is not possible for machines?",
+        "referenceAnswer": "Developing from a single cell into a complex organism.",
+        "referenceContext": "For instance- human body develops from only one cell. With the passage of time, this single cell transforms into a complete human body, which is build with thousand billions of cells"
+    }
+,
+    {
+        "question": "How were diseases diagnosed before the invention of modern medical instruments?",
+        "referenceAnswer": "Doctors observed external symptoms of patients.",
+        "referenceContext": "Once the doctors were used to identifying diseases by observing different external symptoms of the patients and prescribed medicine and diet accordingly."
+    },
+    {
+        "question": "What is the significance of medical instruments in disease diagnosis?",
+        "referenceAnswer": "They allow doctors to determine diseases accurately.",
+        "referenceContext": "With the help of these instruments it became possible to determine diseases properly. It is impossible for a doctor to identify a disease without the right instrument, which is necessary to perform that particular test"
+    },
+    {
+        "question": "Why are medical instruments necessary to diagnose diseases?",
+        "referenceAnswer": "They allow doctors to determine the location and severity of an organ infection.",
+        "referenceContext": "As a result, it was not possible to locate the exact positions of different organs. In addition, in which degree a particular organ of the patient is infected was not possible to know."
+    }
+,
+    {
+        "question": "Who invented X-rays?",
+        "referenceAnswer": "Wilhelm Roentgen",
+        "referenceContext": "X-ray was invented by Wilhelm Roentgen in 1895."
+    },
+    {
+        "question": "Why is X-ray invisible?",
+        "referenceAnswer": "Because its wavelength is much smaller than that of visible light.",
+        "referenceContext": "The wavelength of X-ray is much lesser than that of the ordinary light. Its wavelength is about 10-10 m. Ordinary light is visible and divided into different colours, but X-ray is invisible."
+    },
+    {
+        "question": "What happens to the penetrating power of X-rays as the wavelength decreases?",
+        "referenceAnswer": "It increases.",
+        "referenceContext": "The power of X-ray to penetrate any material becomes more as its wavelength gets smaller."
+    }
+,
+    {
+        "question": "What are the two electrodes in an X-ray tube?",
+        "referenceAnswer": "Cathode and anode.",
+        "referenceContext": "There are two electrodes placed at the two ends of the glass tube. One of them is called cathode and the other is anode."
+    },
+    {
+        "question": "What happens when electrons strike the anode in an X-ray tube?",
+        "referenceAnswer": "X-rays are produced.",
+        "referenceContext": "If a high potential difference is applied between the electrodes, the electrons are accelerated with very high speed and hit the target anode. Due to this, the motion of electrons suddenly stops and X-ray is produced."
+    },
+    {
+        "question": "What is the process by which X-rays are generated?",
+        "referenceAnswer": "The kinetic energy of electrons is transformed into electromagnetic waves.",
+        "referenceContext": "Here, the kinetic energy of electrons transforms into electromagnetic wave. This radiation of small wavelength is the X-ray."
+    }
+,
+    {
+        "question": "What is one way X-rays are used in medical science?",
+        "referenceAnswer": "To identify displaced bones, cracks in bone, and bone fractures.",
+        "referenceContext": "Displaced bones, cracks in bone, bone fracture etc. can be identified very easily with the help of X-ray."
+    },
+    {
+        "question": "What is one precaution that should be taken when using X-rays?",
+        "referenceAnswer": "Covering the patient with a lead apron to minimize exposure.",
+        "referenceContext": "Necessary precautions should be taken so that unnecessary exposure of X-ray radiation cannot harm the patient. For this, the patient should be covered with apron made of lead as much as possible."
+    },
+    {
+        "question": "What is ultrasonography?",
+        "referenceAnswer": "A procedure that depends on the reflection of high-frequency sound waves.",
+        "referenceContext": "Ultra sonography is a procedure that depends on the reflection of sound of high frequency"
+    }
+,
+    {
+        "question": "What is the frequency range of ultrasound used for medical diagnosis?",
+        "referenceAnswer": "1-10 MHz",
+        "referenceContext": "The frequency of the ultrasound is 1-10 MHz which is used for diagnosis of diseases."
+    },
+    {
+        "question": "What is the role of the transducer in ultrasonography?",
+        "referenceAnswer": "It produces high-frequency ultrasonic waves.",
+        "referenceContext": "In an ultra sonography machine, the high frequency ultrasonic waves are produced by electrically stimulating a crystal called a transducer."
+    },
+    {
+        "question": "What is the main application of ultrasonography?",
+        "referenceAnswer": "Obstetrics and gynecology.",
+        "referenceContext": "The most important use of ultra sonography is in the field of obstetrics and gynecology"
+    }
+,
+    {
+        "question": "What are some medical applications of ultrasonography?",
+        "referenceAnswer": "Diagnosing gall bladder stones, heart defects, and identifying tumors.",
+        "referenceContext": "Ultra sonogram is used in medical tests of different kinds, such as- gall bladder stone, defect in the heart and identification of tumors."
+    },
+    {
+        "question": "What is the main advantage of ultrasonography over X-rays?",
+        "referenceAnswer": "Ultrasonography is a safer method.",
+        "referenceContext": "Ultra sonography is a safer diagnosing method in comparison to X-ray."
+    },
+    {
+        "question": "What does CT scan stand for?",
+        "referenceAnswer": "Computed Tomography Scan.",
+        "referenceContext": "CT scan stands for Computed Tomography Scan."
+    }
+,
+    {
+        "question": "How does a CT scan produce a three-dimensional image?",
+        "referenceAnswer": "By taking many two-dimensional X-ray images around a single axis of rotation and processing them with a computer.",
+        "referenceContext": "The three dimensional image is made after many 2- dimensional X-ray images are taken around a single axis of rotation. This job is done using a computer."
+    },
+    {
+        "question": "What is the main advantage of a CT scan over an X-ray?",
+        "referenceAnswer": "CT scans produce more detailed and distinct images.",
+        "referenceContext": "As a result, the final picture formed by CT scan is far more distinct and detailed than an X-ray one."
+    },
+    {
+        "question": "What are some medical applications of CT scans?",
+        "referenceAnswer": "Detecting cancer in the liver, lungs, and pancreas, identifying tumors, and determining the size and position of tumors.",
+        "referenceContext": "Three dimensional images of soft tissue, blood carrying veins or arteries, lungs, brain, etc. is obtained by CT scan. CT scan is used for detection of cancer in lever, lungs and pancreas. The image obtained by CT scan helps a physician to detect tumor, to determine the size and position of the tumor and how much the tumor infected the adjacent tumor"
+    }
+,
+    {
+        "question": "What is one medical condition that can be detected using a CT scan of the head?",
+        "referenceAnswer": "Bleeding inside the brain.",
+        "referenceContext": "By the CT scan of head, any type of bleeding inside the brain, swelling of artery and existence of tumor can be detected."
+    },
+    {
+        "question": "What is the main principle behind MRI?",
+        "referenceAnswer": "Nuclear Magnetic Resonance.",
+        "referenceContext": "MRI machine works depending on the physical and chemical principles of 'Nuclear Magnetic Resonance'."
+    },
+    {
+        "question": "What is one advantage of MRI over other imaging techniques?",
+        "referenceAnswer": "It is painless and safe and does not use X-rays or radiation.",
+        "referenceContext": "MRI is a painless and safe disease diagnosis method. X-ray or any other kind of radiation is not used in this machine."
+    }
+,
+    {
+        "question": "What is the main application of MRI?",
+        "referenceAnswer": "Forming an extended image of the brain and spinal cord.",
+        "referenceContext": "MRI is an extremely valuable test to form an extended image of brain and spinal cord."
+    },
+    {
+        "question": "What is the function of an ECG?",
+        "referenceAnswer": "To assess the electrical and muscular functions of the heart.",
+        "referenceContext": "ECG is a diagnostic procedure that is routinely used to assess the electrical and muscular functions of the heart."
+    },
+    {
+        "question": "How does an ECG work?",
+        "referenceAnswer": "By detecting the electrical impulses produced by the heart.",
+        "referenceContext": "We know that the heart produces tiny electrical impulses without any external stimulation. This electrical signal spread through the heart muscle to make the heart contract. We detect these impulses by the ECG machine"
+    }
+,
+    {
+        "question": "What is the main purpose of an ECG?",
+        "referenceAnswer": "To measure the rate and rhythm of heartbeats.",
+        "referenceContext": "With the help of ECG we can measure the rate and rhythms of heartbeats."
+    },
+    {
+        "question": "How many electrodes are typically used in an ECG test?",
+        "referenceAnswer": "Ten.",
+        "referenceContext": "To get a complete picture of the heart, twelve signals are identified using ten electrodes. An electrode lead is placed on each arm and leg i.e. total of four and rest six electrodes are placed across the chest wall [Figure 14.6]."
+    },
+    {
+        "question": "What are some common reasons for performing an ECG test?",
+        "referenceAnswer": "To find the cause of palpitations, irregular and fast heart beat, and chest pain.",
+        "referenceContext": "Generally, ECG test is done to find the cause of external symptoms such as- palpitations, irregular and fast heart beat, chest pain etc"
+    }
+,
+    {
+        "question": "What is one type of heart disorder that can be detected using an ECG?",
+        "referenceAnswer": "Abnormal heart rhythms.",
+        "referenceContext": "The heart disorders that can be detected by ECG are:\\n1. Abnormal heart rhythms- for example, if the heart is very fast, very slow or irregular."
+    },
+    {
+        "question": "What is endoscopy?",
+        "referenceAnswer": "A medical procedure that uses an endoscope to examine the interior of a hollow organ or body cavity.",
+        "referenceContext": "Generally endoscopy means looking inside something. But by endoscopy we mean looking interior of a hollow organ or cavity of the body for medical reasons using an endoscope machine."
+    },
+    {
+        "question": "How does light travel through the tubes of an endoscope?",
+        "referenceAnswer": "Through total internal reflection on the inner walls of the optical fibers.",
+        "referenceContext": "In an endoscope machine, there are two tubes. Through one of them light is transferred to a definite organ of patient's body from outside. Due to the total internal reflection of light on the inner wall of the optical fiber, bright light enters the body cavity of patient."
+    }
+]

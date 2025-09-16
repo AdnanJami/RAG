@@ -1,0 +1,289 @@
+[
+    {
+        "question": "Who discovered the magnetic effect of electric current?",
+        "referenceAnswer": "Oersted",
+        "referenceContext": "12.1. Magnetic Effect of Current.\\t[Figure 12.1] Oersted invented the magnetic effect of current."
+    },
+    {
+        "question": "What is the topic of Chapter twelve?",
+        "referenceAnswer": "Magnetic Effect of Current",
+        "referenceContext": "Chapter twelve\\nMAGNETIC EFFECT OF CURRENT"
+    },
+    {
+        "question": "What is the chapter's objective?",
+        "referenceAnswer": "To explain the magnetic effect of electric current, electromagnetic induction, induced current and induced electric power, the principles of motors, generators, and transformers, and the uses and contributions of current in our life.",
+        "referenceContext": "By the end of this chapter we will be able to - 1) Explain magnetic effect of electric current 2) Explain electromagnetic induction. 3) Explain induced current and induced electric power 4) Explain the main principles of motor and generator. 5) Explain the main principles of transformer. 6) Explain the functions of step-up and step-down transformer. 7) Praise the various uses and contributions of current in our life."
+    }
+,
+    {
+        "question": "What happens to the compass needle when the electric connection is altered?",
+        "referenceAnswer": "It moves to the other side.",
+        "referenceContext": "If we alter the electric connection, the needle of the compass will move the other side."
+    },
+    {
+        "question": "What happens to iron dust when placed near a current-carrying conductor?",
+        "referenceAnswer": "It arranges itself in a specific pattern.",
+        "referenceContext": "It is seen that the dust of the iron will get them arranged like the figure 12.2.If you draw a dot using a small compass and added to it, you will find the same."
+    },
+    {
+        "question": "What is a solenoid?",
+        "referenceAnswer": "A coil of wire that produces a magnetic field similar to a bar magnet.",
+        "referenceContext": "We can increase the magnetic field intensity by coiling the above mentioned wire (see the figure 12.3).Due to flow of the current through the coil, most of the lines of the force will be concentrated in the centre of the coil. The magnetic field will be look alike the magnetic field of bar magnet. This type of coil is called Solenoid."
+    }
+,
+    {
+        "question": "What happens to an electromagnet when the current is stopped?",
+        "referenceAnswer": "It loses its magnetic properties.",
+        "referenceContext": "If we stop the current, it will not remain magnet."
+    },
+    {
+        "question": "What happens to the poles of an electromagnet when the direction of current is changed?",
+        "referenceAnswer": "The poles are reversed.",
+        "referenceContext": "If the direction of current is changed, the pole of magnet will be changed."
+    },
+    {
+        "question": "How can the intensity of an electromagnet be increased?",
+        "referenceAnswer": "By increasing the flow of current, increasing the number of coils in the solenoid, or bending the iron rod in a U shape.",
+        "referenceContext": "The intensity of this magnet can be increased - -by increasing the flow of current - by increasing the number of coil of the solenoid - by bending the iron rod in the form of alphabet U and keeping two ends of U as close as possible ."
+    }
+,
+    {
+        "question": "What is one use of electromagnets?",
+        "referenceAnswer": "Removing iron dust from the eye.",
+        "referenceContext": "This magnet is used to remove the dust of iron from the eye."
+    },
+    {
+        "question": "Who was one of the scientists who discovered electromagnetic induction?",
+        "referenceAnswer": "Michael Faraday",
+        "referenceContext": "Many scientists tried to invent electric current from the magnetic field when Oerested invented electromagnetic effect. Among the scientists who worked on this subject, Michael Faraday of England, Joseph Henry of America and H.F.E. Lenz of Russia achieved success individually. But at first Michael Faraday published the result of his experiments in 1831."
+    },
+    {
+        "question": "What is electromagnetic induction?",
+        "referenceAnswer": "The phenomenon of producing electric current in a closed circuit by a variable magnetic field.",
+        "referenceContext": "The phenomena to produce electric current in a closed circuit by variable magnetic field is called electromagnetic induction."
+    }
+,
+    {
+        "question": "What happens to the galvanometer when a magnet is inserted into a coil?",
+        "referenceAnswer": "The galvanometer deflects, indicating current flow in the coil.",
+        "referenceContext": "Now insert the south pole of a magnet bar inside the coil. What's happening? Deflection of the galvanometer is taking place. It means the current is flowing through the coil."
+    },
+    {
+        "question": "What happens to the galvanometer when the magnet is removed from the coil?",
+        "referenceAnswer": "The galvanometer deflects in the opposite direction.",
+        "referenceContext": "Now remove the magnet. What's happening? The deflection of galvanometer will be the opposite of that time when magnet was entered to the coil."
+    },
+    {
+        "question": "What is the name of the coil connected to the source of EMF in the second experiment?",
+        "referenceAnswer": "Primary coil",
+        "referenceContext": "The coil which is connected to the sources of emf is called the primary coil and which is connected to the galvanometer is called secondary coil."
+    }
+,
+    {
+        "question": "What happens to the galvanometer when the electric current in the primary coil is disconnected?",
+        "referenceAnswer": "The galvanometer deflects in the opposite direction of the deflection when the current was connected.",
+        "referenceContext": "Again the deflection of galvanometer will be seen at the time of disconnecting the electric current but the deflection will be opposite to the direction of former."
+    },
+    {
+        "question": "What happens to the galvanometer when the current in the primary coil is continuously varied?",
+        "referenceAnswer": "The galvanometer shows deflections, with opposite directions for rising and falling current.",
+        "referenceContext": "If the current is continuously varied in the primary coil, the galvanometer will show the deflections. In this case, the direction in which the galvanometer will deflect during rise of current is opposite to that during fall of current."
+    },
+    {
+        "question": "What is produced when a magnet is moved towards or away from a coil, or vice versa?",
+        "referenceAnswer": "Electric current.",
+        "referenceContext": "From these two experiments, it is observed that the deflection of the galvanometer proves the existence of an emf. So if we move a magnet towards or away from the the coil or if we move a coil towards or away from a magnet, the electric current will be produced there"
+    }
+,
+    {
+        "question": "What is electromagnetic induction?",
+        "referenceAnswer": "The process of creating electric current through the change of distance of a circuit that temporarily creates voltage in another closed circuit.",
+        "referenceContext": "So we can say that the process of creating electric current through the change of the distance of the circuit which can create voltage temporarily to another closed circuit is called electromagnetic induction."
+    },
+    {
+        "question": "What is the name of the voltage produced during electromagnetic induction?",
+        "referenceAnswer": "Induced voltage",
+        "referenceContext": "This voltage is known as induced voltage and the current is known as induced current."
+    },
+    {
+        "question": "What are three ways to create induced current and voltage?",
+        "referenceAnswer": "Increasing the polar power of the magnet, moving the magnet quickly, and increasing the number of coils.",
+        "referenceContext": "Induced current and induced voltage can be created in the following way-\\n-by increasing the polar power of magnet\\n\\n-by moving the magnet quickly\\n-by increasing the number of coil."
+    }
+,
+    {
+        "question": "What happens when a current-carrying wire is placed between the poles of a powerful magnet?",
+        "referenceAnswer": "The wire jumps upwards.",
+        "referenceContext": "Put an electric wire between the two poles of a powerful magnet like the picture. Let the electricity flow through\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nFigure: 12.6\\nthis wire. You will see that it will jump to the up. It is understood that a force is working on that. From where does this come?"
+    },
+    {
+        "question": "What causes the force on the current-carrying wire in the magnet?",
+        "referenceAnswer": "The interaction between the magnetic field of the magnet and the magnetic field of the current-carrying wire.",
+        "referenceContext": "We know that current carrying wire produced a magnetic field of its own. There happens action and reaction between magnetic field exsisting inside the opposite pole of a powerful magnet and the magnetic field of current carrying wire."
+    },
+    {
+        "question": "What is the direction of the combined magnetic field in the picture 12.7(b)?",
+        "referenceAnswer": "The lines of force are more in the down than that of the up of the wire.",
+        "referenceContext": "If you look at the picture 12.7(a), you will see the lines of force between the poles of the magnet. The magnetic field created by electric current has also been shown. The lines of force created from the combination of two fields has also been shown in the picture 12.7(b). The lines of force are more in the down than that of the up of the wire. The reason is that both the fields are working towards the same direction"
+    }
+,
+    {
+        "question": "What happens to the wire when the direction of electric current is reversed?",
+        "referenceAnswer": "The wire moves downward.",
+        "referenceContext": "If the wire remains free, it moves upward. If the direction of electric current is changed to opposite, the wire goes to downward."
+    },
+    {
+        "question": "What is the purpose of the commutator in an electric motor?",
+        "referenceAnswer": "To keep the coil rotating.",
+        "referenceContext": "To keep the coil rotating, we will use a device named commutator. It consists of two equal segments made of copper (see figure12.9)"
+    },
+    {
+        "question": "What happens to the wire when it reaches a vertical position in an electric motor?",
+        "referenceAnswer": "No force acts on it, and it stops.",
+        "referenceContext": "At the vertical position of the wire like figure 12.8(b) no force will act on it. For this it will be stopped."
+    }
+,
+    {
+        "question": "What happens when the gap between the two segments of the commutator is opposite to the carbon brush?",
+        "referenceAnswer": "No current flows.",
+        "referenceContext": "The segment moves with the coil and when its' gap between two side remains opposite to the carbon brush, no current will flow."
+    },
+    {
+        "question": "What is the principle of an electric motor?",
+        "referenceAnswer": "The conversion of electric energy into mechanical energy.",
+        "referenceContext": "This is the principle of electric motor. Electric motor converted the electric energy into mechanical energy."
+    },
+    {
+        "question": "How can the speed and power of an electric motor be increased?",
+        "referenceAnswer": "By increasing the intensity of the magnetic field.",
+        "referenceContext": "To increase the speed and power of it, the intensity pf the magnetic field will have to increase."
+    }
+,
+    {
+        "question": "How can the intensity of a magnetic field be increased?",
+        "referenceAnswer": "By increasing the electric current, increasing the number of turns in the loop or coil, using a powerful magnet, or increasing the length and width of the coil.",
+        "referenceContext": "These are -\\n-By increasing the electric current.\\n-By increasing the number of turn in the loop or coil.\\n-By using powerful magnet.\\n-By increasing length and width of the coil."
+    },
+    {
+        "question": "What is the armature in an electric motor?",
+        "referenceAnswer": "A soft rod of iron with multiple coils wrapped around it.",
+        "referenceContext": "Each of coils is made of hundred scrape on the soft rod of iron (which is called armature).For this, the armature is magnetized during current flow and increase the intensity of the magnetic field."
+    },
+    {
+        "question": "What is a generator?",
+        "referenceAnswer": "An electric machine that converts mechanical energy into electrical energy.",
+        "referenceContext": "The electric machine in which mechanical energy is converted into electrical energy is called generator"
+    }
+,
+    {
+        "question": "What are the two types of generators?",
+        "referenceAnswer": "AC generator and DC generator.",
+        "referenceContext": "Generator can be of two kinds. Such as\\n1) AC generator\\n2) DC generator"
+    },
+    {
+        "question": "What is the armature in an AC generator?",
+        "referenceAnswer": "A soft iron sheet with a rectangular coil of wire.",
+        "referenceContext": "There is a field-magnet NS in it. There is rectangular coil of wire in the middle of the magnet on the soft sheet of iron (AB). The iron sheet is called armature."
+    },
+    {
+        "question": "What happens to the armature coil when it rotates in an AC generator?",
+        "referenceAnswer": "It intersects the lines of force of the magnetic field, inducing an electromotive force.",
+        "referenceContext": "When the armature undergoes rotation, the armature coil intersect the lines of force of the magnetic field and the electromotive force is induced in the coil according to electromagnetic induction"
+    }
+,
+    {
+        "question": "What is the main factor that influences the magnitude of induced current in an AC generator?",
+        "referenceAnswer": "The intensity and speed of rotation of the magnetic field.",
+        "referenceContext": "The magnitude of induced current mainly depends on the intensity and speed of the rotation of the magnetic field."
+    },
+    {
+        "question": "What is a transformer?",
+        "referenceAnswer": "An electrical device that changes the voltage of an alternating current.",
+        "referenceContext": "The electrical device through which the high alternating potential can be changed into low alternating potential and low potential into high potential is called transformer."
+    },
+    {
+        "question": "What is the difference between a step-up transformer and a step-down transformer?",
+        "referenceAnswer": "A step-up transformer increases voltage and decreases current, while a step-down transformer decreases voltage and increases current.",
+        "referenceContext": "The transformer which converts an electric current of greater strength at a low voltage into an electric current of weaker value at high voltage is known as step up transformer.\\n2. Step down Transformer: The transformer which changes the high potential less electric current into low potential much electric current is step down transformer."
+    }
+,
+    {
+        "question": "What is the primary coil of a transformer?",
+        "referenceAnswer": "The coil where an alternating current or electromotive force is applied.",
+        "referenceContext": "The coil in which an a.c or emf is applied is known as primary coil. The coil in which an a.c or emf is induced is known as secondary coil."
+    },
+    {
+        "question": "What is the relationship between the number of turns in the primary and secondary coils of a transformer and the induced electromotive force?",
+        "referenceAnswer": "The induced electromotive force is proportional to the number of turns.",
+        "referenceContext": "We have: Ep = np\\n\\n12.1\\n\\nEs\\tns\\nThat is to say that the induced emf in the coil is proportional to the number of turns."
+    },
+    {
+        "question": "How does the number of turns in the primary and secondary coils differ in a step-up transformer versus a step-down transformer?",
+        "referenceAnswer": "In a step-up transformer, the secondary coil has more turns than the primary coil. In a step-down transformer, the secondary coil has fewer turns than the primary coil.",
+        "referenceContext": "In step up transformer the number of turns in the secondary coil is greater than that in the primary coil. In step down transformer the number of turns in the secondary is less than that in the primary coil."
+    }
+,
+    {
+        "question": "What is the relationship between the voltage and current in the primary and secondary coils of a transformer?",
+        "referenceAnswer": "The voltage of the primary coil multiplied by the current of the primary coil equals the voltage of the secondary coil multiplied by the current of the secondary coil.",
+        "referenceContext": "Therefore, voltage of the primary coil x current of primary coil = Voltage of secondary coil x current of secondary coil i.c. Ep Ip = Es Is"
+    },
+    {
+        "question": "Why is a step-up transformer used for long-distance power transmission?",
+        "referenceAnswer": "To reduce power loss during transmission.",
+        "referenceContext": "For transmission of electric power over long distances step up transformer is used. Step down transformer is used for domestic power supply such as radio, television, tape recorder, VCR, VCP, electric watch etc."
+    },
+    {
+        "question": "What is the current in the secondary coil of a transformer if the primary coil has a voltage of 10V and a current of 6A, and the secondary coil has a voltage of 20V?",
+        "referenceAnswer": "3A",
+        "referenceContext": "Mathematical example: 12.1: In a transformer, the voltage of primary coil is 10V and current 6A.If the voltage of secondary coil is 20 V; calculate the current of secondary coil.\\n\\nWe know:\\nEp ? Is Es\\tIp\\nOr, Is= Ep ? Ip ?\\nEs\\nAns: 3A\\n\\n\\n\\n10V ? 6 A\\n\\n\\n20V\\n\\n\\n\\n? 3A\\n\\nHere,\\nthe voltage primary coil, Ep=10V\\nthe voltage of secondary coil, Es=20V The current of primary coil Ep=6A The current of secondary coil, Is=?"
+    }
+,
+    {
+        "question": "What is the voltage of the secondary coil of a transformer if the primary coil has 50 turns and a voltage of 210V, and the secondary coil has 100 turns?",
+        "referenceAnswer": "420V",
+        "referenceContext": "If the number of turns in the secondary coil is 100, what will be the voltage?\\n\\nWe know:\\nEp\\t np\\nEs\\t ns\\nEs = ns \u00d7 Ep\\np\\n\\nHere,\\nThe number of round of primary coil, np=50 The\\nvoltage of primary coil, Ep=210V The number of round of secondary\\n\\n100\\n50\\n\\n\u00d7 210V = 420V\\n\\ncoil, ns=100\\nthe voltage of secondary coil, Es=?\\n\\nAns: 420V"
+    },
+    {
+        "question": "What is the electric current of the secondary coil in a transformer if the primary coil has 18 turns and a current of 7A, and the secondary coil has 90 turns?",
+        "referenceAnswer": "1.4A",
+        "referenceContext": "Mathematical Example: 12.3.The number of turns of primary coil in a transformer is 18 and the number of turns of secondary coil is 90. If the electric current of primary coil is 7A, what will be the electric current of secondary coil?\\nWe know,\\nIs = np\\nIp\\t ns\\n\\nIs = np \u00d7 Ip\\ns\\n.?. Is=18 \u00d7 7A = 7\\n\\n\\nA = 1.4 A\\n\\n90\\t5\\nAns: 1.4A"
+    },
+    {
+        "question": "What happens to the magnetic field when electric current flows through a solenoid?",
+        "referenceAnswer": "The magnetic field becomes condensed and strong.",
+        "referenceContext": "A. Multiple choice questions: Tick (v) the correct answer\\n1. What will happen of magnetic field if electric -current flows through a solenoid made by insulated wire wound over a cylinder.\\na) Will be condensed and weak\\tb) Will be condensed and strong\\nc) Will be less condensed and weak\\td) Will be less condensed but strong"
+    }
+,
+    {
+        "question": "In which process is electromotive force produced?",
+        "referenceAnswer": "If a wire coil is rotated in a magnetic field, or if a magnet is rotated around a motionless wire coil.",
+        "referenceContext": "In which process, electromotive force is produced-\\na) If any magnet is kept motionless in a wire coil\\nb) If any wire coil is rotated in a magnetic field\\n   c) If any magnet is rotated around a motionless wire coil Which one is correct of the following?\\n(a) i\\t(b) ii\\n(c) i and ii\\t(d) ii and iii"
+    },
+    {
+        "question": "What happens to the induced electric current when the number of turns of a coil is increased?",
+        "referenceAnswer": "The electric current will be increased.",
+        "referenceContext": "5. What will happen of induced electric current if the number of turns of coil is increased?\\na) The electric current will be reduced\\nb) The electric current will be increased\\nc) The magnitude of electric current will be zero\\nd) The magnitude of electric current will be negative"
+    },
+    {
+        "question": "What is the magnetic effect of electric current?",
+        "referenceAnswer": "The magnetic effect of electric current is the phenomenon where a magnetic field is created around a conductor carrying an electric current.",
+        "referenceContext": "C. General question:\\n1. What is magnetic effect of electric-current?\\n2. What is electromagnet? What are the uses of this magnet?\\n3"
+    }
+,
+    {
+        "question": "What is a generator?",
+        "referenceAnswer": "A device that converts mechanical energy into electrical energy.",
+        "referenceContext": "What is generator? What are the functions of generator?"
+    },
+    {
+        "question": "What is the difference between a generator and an electric motor?",
+        "referenceAnswer": "A generator converts mechanical energy into electrical energy, while an electric motor converts electrical energy into mechanical energy.",
+        "referenceContext": "4. What is the difference between generator and electric motor?"
+    },
+    {
+        "question": "How can the intensity of an electromagnet be increased?",
+        "referenceAnswer": "By increasing the electric current, increasing the number of turns in the coil, using a stronger magnet, or increasing the length and width of the coil.",
+        "referenceContext": "6. How can the intensity be increased of electromagnet?"
+    }
+]

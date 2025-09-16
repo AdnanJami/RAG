@@ -1,0 +1,609 @@
+[
+    {
+        "question": "Who is credited with establishing the fundamental principles of motion?",
+        "referenceAnswer": "Sir Isaac Newton",
+        "referenceContext": "Sir Isaac Newton has done a lot of research about the motion of an object. He expressed the fundamental principles of motion by three laws. In this chapter we shall discuss about these laws of motion. In addition, the inertia of a object, force, nature of force, momentum, friction and safe journey will also be discussed."
+    },
+    {
+        "question": "What are the three laws of motion that Newton formulated?",
+        "referenceAnswer": "Newton's laws of motion",
+        "referenceContext": "Sir Isaac Newton has done a lot of research about the motion of an object. He expressed the fundamental principles of motion by three laws. In this chapter we shall discuss about these laws of motion. In addition, the inertia of a object, force, nature of force, momentum, friction and safe journey will also be discussed."
+    },
+    {
+        "question": "What is the name of the property of an object that resists changes in its motion?",
+        "referenceAnswer": "Inertia",
+        "referenceContext": "In this chapter we shall discuss about these laws of motion. In addition, the inertia of a object, force, nature of force, momentum, friction and safe journey will also be discussed."
+    }
+,
+    {
+        "question": "What are some examples of objects at rest?",
+        "referenceAnswer": "Chair, table, houses, log of wood",
+        "referenceContext": "We can see different types of objects around us. Some of them are in rest and some of them are in motion. Among the bodies in rest, there are chair, table, houses, log of wood etc."
+    },
+    {
+        "question": "What happens to a bicycle when the rider stops paddling?",
+        "referenceAnswer": "The bicycle will stop slowly after crossing a small distance",
+        "referenceContext": "Suppose that one of your friends is riding a bi-cycle on a plane road. At any moment he stopped paddling the cycle. Will the cycle stop at once? We find that the cycle will stop slowly after crossing a small distance. Would the cycle move continuously if there is no air resistance and friction?"
+    },
+    {
+        "question": "What is the tendency of every object?",
+        "referenceAnswer": "To remain in the same state as it is",
+        "referenceContext": "From this evidence we can understand that everybody has the tendency to remain in the same state as it is"
+    }
+,
+    {
+        "question": "What is inertia?",
+        "referenceAnswer": "The tendency of a body to maintain its own state",
+        "referenceContext": "This tendency or property of a body to maintain its own state is called inertia. Thus the tendency of a body to maintain its own state for ever in which the body is at present or the property of a body to preserve that state is defined as inertia."
+    },
+    {
+        "question": "What is the relationship between inertia and mass?",
+        "referenceAnswer": "The inertia of a body depends on its mass. That is, mass is the measure of its inertia.",
+        "referenceContext": "The inertia of a body depends on its mass. That is, mass is the measure of its inertia. The more the mass, the more the inertia of a body."
+    },
+    {
+        "question": "Why do passengers lean backwards when a bus suddenly starts moving?",
+        "referenceAnswer": "Inertia",
+        "referenceContext": "If a bus at rest suddenly starts moving the passengers lean backwards. The reason behind this is inertia. When the bus is at rest, the bodies of the passengers are also at rest. When the bus starts moving, the part of the passenger's body attached to the bus also moves with it"
+    }
+,
+    {
+        "question": "Why do passengers lean forward when a moving bus suddenly brakes?",
+        "referenceAnswer": "Inertia of motion",
+        "referenceContext": "But the upper part of the passenger's body moves forward due to inertia of motion."
+    },
+    {
+        "question": "What is the purpose of wearing seatbelts while driving?",
+        "referenceAnswer": "To prevent leaning forward due to inertia of motion when braking",
+        "referenceContext": "During car driving the drivers wear seat belt for safety. What is the reason? The reason behind this is inertia. If he doesn't use seat belt, he would lean forward due to inertia of motion for applying fast brake."
+    },
+    {
+        "question": "Why is it important for passengers to wear seatbelts?",
+        "referenceAnswer": "To prevent accidents due to inertia of motion when braking",
+        "referenceContext": "Not only have the drivers, the passengers also had to wear the seat belt if there is an arrangement of seat belt in the car."
+    }
+,
+    {
+        "question": "What is a contact force?",
+        "referenceAnswer": "A force that requires direct contact between the force applier and the body",
+        "referenceContext": "In both cases to apply force, it needs direct contact between the force applier and the body. These types of force are known as contact force."
+    },
+    {
+        "question": "What is an example of a non-contact force?",
+        "referenceAnswer": "Force of gravitation",
+        "referenceContext": "If the two bodies are not in direct contact, still they can apply force on each other. Such a well-known force is the force of gravitation, whose practical example is the weight of a body."
+    },
+    {
+        "question": "What causes a body to fall to the ground?",
+        "referenceAnswer": "Force of gravitation",
+        "referenceContext": "When a body falls from your hand, then it quickly touches the ground. What is the reason? It happens due to the weight or attraction of the earth on the body. We define this force as the force of gravitation."
+    }
+,
+    {
+        "question": "What is Newton's first law of motion?",
+        "referenceAnswer": "'Every object will continue in its state of rest or of uniform motion in a straight line unless an external force is applied to it.'",
+        "referenceContext": "Newton's first law of motion is-\\n'Every object will continue in its state of rest or of uniform motion in a straight line unless an external force is applied to it.'"
+    },
+    {
+        "question": "What is the property of matter that is expressed by Newton's first law?",
+        "referenceAnswer": "Inertia",
+        "referenceContext": "Newton's first law expresses the property of inertia of matter."
+    },
+    {
+        "question": "What is the definition of force according to Newton's first law?",
+        "referenceAnswer": "The external cause which changes or tends to change the state of an object",
+        "referenceContext": "Again from Newton's first law we see that to change the state of a body something external must be applied. That is, the external cause which changes or tends to change the state of an object is called force."
+    }
+,
+    {
+        "question": "What is a contact force?",
+        "referenceAnswer": "The force which needs direct contact between two bodies to be created",
+        "referenceContext": "The force which needs direct contact between two bodies to be created is defined as contact force."
+    },
+    {
+        "question": "What is an example of a contact force?",
+        "referenceAnswer": "Frictional force",
+        "referenceContext": "When a body tends to move or move over another body, then a resistive frictional force is produced against the motion between the contact surfaces of two bodies. Here the frictional force is produced due to direct contact between the surfaces of the two bodies."
+    },
+    {
+        "question": "What is a non-contact force?",
+        "referenceAnswer": "The force which acts without direct contact between two bodies",
+        "referenceContext": "The force which acts without direct contact between two bodies is called non-contact force"
+    }
+,
+    {
+        "question": "What is an example of a non-contact force?",
+        "referenceAnswer": "The attractive gravitational force between two bodies",
+        "referenceContext": "The attractive gravitational force between two bodies, the attractive or repulsive electric force between two charged bodies, the attractive or repulsive force between two poles of two magnets, the force of attraction acting between a magnet and a magnetic material are the examples of non-contact force or distant force."
+    },
+    {
+        "question": "What force causes a body to fall to the ground?",
+        "referenceAnswer": "Force of gravitation",
+        "referenceContext": "Here, the earth is pulling the body towards it, though there is no direct connection between the body and the earth i.e. the earth is not in contact with the body. Here the earth is applying force of gravitation on the body."
+    },
+    {
+        "question": "How many types of fundamental forces are there?",
+        "referenceAnswer": "Four",
+        "referenceContext": "Though we observe different kinds of force in nature, fundamental force are of four types. Rest of them is some forms of these fundamental forces."
+    }
+,
+    {
+        "question": "What are the four fundamental forces in nature?",
+        "referenceAnswer": "Force of gravitation, Electromagnetic force, Weak nuclear force, Strong nuclear force",
+        "referenceContext": "The four fundamental forces which exist in nature are:\\n1. Force of gravitation\\n2. Electromagnetic force\\n3. Weak nuclear force\\n4. Strong nuclear force"
+    },
+    {
+        "question": "What is the force of gravitation?",
+        "referenceAnswer": "The mutual attraction between any two bodies of the universe",
+        "referenceContext": "In this universe every body attracts each other by a force towards them. The mutual attraction between any two bodies of the universe is called gravitation. This attraction occurs due to mass of the bodies."
+    },
+    {
+        "question": "What is the electromagnetic force?",
+        "referenceAnswer": "The force exerted by two charged particles or bodies on each other due to their charges",
+        "referenceContext": "The electromagnetic force is defined as the force exerted by two charged particles or bodies on each other due to their charges. This force may be of both types- attractive or repulsive"
+    }
+,
+    {
+        "question": "When does magnetic force occur between charged particles?",
+        "referenceAnswer": "When the charged particles are mobile",
+        "referenceContext": "When the charged particles are at rest, only electric force works between them. The magnetic force is created simultaneously in addition to the electric force between the particles when the charged particles are mobile."
+    },
+    {
+        "question": "What is the weak nuclear force?",
+        "referenceAnswer": "The short range and small magnitude force that exists between the fundamental particles within the nucleus",
+        "referenceContext": "The short range and small magnitude force that exists between the fundamental particles within the nucleus is called weak nuclear force. Due to this force the nucleus becomes unstable and beta decay occurs."
+    },
+    {
+        "question": "What are the two particles found within the nucleus of an atom?",
+        "referenceAnswer": "Proton and neutron",
+        "referenceContext": "It is known that there are two particles namely proton and neutron within the nucleus of an atom"
+    }
+,
+    {
+        "question": "What are nucleons?",
+        "referenceAnswer": "Proton and neutron",
+        "referenceContext": "These particles are called nucleon. The strong force that exists between two nucleons within the nucleus of an atom is called strong nuclear force."
+    },
+    {
+        "question": "What is the strongest fundamental force?",
+        "referenceAnswer": "Strong nuclear force",
+        "referenceContext": "This force is the strongest among the fundamental forces."
+    },
+    {
+        "question": "What are balanced forces?",
+        "referenceAnswer": "Two or more forces acting on an object that produce zero resultant force",
+        "referenceContext": "When two or more forces acting on an object produce zero resultant force, i.e. the object has no acceleration; we say that the forces are balanced. The forces that produce this balanced condition are called balanced forces."
+    }
+,
+    {
+        "question": "What happens to an object when the thread holding it is cut?",
+        "referenceAnswer": "It falls down with acceleration due to gravity",
+        "referenceContext": "Only the attractive force of the earth i.e the force of gravity will act on the object if the thread is cut. Then the object will fall down with acceleration due to gravity. Here, the force of gravity or weight of the object is the unbalanced force."
+    },
+    {
+        "question": "What happens to a body in a balanced condition if it is displaced slightly?",
+        "referenceAnswer": "It will oscillate",
+        "referenceContext": "If the body is displaced slightly along one side, the tension of the thread T and the weight W will not be in a straight line. Then a resultant force will act on the body without creating balanced condition. Due to this, the body will oscillate."
+    },
+    {
+        "question": "What happens in a tug-of-war competition when the teams apply equal forces?",
+        "referenceAnswer": "The handkerchief remains stationary",
+        "referenceContext": "In this competition equal numbers of competitors pull on the rope in two sides and try to move the handkerchief to their side. If the handkerchief does not move then it is understood that either the team are applying equal amount of force and the rope or the handkerchief is in balanced condition."
+    }
+,
+    {
+        "question": "What is momentum?",
+        "referenceAnswer": "The physical quantity produced by the combination of mass and velocity of a moving body",
+        "referenceContext": "The physical quantity which is produced by the combination of mass and velocity of a moving body is the momentum. Momentum depends on the mass and velocity of the body."
+    },
+    {
+        "question": "What is the relationship between momentum and force?",
+        "referenceAnswer": "Momentum is related to the force. This relation is obtained quantitatively in Newton's second law of motion.",
+        "referenceContext": "Momentum is a measure of how difficult it is to stop something that is moving. Momentum is related to the force. This relation is obtained quantitatively in Newton's second law of motion."
+    },
+    {
+        "question": "What is the formula for momentum?",
+        "referenceAnswer": "Momentum = mv",
+        "referenceContext": "Momentum is the product of the mass and velocity of a moving body. Let, the mass of a body ? m Velocity = v ? Momentum = mv\t(3.1)"
+    }
+,
+    {
+        "question": "What is the unit of momentum?",
+        "referenceAnswer": "kg \u00d7ms-1 or kg ms-1",
+        "referenceContext": "kg \u00d7ms-1 or kg ms-1 . If a body of 1 kg moves with a velocity of 1ms-1, its momentum will be 1kg ms-1."
+    },
+    {
+        "question": "What happens when a force is applied to a stationary object?",
+        "referenceAnswer": "It starts moving",
+        "referenceContext": "A force can cause a stationary object to start moving."
+    },
+    {
+        "question": "What happens to a moving object when a force is applied in the same direction as its motion?",
+        "referenceAnswer": "Its velocity increases",
+        "referenceContext": "What would be the velocity when a cricket ball is hit by the batsman in the same direction as the ball moves? It is observed that the ball moves faster after the hit. In this case the acceleration is positive and its velocity increases."
+    }
+,
+    {
+        "question": "What happens to a moving object when a force is applied in the opposite direction of its motion?",
+        "referenceAnswer": "It decreases speed",
+        "referenceContext": "You have to apply brake to cross this sloping road safely. Due to this, the cycle decelerates."
+    },
+    {
+        "question": "What happens when a batsman hits a cricket ball coming from the opposite direction?",
+        "referenceAnswer": "The magnitude and direction of the velocity of the ball change",
+        "referenceContext": "A batsman hits the cricket ball coming from opposite direction during a game of cricket. Due to the hit, the magnitude and direction of the velocity of the ball change. The ball moves in a different direction due to this hit by the bat."
+    },
+    {
+        "question": "What can happen to the shape of a body when a force is applied to it?",
+        "referenceAnswer": "The shape of the body can change",
+        "referenceContext": "There are many examples around us where the shape of a body changes by the application of force. The shape of an empty plastic bottle changes when it is pressed. Again when a rubber band is stretched by pulling it, it becomes narrow and its shape changes."
+    }
+,
+    {
+        "question": "What is an example of a temporary change of shape that stores energy?",
+        "referenceAnswer": "Compressing a spring",
+        "referenceContext": "A temporary change of shape may provide a useful way of absorbing and storing energy. Compressing the spring by rotation of the key the potential energy is stored in a toy car."
+    },
+    {
+        "question": "What is an example of a permanent change of shape that can lead to structural failure?",
+        "referenceAnswer": "A bridge collapse due to excess load",
+        "referenceContext": "A permanent change of shape may mean the failure of a structure- as a bridge collapse due to excess load."
+    },
+    {
+        "question": "What does Newton's second law of motion state?",
+        "referenceAnswer": "The rate of change of momentum of a body is proportional to the applied force acting on it and takes place in the direction in which the force acts.",
+        "referenceContext": "Newton's first law gives qualitative definition of force. Newton's second law gives the equation for the measurement of force. From Newton's second law we know the relationship between the force acting on a body and the acceleration produced due to this force. The law is as follows:\\nThe rate of change of momentum of a body is proportional to the applied force acting on it and takes place in the direction in which the force acts."
+    }
+,
+    {
+        "question": "What is the formula for force according to Newton's second law?",
+        "referenceAnswer": "F = ma",
+        "referenceContext": "Thus if mass m is in kg, acceleration a is in ms-2, and force F is in N, then equation (3.2) becomes,\\nma ? 1.F\\nor F ? ma\\nor Force ? mass ? acceleration"
+    },
+    {
+        "question": "What is the unit of force?",
+        "referenceAnswer": "Newton (N)",
+        "referenceContext": "Here, k is a constant of proportionality. To define the unit of force Newton consider k=1. The unit of force is Newton (N). One newton (N) is defined as the force that will produce an acceleration of 1ms-2 when it acts on a mass of 1 kg."
+    },
+    {
+        "question": "What is the dimension of force?",
+        "referenceAnswer": "[F] = MLT-2",
+        "referenceContext": "The dimension of force: [F] = MLT-2"
+    }
+,
+    {
+        "question": "What is Newton's third law of motion?",
+        "referenceAnswer": "To every action there is an equal and opposite reaction.",
+        "referenceContext": "Whenever a force acts on one body, at that time an equal and opposite force acts on some other body. This matter is generally stated as-\\nTo every action there is an equal and opposite reaction. This statement is known as Newton's third law of motion."
+    },
+    {
+        "question": "What is the relationship between action and reaction forces?",
+        "referenceAnswer": "They are equal in magnitude but opposite in direction.",
+        "referenceContext": "Therefore, according to Newton's third law, the values of the action and reaction forces are same but their directions are opposite to each other."
+    },
+    {
+        "question": "On what bodies do the action and reaction forces act?",
+        "referenceAnswer": "Different bodies",
+        "referenceContext": "It is noticeable that the action and reaction force act on different bodies"
+    }
+,
+    {
+        "question": "What is the action force when a person walks on the ground?",
+        "referenceAnswer": "A backward force exerted on the ground by the leg behind",
+        "referenceContext": "In our daily life we walk or run on the ground [Figure 3.6]. When we walk on the ground, we exert a backward force on the ground by the leg behind obliquely. This is the action force."
+    },
+    {
+        "question": "Why does a person feel a backward push when firing a gun?",
+        "referenceAnswer": "Due to the reaction force from the bullet",
+        "referenceContext": "When a person fire with a gun, he feels a backward push at that time. What is the reason behind this? In this case, action and reaction force of bullet and gun exists for the same time. According to the Newton's second law of motion, the bullet and the gun acquire equal and opposite momentum."
+    },
+    {
+        "question": "What happens when two marbles collide?",
+        "referenceAnswer": "They exert equal and opposite forces on each other",
+        "referenceContext": "Among you, those who have played marble probably had seen how one marble hits another marble"
+    }
+,
+    {
+        "question": "What is a collision?",
+        "referenceAnswer": "When a moving object hits another body at rest or in motion",
+        "referenceContext": "Therefore, when a moving object hits another body at rest or in motion, then it is said that a collision has taken place."
+    },
+    {
+        "question": "What is the relationship between impulse and change of momentum?",
+        "referenceAnswer": "Impulse of force = change of momentum",
+        "referenceContext": "The product of force and time is defined as impulse of force. Therefore, impulse of force = change of momentum"
+    },
+    {
+        "question": "What is the equation for the change of momentum during a collision?",
+        "referenceAnswer": "F ? t ? mv ? mu",
+        "referenceContext": "We can express the change of momentum from this equation as-\\nF ? t ? mv ? mu"
+    }
+,
+    {
+        "question": "What is the relationship between the action and reaction forces during a collision?",
+        "referenceAnswer": "They are equal in magnitude but opposite in direction.",
+        "referenceContext": "According to Newton's third law of motion, F1 ? ?F2"
+    },
+    {
+        "question": "What is the law of conservation of momentum?",
+        "referenceAnswer": "The sum of the momentum of the objects remains the same before and after the collision",
+        "referenceContext": "Therefore, the sum of the momentum of the objects A and B remains same before and after the collision. It is the law of conservation of momentum."
+    },
+    {
+        "question": "What is the impulse of a force?",
+        "referenceAnswer": "Force \u00d7 time",
+        "referenceContext": "The product of force and time is defined as impulse of force. Therefore, impulse of force = change of momentum"
+    }
+,
+    {
+        "question": "What is the formula for change of momentum?",
+        "referenceAnswer": "Change of momentum = force \u00d7 time",
+        "referenceContext": "We know,\\nchange of momentum = force \u00d7 time\\nHere,"
+    },
+    {
+        "question": "What is the principle used to calculate the backward velocity of a gun after firing a bullet?",
+        "referenceAnswer": "Conservation of momentum",
+        "referenceContext": "Let the direction of the bullet's velocity i.e. the forward direction be positive. From the conservation of momentum,\\nWe get,\\nm1u1 ? m2 u2 ? m1 v1 ?m2v2"
+    },
+    {
+        "question": "What is the main factor for a safe journey?",
+        "referenceAnswer": "Controlling the speed of the car",
+        "referenceContext": "To control the speed of car is an important issue for a safe journey"
+    }
+,
+    {
+        "question": "What is the main factor in ensuring a safe journey?",
+        "referenceAnswer": "Controlling the speed of the car",
+        "referenceContext": "The speed of a car plays a vital role for a safe journey. The speed or velocity would not be such that which is not controllable."
+    },
+    {
+        "question": "What should a driver check before starting a journey?",
+        "referenceAnswer": "Tyre condition, brake condition, engine, battery, lamps, wiper, signal lights, and mirrors",
+        "referenceContext": "The driver has to check the car well before start journey. As an example, whether the tyre or brake is perfectly right or not. He has to ensure whether the engine, used battery, front and rear lamps, wiper, and signal lights of two sides are right and properly working. In addition, he has to properly adjust the mirrors used in the car."
+    },
+    {
+        "question": "What is the main cause of most road accidents?",
+        "referenceAnswer": "Fast driving",
+        "referenceContext": "It is observed that most of the road accidents occur due to very fast driving. So, the driver must be cautious to control the speed of the car"
+    }
+,
+    {
+        "question": "What is the relationship between the speed of a car and its kinetic energy?",
+        "referenceAnswer": "If the velocity of the car is doubled, its kinetic energy is increased by four times",
+        "referenceContext": "The kinetic energy becomes more due to increased speed. For example- if the velocity of the car is doubled, its kinetic energy is increased by four times in comparison to that of the earlier value."
+    },
+    {
+        "question": "What is a good practice for drivers when encountering other vehicles from the opposite direction?",
+        "referenceAnswer": "Slow down the vehicle's speed",
+        "referenceContext": "Slow down the vehicle's speed when you meet other vehicles from opposite direction."
+    },
+    {
+        "question": "What does Newton's first law of motion state about a body with no forces acting on it?",
+        "referenceAnswer": "The body will continue in its state of rest or of uniform motion in a straight line",
+        "referenceContext": "From Newton's first law of motion we know that if no force acts on a body the body will continue in its state of rest or of uniform motion in a straight line"
+    }
+,
+    {
+        "question": "Why does a marble eventually stop rolling on a floor?",
+        "referenceAnswer": "Friction",
+        "referenceContext": "According to Newton's law the marble should remain in uniform velocity. In practice, it is seen that the marble comes to rest after traversing a small distance. This happens due to the friction of the floor."
+    },
+    {
+        "question": "What is friction?",
+        "referenceAnswer": "Resistance developed between two surfaces in contact when a body moves or tends to move over another body",
+        "referenceContext": "When a body moves or tends to move over another body, then a resistance is developed between the two surfaces in contact, which is known as friction. This resistive force is called frictional force."
+    },
+    {
+        "question": "What is the direction of frictional force?",
+        "referenceAnswer": "Opposite to the motion",
+        "referenceContext": "The frictional force always acts opposite to the motion and obstructs the motion."
+    }
+,
+    {
+        "question": "What is the cause of friction?",
+        "referenceAnswer": "Surface irregularities",
+        "referenceContext": "Friction is the result of the surface irregularities of any two surfaces. Each object has a surface. Again, the surface may be smooth or rough. Apparently, the surface of an object seems to be smooth, but it is observed that there are high and low grooves on it when viewed by a microscope [Figure 3.8]."
+    },
+    {
+        "question": "What happens to frictional force as the surface becomes rougher?",
+        "referenceAnswer": "The magnitude of frictional force increases",
+        "referenceContext": "As the grooves of a surface deepend and their number increases i.e. as the surface become rougher, the motion of one surface over another becomes more obstructed. Then the magnitude of frictional force also increases."
+    },
+    {
+        "question": "How many types of friction are there?",
+        "referenceAnswer": "Four",
+        "referenceContext": "Generally there are four types of friction.\\n1. Static friction\\n2. Sliding friction\\n3"
+    }
+,
+    {
+        "question": "What is static friction?",
+        "referenceAnswer": "Friction between two surfaces that aren't moving relatively to each other.",
+        "referenceContext": "Static friction is the friction between two surfaces that aren't moving relatively to each other."
+    },
+    {
+        "question": "What is sliding friction?",
+        "referenceAnswer": "Friction where an object slides, or rubs against, another surface.",
+        "referenceContext": "Sliding friction is friction where an object slides, or rubs against, another surface."
+    },
+    {
+        "question": "What is rolling friction?",
+        "referenceAnswer": "Friction between a rolling object and the surface that it is rolling on.",
+        "referenceContext": "Rolling friction is friction between a rolling object and the surface that it is rolling on."
+    }
+,
+    {
+        "question": "Why is it easier to pull a luggage carrier with wheels than without wheels?",
+        "referenceAnswer": "The force of rolling friction is less than that of static friction",
+        "referenceContext": "During travelling we use luggage carrier having wheels to carry goods. If there was no wheel in the luggage carrier then it was too difficult to pull it by sliding from one place to another. Due to the attachment of wheel it becomes easier to pull it i.e. the force of rolling friction is less than that of the static friction."
+    },
+    {
+        "question": "What is fluid friction?",
+        "referenceAnswer": "Friction that occurs when an object moves in a fluid (liquid or gas)",
+        "referenceContext": "When an object moves in a fluid i.e. a liquid or gas, the friction acts is called fluid friction."
+    },
+    {
+        "question": "What is the effect of friction on the motion of an object?",
+        "referenceAnswer": "Friction slows down the motion of a body",
+        "referenceContext": "Friction has enormous influence on the motion of an object. Friction is a kind of resistive force which slows down the motion of a body"
+    }
+,
+    {
+        "question": "What is the primary reason driving vehicles is possible?",
+        "referenceAnswer": "Friction between the tyres and the road surface",
+        "referenceContext": "Driving vehicles is possible because of the friction between the tyres and the road surface."
+    },
+    {
+        "question": "What is the effect of tyre wear on the friction between the tyre and the road?",
+        "referenceAnswer": "The frictional force decreases",
+        "referenceContext": "When the tyre becomes old, their grooves are worn out and the surface becomes flat. As a result the frictional force between the tyre and the road decreased mostly."
+    },
+    {
+        "question": "What is the impact of the smoothness of the road on the motion of a body?",
+        "referenceAnswer": "The smoothness of the road has a great impact on the motion of a body",
+        "referenceContext": "The smoothness of road has a great impact on the motion of a body"
+    }
+,
+    {
+        "question": "What happens when a road is too smooth?",
+        "referenceAnswer": "It becomes difficult to stop the car within a certain distance, even when applying brakes",
+        "referenceContext": "If the road is too smooth, it is not possible to stop the car within a certain distance in spite of applying brake."
+    },
+    {
+        "question": "Why is friction important for the motion of a car?",
+        "referenceAnswer": "It provides the necessary reaction force for the car to move forward",
+        "referenceContext": "If the road is too smooth, the necessary reaction force is not produced."
+    },
+    {
+        "question": "What is the main goal when controlling the speed of a vehicle?",
+        "referenceAnswer": "To increase or decrease the speed according to necessity",
+        "referenceContext": "The speed of the vehicle has to increase or decrease according to the necessity at the time of vehicle movement"
+    }
+,
+    {
+        "question": "How does a brake control the speed of a car?",
+        "referenceAnswer": "By increasing friction between the brake pad and the wheel's metallic disc",
+        "referenceContext": "When the driver applies the brakes, the shoe or pad made of asbestos press the metallic disc on the wheel. The friction between the pad and disc slows down the wheel's speed. As a result, the velocity of a car decreases."
+    },
+    {
+        "question": "What is one way to reduce friction?",
+        "referenceAnswer": "Smoothing the surface",
+        "referenceContext": "By polishing or smoothing the surface it can be decreased."
+    },
+    {
+        "question": "What is one way to reduce friction?",
+        "referenceAnswer": "Using wheels",
+        "referenceContext": "There are wheels in bus, truck and many types of machinery"
+    }
+,
+    {
+        "question": "Why are wheels considered an ingenious invention?",
+        "referenceAnswer": "They reduce friction to a minimum",
+        "referenceContext": "The wheel is an ingenious invention. Its circular shape reduces friction to a minimum."
+    },
+    {
+        "question": "What is the purpose of using lubricants?",
+        "referenceAnswer": "To reduce friction between surfaces",
+        "referenceContext": "A layer of lubricant between the two surfaces can greatly reduce the friction. So, lubricants are used between the moving parts of an engine."
+    },
+    {
+        "question": "What is the purpose of using ball bearings?",
+        "referenceAnswer": "To reduce friction between moving parts of a machine",
+        "referenceContext": "Ball bearings are placed between the moving parts of a machine. They roll around so that the moving parts of the machine do not rub against each other directly"
+    }
+,
+    {
+        "question": "What happens to a car's tyres on a slippery or muddy road?",
+        "referenceAnswer": "They spin around at the same spot",
+        "referenceContext": "Without friction in the road, the tyres of a car will just spin around at the same spot. Possibly you have seen how truck and bus is blocked in a slippery or muddy road in the rainy days."
+    },
+    {
+        "question": "How are car tyres designed to increase friction?",
+        "referenceAnswer": "They have treads (grooves and teeth)",
+        "referenceContext": "The car tyres are so designed that they are able to grip the road properly and create necessary frictional force. Therefore the surface of the tyres are designed with treads i.e. grooves and teeth."
+    },
+    {
+        "question": "What is one way to increase friction?",
+        "referenceAnswer": "Making the surface rough",
+        "referenceContext": "i.e. friction can be increased by making the surface rough."
+    }
+,
+    {
+        "question": "Why is friction considered a necessary evil?",
+        "referenceAnswer": "It has many disadvantages but is essential for many everyday activities",
+        "referenceContext": "Though friction has many disadvantages it is considered as a necessary evil. What causes it? We cannot do anything without the force of friction."
+    },
+    {
+        "question": "What are some examples of how friction is beneficial?",
+        "referenceAnswer": "Fixing a nail in a wall, constructing buildings, writing on paper, walking, changing the direction of a car, using a parachute",
+        "referenceContext": "Due to friction, a nail is fixed in a wall. It became possible to construct buildings and houses because of friction. Friction has made it possible to write on a paper with a pencil or a pen. We can walk as there is a friction between our shoes and the ground. We can change the direction of motion of a car owing to friction. Using a parachute it is possible to descend safely to the ground by harnessing the air resistance."
+    },
+    {
+        "question": "What are some disadvantages of friction?",
+        "referenceAnswer": "Vehicles cannot move easily, devices with moving parts wear out and tear",
+        "referenceContext": "In spite of having so many advantages we have to suffer a lot for friction. Because of excess friction the vehicles cannot move easily. Any device that has moving parts can wear out and tear due to friction"
+    }
+,
+    {
+        "question": "What is a major consequence of excess friction?",
+        "referenceAnswer": "Wasting fuel energy",
+        "referenceContext": "In any type of vehicles- may be car, boat or airplane, extra fuel has to be spent to overcome the excess friction. Fuel energy is being wasted because of friction."
+    },
+    {
+        "question": "How does friction contribute to the wearing down of shoes?",
+        "referenceAnswer": "The soles of your shoes wear and tear out due to friction",
+        "referenceContext": "As a result of friction, the soles of your shoes wear and tear out."
+    },
+    {
+        "question": "What is the objective of Investigation 3.1?",
+        "referenceAnswer": "To measure force by simple experiment",
+        "referenceContext": "Investigation 3.1: Measurement of force acting on a body Objective: To measure force by simple experiment"
+    }
+,
+    {
+        "question": "What is the formula for calculating the weight of a body?",
+        "referenceAnswer": "W = mg",
+        "referenceContext": "The acceleration a of the body can be expressed by g in case of force due to gravity. That is, the force of gravity or weight of the body,\\nW ? mg ."
+    },
+    {
+        "question": "What instruments are used to measure the weight of a body in Investigation 3.1?",
+        "referenceAnswer": "Spring balance and a body",
+        "referenceContext": "Instruments: Spring balance, a body."
+    },
+    {
+        "question": "What is the purpose of repeating the weight measurement several times in Investigation 3.1?",
+        "referenceAnswer": "To determine the average weight of the body",
+        "referenceContext": "Repeat the procedure number 3 several times to measure the weight of the body and note it down in the table.\\nNow, determine the average weight or force acting on the body"
+    }
+,
+    {
+        "question": "What is the dimension of force?",
+        "referenceAnswer": "MLT-2",
+        "referenceContext": "Which one is the dimension of force?\\n(a) MLT-2\t(b) MLT-1\t(c) ML-2T-2\t(d) M-1LT-2"
+    },
+    {
+        "question": "What is the strongest force?",
+        "referenceAnswer": "Strong nuclear force",
+        "referenceContext": "Which one of the following forces is stronger?\\n(a) gravitational force\t(b) weak nuclear force\\n(c) electromagnetic force\t(d) strong nuclear force"
+    },
+    {
+        "question": "What is the unit of momentum?",
+        "referenceAnswer": "kg ms-1",
+        "referenceContext": "Which one is the unit of momentum?\\n(a) kg m\t(b) kg ms -1\t(c) kg m 2s-1\t(d) kg ms -2"
+    }
+,
+    {
+        "question": "What is inertia?",
+        "referenceAnswer": "The tendency of a body to maintain its present state for ever",
+        "referenceContext": "The tendency or property of a body to maintain its present state for ever is called what?"
+    },
+    {
+        "question": "What is force?",
+        "referenceAnswer": "The external cause which changes or tends to change the state of an object",
+        "referenceContext": "Again from Newton's first law we see that to change the state of a body something external must be applied. That is, the external cause which changes or tends to change the state of an object is called force."
+    },
+    {
+        "question": "How many types of fundamental forces are there?",
+        "referenceAnswer": "Four",
+        "referenceContext": "Though we observe different kinds of force in nature, fundamental force are of four types. Rest of them is some forms of these fundamental forces."
+    }
+]

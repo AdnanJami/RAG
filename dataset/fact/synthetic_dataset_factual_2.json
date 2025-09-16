@@ -1,0 +1,465 @@
+[
+    {
+        "question": "What is the definition of an object at rest?",
+        "referenceAnswer": "An object is at rest when it does not change its position with respect to time.",
+        "referenceContext": "Therefore, a body is said to be static or at rest with respect to its surroundings when it does not change its position with time."
+    },
+    {
+        "question": "What is the definition of an object in motion?",
+        "referenceAnswer": "An object is in motion when it changes its position with respect to time.",
+        "referenceContext": "A body is said to be in motion with respect to its surroundings when it changes its position with time. And this change of position with time is called motion."
+    },
+    {
+        "question": "What happens if the relative positions of an object and its reference frame remain unchanged with time?",
+        "referenceAnswer": "The object is considered to be at rest with respect to the reference frame.",
+        "referenceContext": "If the relative positions of this considered object and the reference object remain unchanged with time, the considered object is said to be in rest with respect to reference object."
+    }
+,
+    {
+        "question": "What is an example of two objects being at rest relative to each other?",
+        "referenceAnswer": "Two friends sitting face-to-face in a moving train.",
+        "referenceContext": "If two friends remain seated face to face in a running train, then the relative position of one with respect to other does not change. So one is said to have in rest with respect to other."
+    },
+    {
+        "question": "What is the definition of absolute rest?",
+        "referenceAnswer": "A body is said to be in absolute rest when it is at rest with respect to an object that is absolutely at rest.",
+        "referenceContext": "If the reference frame is actually in rest, object in rest will be : actually in rest with respect to that frame. This type of rest is called absolute rest. A body is said to be in absolutely rest when it is in rest with respect to an absolutely rest object."
+    },
+    {
+        "question": "Why is it impossible to find an object that is absolutely at rest?",
+        "referenceAnswer": "Because the Earth and the Sun are constantly moving.",
+        "referenceContext": "But in this universe it is not possible to get a reference object which is at absolute rest. Since the earth is continuously moving round the sun, while the sun itself is moving along the galaxy with its planets and satellites."
+    }
+,
+    {
+        "question": "What is the statement about rest and motion in the universe?",
+        "referenceAnswer": "All rest and motion are relative, none are absolute.",
+        "referenceContext": "So we can say that in this universe all rest and all motion are relative. No rest or no motion is absolute."
+    },
+    {
+        "question": "What are the two ways in which the position of a body can change?",
+        "referenceAnswer": "Change of distance and change of direction.",
+        "referenceContext": "The change of position of a body may take place in two ways. Let us consider the following example :\\na) Mou is standing under a tree and sees that her friend Awishi is running away from her. So the distance between Mou and Awishi is increasing with time.\\nb) A large circular tract is made in the school field of Raju for race of annual sports. He notices his friend Shihab practicing to running along that track standing at the centre of the trac (Fig 2.1 (b)). Raju says Shihab is in motion but the distance between them is not changing with time. How it can be said that Shihab is in motion with respect to Raju."
+    },
+    {
+        "question": "What is changing when the position of Shihab is changing with respect to Raju, but the distance between them remains constant?",
+        "referenceAnswer": "The direction of Shihab's position.",
+        "referenceContext": "In the second example, the position of Shihab is changing with respect to Raju with time but the distance is not changing. What is changing then ? The direction of position of Shihab is changing with respect to Raju"
+    }
+,
+    {
+        "question": "What are the three types of motion discussed in this passage?",
+        "referenceAnswer": "Linear motion, rotational motion, and periodic motion.",
+        "referenceContext": "2.2 Types of motion\\nLinear motion : If a body is in motion along a straight line, that is, if the motion of a body is restricted on a straight line its motion is called linear motion. The motion of a car in a straight street is linear motion.\\nRotational motion : When a body rotates around a particular point or an axis keeping the distance of the particles of the body unchanged is called rotational motion. For example, motion of an electric fan, motion of the heads of a clock.\\nRectilinear motion : When a body moves along a straight line in such a way that each particle of the body travels the same distance at the same time in the same direction.\\nIf a book is pushed to shift from one end to the other of a table without rotation, the motion will be rectilinear because all the particles of the book travel the equal distance, at equal time in the same direction.\\nPeriodic motion : If the motion of a moving particle is such that it passes through a definite point along the path of its motion in the same direction in a definite interval of time, this type of motion is called periodic motion"
+    },
+    {
+        "question": "What is an example of linear motion?",
+        "referenceAnswer": "The motion of a car in a straight street.",
+        "referenceContext": "Linear motion : If a body is in motion along a straight line, that is, if the motion of a body is restricted on a straight line its motion is called linear motion. The motion of a car in a straight street is linear motion."
+    },
+    {
+        "question": "What is an example of rotational motion?",
+        "referenceAnswer": "The motion of an electric fan or the hands of a clock.",
+        "referenceContext": "Rotational motion : When a body rotates around a particular point or an axis keeping the distance of the particles of the body unchanged is called rotational motion. For example, motion of an electric fan, motion of the heads of a clock."
+    }
+,
+    {
+        "question": "What is the definition of time period in periodic motion?",
+        "referenceAnswer": "The time interval at which a particle of periodic motion passes through a definite point from the same direction repeatedly.",
+        "referenceContext": "The time interval at which a particle of periodic motion passes through a definite point from the same direction repeatedly is called its time period."
+    },
+    {
+        "question": "What are examples of vibratory motion?",
+        "referenceAnswer": "The motion of a simple pendulum, the motion of a vibrating tuning fork, and the motion of the string of a guitar.",
+        "referenceContext": "Vibratory motion : If a body executing periodic motion moves in a definite direction for one half of its time period and exactly for the other half in the opposite direction then\\nthis motion is called vibratory motion. Motion of a simple pendulum, motion of vibrating tuning fork and the motion of string of guitar."
+    },
+    {
+        "question": "What is the definition of a physical quantity?",
+        "referenceAnswer": "Anything that can be measured in the physical world.",
+        "referenceContext": "2.3 Scalar and vector quantities :\\nAnything that can be measured in this physical world is called a physical quantity. When a physical quantity is measured, it has got a magnitude. We express this magnitude in terms of a number and a unit."
+    }
+,
+    {
+        "question": "What are the two categories of physical quantities based on direction?",
+        "referenceAnswer": "Scalar quantities and vector quantities.",
+        "referenceContext": "In consideration of direction all quantities of the world we can divide into two category. Such as\\n1. In-directional quantity or Scalar quantity\\n2. Directional quantity or Vector quantity"
+    },
+    {
+        "question": "What is the definition of a scalar quantity?",
+        "referenceAnswer": "Physical quantities that can be fully expressed by magnitude only.",
+        "referenceContext": "Scalar quantity : Physical quantities which can be fully expressed by magnitude only are called scalar quantities. Length, mass, speed, work, energy, time, temperature etc are the examples of scalar quantities."
+    },
+    {
+        "question": "What is the definition of a vector quantity?",
+        "referenceAnswer": "Physical quantities that need both magnitude and direction to be fully expressed.",
+        "referenceContext": "Vector quantity : Physical quantity which need both magnitude and direction to be fully expressed are called vector quantities. Displacement, velocity, acceleration, force, electric intensity etc are the examples of vector quantities."
+    }
+,
+    {
+        "question": "What are two ways to represent a vector quantity?",
+        "referenceAnswer": "An arrow over the symbol or a bold letter.",
+        "referenceContext": "For example, A or A , where A represents, the magnitude of the vector quantity A. Sometimes bold A instead of A is used to represent a vector and an ordinary A to represent its magnitude. The vector quantities in the table 2.1 are represented by bold letter."
+    },
+    {
+        "question": "What does the length of an arrow representing a vector quantity indicate?",
+        "referenceAnswer": "The magnitude of the vector quantity.",
+        "referenceContext": "In figure, a vector quantity represented by an arrow headed straight line. The length of the straight line represents the magnitude and the arrow head indicates the direction of the vector."
+    },
+    {
+        "question": "What is the difference between distance and displacement?",
+        "referenceAnswer": "Distance is the total length traveled, while displacement is the change in position with direction.",
+        "referenceContext": "2.4 Different quantities related to motion Distance and Displacement:\\nSuppose, Ovi ran 100m from his school gate. It is true that Ovi is 100m away from the gate, but it does not tell the exact position of Ovi. Because Ovi can be 100m away to the east, to the west, to the north, to the south or any other directions. To know exactly the change of position of Ovi, the direction towards which he moved 100m should also be known. If it is stated that Ovi ran 100m from the gate to the east then his exact position will be known definitely"
+    }
+,
+    {
+        "question": "What is the definition of displacement?",
+        "referenceAnswer": "Change of position or distance in a definite direction.",
+        "referenceContext": "The physical quantity which was first\\nS\\nFig-2.2\\n\\n\\n\\n\\nFig-2.3\\nused to indicate the change of position of Ovi is distance. This is a scalar quantity. In the second case, direction has also been mentioned along with distance, this is called displacement. This is a vector quantity. Change of position or distance in a definite direction is displacement. So, the change of position of an object with respect to its surrounding in a definite direction is called displacement."
+    },
+    {
+        "question": "What is the magnitude of displacement?",
+        "referenceAnswer": "The minimum distance between the initial and final positions of a body.",
+        "referenceContext": "The minimum distance, that is, the linear distance between the initial and final position of a body is the magnitude of its displacement at its direction is towards final position from the initial position."
+    },
+    {
+        "question": "What is the dimension and unit of displacement?",
+        "referenceAnswer": "The dimension of displacement is L and the unit is meter (m).",
+        "referenceContext": "The dimension of displacement is the same as that of distance.\\nTherefore, [ s ] = L\\nThe unit of displacement is the same as that of distance that is meter (m)"
+    }
+,
+    {
+        "question": "What is the definition of speed?",
+        "referenceAnswer": "The rate of change of position of a body with time.",
+        "referenceContext": "The quantity by which we can measure how fast a body moves or distance traveled, is called speed. Speed expresses the rate of change position of a body. The rate of change of position of a body with time is called the speed."
+    },
+    {
+        "question": "How is speed measured?",
+        "referenceAnswer": "By the distance traveled per unit time.",
+        "referenceContext": "Speed of a body is measured by the distance traveled per unit time"
+    },
+    {
+        "question": "What two factors determine how fast a body moves?",
+        "referenceAnswer": "Distance and time.",
+        "referenceContext": "From the above discussion we can understand time and distance determines who goes faster."
+    }
+,
+    {
+        "question": "What is the formula for speed?",
+        "referenceAnswer": "Speed = distance / time",
+        "referenceContext": "If a moving body travels a distance `d' in time `t' then the speed v is\\n\\n\\n\\n\\n\\nSpeed = distance\\n\\n\\n\\n\\n\\n"
+    },
+    {
+        "question": "What is the dimension of speed?",
+        "referenceAnswer": "[LT-1]",
+        "referenceContext": "The dimension of speed is the dimension of = distance\\n? [ V ] = [ L / T ] = [ LT-1 ]"
+    },
+    {
+        "question": "What is the definition of average speed?",
+        "referenceAnswer": "The total distance traveled divided by the total time taken.",
+        "referenceContext": "If a body does not move with uniform speed, then the speed obtained by dividing the total distance traveled by time is called average speed.\\nSo, average speed = total distance\\nIf a car runs 300 km in 6 hours since 7 in the morning on the way from Dhaka to Dinajpur, the average speed of the car is 300km/6h = 50kmh-1"
+    }
+,
+    {
+        "question": "What is the definition of instantaneous speed?",
+        "referenceAnswer": "The speed of a body at a specific instant in time.",
+        "referenceContext": "Instantaneous speed : If we want to know the instantaneous speed of any body at any instant, for example what was the speed of the car just the moment its 33miniutes travel is over, the speed of that moment will be the instantaneous speed. To find the instantaneous speed at any instant, the distance traveled at during a small interval, has to be known and then the distance has to be divided by the time interval."
+    },
+    {
+        "question": "What is the difference between speed and velocity?",
+        "referenceAnswer": "Speed is the rate of change of position, while velocity is the rate of change of position with direction.",
+        "referenceContext": "Velocity : Sometimes during usual conversation many people use the word velocity to mean speed. But in science the two words do not mean the same thing speed indicates only the rate of change of position with time, it does not indicate the direction of change\\nof position"
+    },
+    {
+        "question": "What are some examples of how instantaneous speed is measured?",
+        "referenceAnswer": "Reading a speedometer, using a radar or laser gun.",
+        "referenceContext": "If any one wants to the speed of the car at 10 : 32 : 43 am ( 10 hours 32 minute 43 second) or at the time of cross over a speed breaker on the highway beside any school, he has to see the reading of the speedometer at the moment. Similarly with the help of Rudder or Laser gun we can know whether a car is violating the highest limit on the highway or the speed every ball of Mashrafi Bin Murtaja, the fastest bowler of Bangladesh national team."
+    }
+,
+    {
+        "question": "What is the definition of velocity?",
+        "referenceAnswer": "The rate of change of displacement with time.",
+        "referenceContext": "Hence velocity of a body is its rate of change of displacement with time, that is the distance traveled by a moving body in unit time in a definite direction is called the velocity of the body."
+    },
+    {
+        "question": "What is the formula for velocity?",
+        "referenceAnswer": "Velocity = displacement / time",
+        "referenceContext": "If a body travels a distance s in a definite direction in time t the velocity is v = 3"
+    },
+    {
+        "question": "What is the difference between velocity and speed?",
+        "referenceAnswer": "Velocity includes direction, while speed does not.",
+        "referenceContext": "The velocity states the rate of change of position along with its direction that is, velocity means the rate of change of position in a definite direction or in other words the rate of change of displacement."
+    }
+,
+    {
+        "question": "What is the definition of uniform velocity?",
+        "referenceAnswer": "The velocity of a body remains unchanged in magnitude and direction.",
+        "referenceContext": "If the magnitude and direction of the velocity of a moving body remains unchanged, then the velocity of the body as called uniform or equal velocity."
+    },
+    {
+        "question": "What is an example of a uniform velocity?",
+        "referenceAnswer": "The velocity of sound in air.",
+        "referenceContext": "The velocity of sound is a good example of natural phenomenon of uniform velocity. Sound travels in a definite direction over equal distances in equal intervals of time and it is 332ms-1 in Air at 00c. Sound travels in a definite direction through a distance of 332m in the 1st second, 332m in the 2nd second and so on for every second. Here the magnitude and the direction of the velocity of sound remains the same. So the velocity of sound 332ms-1 is a uniform velocity."
+    },
+    {
+        "question": "What is the definition of variable velocity?",
+        "referenceAnswer": "The velocity of a body changes in magnitude or direction or both.",
+        "referenceContext": "If the magnitude or direction or both of the velocity of a moving body changes during its motion, then its velocity is called variable or uniform velocity."
+    }
+,
+    {
+        "question": "What is the definition of acceleration?",
+        "referenceAnswer": "The rate of change of velocity with time.",
+        "referenceContext": "The rate of change of velocity with time that is the change of velocity in unit time is known as acceleration."
+    },
+    {
+        "question": "What is positive acceleration?",
+        "referenceAnswer": "The rate of increase of velocity with time.",
+        "referenceContext": "The rate of increase of velocity with time of a body moving in a straight line is called positive acceleration and the rate of decrease of velocity of a body with time is called negative acceleration."
+    },
+    {
+        "question": "What is retardation or deceleration?",
+        "referenceAnswer": "Negative acceleration.",
+        "referenceContext": "The rate of increase of velocity with time of a body moving in a straight line is called positive acceleration and the rate of decrease of velocity of a body with time is called negative acceleration. Sometimes negative acceleration is called retardation or deceleration."
+    }
+,
+    {
+        "question": "What is the formula for acceleration?",
+        "referenceAnswer": "Acceleration = (final velocity - initial velocity) / time",
+        "referenceContext": "If the initial velocity of a body is u and its final velocity after time t is v.\\nthen change of velocity in time t = v - u\\nHence, change of velocity in unit time = v-u\\n\\n? rate of change of velocity, i.e. acceleration, a = v-u\\nTherefore, acceleration = change of velocity"
+    },
+    {
+        "question": "What is the dimension of acceleration?",
+        "referenceAnswer": "LT-2",
+        "referenceContext": "Dimension : The dimension of acceleration is the dimension of velocity / time\\nThat is, acceleration =\t velocity\t\\ntime\\n=\t displacement\t\t\u00d7 \t1\t\\ntime\ttime\\n=\t displacement\t time2\\n\\nTherefore, [ a ] =\t L\t\\nT2\\n\\n= LT-2"
+    },
+    {
+        "question": "What is the unit of acceleration?",
+        "referenceAnswer": "ms-2",
+        "referenceContext": "Unit : The unit of acceleration is the unit of velocity / time , that is, ms-1 / s = ms-2"
+    }
+,
+    {
+        "question": "What is the definition of uniform acceleration?",
+        "referenceAnswer": "The rate of increase of velocity of a moving body in a particular direction is constant.",
+        "referenceContext": "If the rate of increase of velocity of a moving body in a particular direction is maintained constant all the time, then the acceleration is said to be uniform."
+    },
+    {
+        "question": "What is an example of uniform acceleration?",
+        "referenceAnswer": "The acceleration of a freely falling body due to gravity.",
+        "referenceContext": "An example of uniform acceleration is the acceleration of a freely falling, body due to gravity the acceleration of a freely falling body is 9.8ms-2, that is, its velocity increases by 9.8ms-1 for each successive seconds."
+    },
+    {
+        "question": "What is the definition of non-uniform acceleration?",
+        "referenceAnswer": "The rate of increase of velocity changes with time.",
+        "referenceContext": "Conversely, if the rate of increase of velocity changes with time, the acceleration is said to be non-uniform or variable."
+    }
+,
+    {
+        "question": "What are the five quantities related in the equations of motion?",
+        "referenceAnswer": "Initial velocity (u), uniform acceleration (a), traveled time (t), displacement (s), and final velocity (v).",
+        "referenceContext": "There are five quantities ``Suvat'' are related in such a way that if we know the value of three, we can find the value of other two. So there are four equations and every equations has four quantities we can find the value of unknown quantities using the values known quantities by this equation."
+    },
+    {
+        "question": "What is the first equation of motion?",
+        "referenceAnswer": "v = u + at",
+        "referenceContext": "In lesson 2.4 we see Acceleration, a = v-u\\n? v = u + at\t(2.1)"
+    },
+    {
+        "question": "What is the second equation of motion?",
+        "referenceAnswer": "s = (u + v)t",
+        "referenceContext": "We also find there\\naverage speed = distance traveled\\nor,  u+v\ts\\n\\n? s = (u+v)t\\n\\n(2.2)"
+    }
+,
+    {
+        "question": "What is the initial velocity of the car in Mathematical Example 2.3?",
+        "referenceAnswer": "0 ms-1",
+        "referenceContext": "Mathematical Example 2.3 : A car starting from rest moves with acceleration of 2ms-2 its velocity reach at 20ms-1 "
+    },
+    {
+        "question": "What is the final velocity of the car in Mathematical Example 2.4?",
+        "referenceAnswer": "35 ms-1",
+        "referenceContext": "Mathematical Example 2.4 : A car is moving with a velocity, of 54kmh-1. It is accelerated by 4ms-2 for 5s. What is the final velocity of the car and how far will it travel during the period of acceleration ?"
+    },
+    {
+        "question": "What is the final velocity of the car in Mathematical Example 2.5?",
+        "referenceAnswer": "40 ms-1",
+        "referenceContext": "Mathematical Example 2.5 : A car starting from rest in straight moves with uniform\\nacceleration of 10ms-2. What will be the velocity while crossing a person at a distance 80m ?"
+    }
+,
+    {
+        "question": "What is the force of attraction between any two bodies in the universe called?",
+        "referenceAnswer": "Gravitation",
+        "referenceContext": "The force of attraction between any two bodies or particles in this universe is called ``Gravitation''."
+    },
+    {
+        "question": "What is the acceleration of a body due to gravity called?",
+        "referenceAnswer": "Acceleration due to gravity",
+        "referenceContext": "So, acceleration of a body is produced due to the force of gravity as well. This acceleration is called acceleration due to gravity."
+    },
+    {
+        "question": "What is the symbol used to represent acceleration due to gravity?",
+        "referenceAnswer": "g",
+        "referenceContext": "The rate of increase of velocity of a freely falling body on earth due to force of gravity is called the acceleration due to gravity. The acceleration due to gravity is represented by the letter g."
+    }
+,
+    {
+        "question": "What is the standard value of acceleration due to gravity?",
+        "referenceAnswer": "9.80665 ms-2",
+        "referenceContext": "Since the value of `g' is different at different places on the surface of the earth, its value at sea level altitude 45? is accepted as the standard value. This standard value of `g' is 9.80665ms-2. For convenience the standard value of `g' is taken to be 9.8ms-2 or 9.81ms-2."
+    },
+    {
+        "question": "Why does a heavy object and a light object dropped from the same height not reach the ground at the same time?",
+        "referenceAnswer": "Due to air resistance.",
+        "referenceContext": "If a heavy and a light object are dropped from the same height simultaneously, will they reach the ground at the same time ?\\nIn fact, if a piece of stone and a piece of paper are dropped from the same height, it is seen that the stone reaches the ground first. Since the acceleration due to gravity does not dropped on the mass of the body, the acceleration of the stone and that of the paper would be the same. So they should reach at the same time on the earth, but due to the resistance of air two bodies reach at different time on the earth. If there is no resistance of the air, they would fall at the same time."
+    },
+    {
+        "question": "Who discovered the laws of falling bodies?",
+        "referenceAnswer": "Galileo",
+        "referenceContext": "Laws of falling bodies :\\nGalilio discovered three laws relating to falling bodies : These are called laws of falling bodies"
+    }
+,
+    {
+        "question": "What is the first law of falling bodies?",
+        "referenceAnswer": "All bodies falling from rest and from the same height without any resistance traverse equal distance in equal time.",
+        "referenceContext": "Laws of falling bodies are :\\nFirst Law : All bodies falling from rest and from the same height without any resistance traverse equal distance in equal time."
+    },
+    {
+        "question": "What is the second law of falling bodies?",
+        "referenceAnswer": "The velocity acquired by a freely falling body from rest in a given time is directly proportional to time.",
+        "referenceContext": "Second Law : The velocity (v), acquired by a freely falling body from rest in a given time (t) is directly proportional to time that is, v ? t"
+    },
+    {
+        "question": "What is the third law of falling bodies?",
+        "referenceAnswer": "The distance traversed by a freely falling body from rest in a given time is directly proportional to the square of the time.",
+        "referenceContext": "Third Law : The distance (h) traversed by a freely falling body from rest in a given time\\n(t) is directly proportional to the square of the time, that is, h ? t2."
+    }
+,
+    {
+        "question": "What is the final velocity of the body in Mathematical Example 2.6?",
+        "referenceAnswer": "31.3 ms-1",
+        "referenceContext": "or v2 =\t0 + 2 x 9.8 ms-2 x 50m\\n=\t980m2s-2\\n           ? v =\t31.3ms-1 Ans : 31.3ms-1"
+    },
+    {
+        "question": "What is a distance-time graph used for?",
+        "referenceAnswer": "Representing the relationship between distance traveled and time.",
+        "referenceContext": "2.7 Motion and Graph\\n1. Distance-Time Graph : A moving object changes its position with the change of time. The distance traveled by the body depends on time. This relation can be represented graphically. In this case axis `X' in the graph represents time (t) and axis Y represent distance (s). This graph is called distance-time graph. We can find velocity easily by this graph."
+    },
+    {
+        "question": "What type of motion does a distance-time graph with a straight line represent?",
+        "referenceAnswer": "Uniform velocity.",
+        "referenceContext": "(A) In case of uniform Velocity:\\nSuppose a pollution free CNG run auto-rickshaw is moving along plane straight road. The table below shows the distances traveled after every 12 minutes."
+    }
+,
+    {
+        "question": "What is the formula for velocity as determined from a distance-time graph?",
+        "referenceAnswer": "Velocity = distance / time",
+        "referenceContext": "? Velocity = distance\t= PM\t= ON , Here, PM is the slope of the OP."
+    },
+    {
+        "question": "What type of motion does a distance-time graph with a curved line represent?",
+        "referenceAnswer": "Non-uniform velocity.",
+        "referenceContext": "(B) In case of Non-uniform velocity : Fig 2.6 represents a distance-time graph of a body moving with non-uniform velocity. In this case the body does not move over equal distance in equal intervals of time, so the graph will not be a straight line. It will be a curved line."
+    },
+    {
+        "question": "What is the difficulty in determining velocity from a distance-time graph with a curved line?",
+        "referenceAnswer": "It is difficult to get a correct result by measuring such a small triangle.",
+        "referenceContext": "But it is difficult to get correct result by measuring such a small triangle"
+    }
+,
+    {
+        "question": "What is the relationship between the gradient of the tangent at any point on a distance-time graph and the velocity at that point?",
+        "referenceAnswer": "The gradient of the tangent at any point on the distance-time graph represents the velocity at that point.",
+        "referenceContext": "Therefore, the velocity at the point P is the slope or gradient of the tangent drawn at that point. Thus it may be said that the gradient of the tangent at any point on the distance- time graph represents the velocity at that point."
+    },
+    {
+        "question": "What is a velocity-time graph used for?",
+        "referenceAnswer": "Representing the relationship between velocity and time.",
+        "referenceContext": "2. Velocity - time graph\\nThe velocity of an object moving with non-uniform velocity depends on time. This relation can be expressed by a graph. In this case time (t) is plotted along X-axis and velocity (v) along Y-axis. This graph is called velocity-time graph. We can find velocity and acceleration i.e. the rate of change of velocity with time from the graph easily."
+    },
+    {
+        "question": "What is the relationship between the slope of a tangent drawn at any point on a velocity-time graph and the acceleration at that point?",
+        "referenceAnswer": "The slope of the tangent drawn at any point on the velocity-time graph represents the acceleration at that point.",
+        "referenceContext": "So it is said that the slope of tangent drawn at any point on velocity-time graph represents the acceleration of that point."
+    }
+,
+    {
+        "question": "What is the objective of Investigation 2.1?",
+        "referenceAnswer": "To determine the average speed of a marble rolling over a slanting plank.",
+        "referenceContext": "Investigation: 2.1\\nDetermination of the average speed of a marble rolling over slanting plank.\\nObjective : To determine the average speed in every case finding time of equal distance traveled in different acceleration."
+    },
+    {
+        "question": "What is the objective of Investigation 2.2?",
+        "referenceAnswer": "To demonstrate models of different kinds of motion through different activities.",
+        "referenceContext": "Investigation:2.2\\nDemonstration of models of different kinds of motion through different activities.\\nObjective : To demonstrate the models of different types of motion and observe their differences by the role play of the students."
+    },
+    {
+        "question": "What is the first step in the working procedure for Investigation 2.2?",
+        "referenceAnswer": "Mark a long straight line with chalk powder or lime.",
+        "referenceContext": "Working Procedure :\\n1. Mark a long straight line by chalk powder or lime in your school field or any play ground nearby or stretch out a long rope straightly"
+    }
+,
+    {
+        "question": "What is the first step in the working procedure for Investigation 2.2?",
+        "referenceAnswer": "Mark a long straight line with chalk powder or lime.",
+        "referenceContext": "Working Procedure :\\n1. Mark a long straight line by chalk powder or lime in your school field or any play ground nearby or stretch out a long rope straightly"
+    },
+    {
+        "question": "What type of motion is described in step 4 of the working procedure?",
+        "referenceAnswer": "Circular and periodic.",
+        "referenceContext": "4. If any one outside the chain produces sound all the members start to run slowly centering the first one holding their hands so that the chain does not break or disorder.\\n5. Stretch a few meter (Suppose 10 meter) long straight rope at one side of the field. Two of you stand at the two ends of the rope and one of you at the middle of it. Now starting from the first one walk towards second and return to first one just touching him without stopping your walk. Again touching first one go to the second one . Repeat it for several times."
+    },
+    {
+        "question": "What is the purpose of step 6 in the working procedure?",
+        "referenceAnswer": "To note down the characteristics of the motion described in step 2.",
+        "referenceContext": "6. Note down the characteristics of the motion mentioned in procedure 2 in your copy."
+    }
+,
+    {
+        "question": "What is the objective of Investigation 2.3?",
+        "referenceAnswer": "To determine the average speed by the traveled distance in different times, draw a distance-time graph, determine instantaneous speed at any time, and average acceleration.",
+        "referenceContext": "Investigation: 2.3\\nDetermination of speed of 100 meter race and its graphical analysis\\nObjectives : To determine the average speed by the traveled distance in different times, draw distance-time graph determine instantaneous speed at any time and average acceleration."
+    },
+    {
+        "question": "What is the first step in the working procedure for Investigation 2.3?",
+        "referenceAnswer": "Stretch out a rope straightly at one end of the school playground.",
+        "referenceContext": "Working procedure :\\n1. Stretch out a rope straightly at one end of the school play ground (Use any other field if there is no field in the school)"
+    },
+    {
+        "question": "What is the purpose of step 5 in the working procedure?",
+        "referenceAnswer": "To find the amount of time it took the runner to cross each rope.",
+        "referenceContext": "5. When the runner will just cross the rope the respective person will stop his stopwatch. You will find the amount of time from the stopwatch."
+    }
+,
+    {
+        "question": "What is the objective of step 9 in the working procedure for Investigation 2.3?",
+        "referenceAnswer": "To find the instantaneous speed of two separate times and the average acceleration.",
+        "referenceContext": "9. Draw the graph again and find the instantaneous speed of two separate time and find the average acceleration by dividing the difference of speed."
+    },
+    {
+        "question": "What is the correct unit of acceleration?",
+        "referenceAnswer": "ms-2",
+        "referenceContext": "1. What is the unit of acceleration ?"
+    },
+    {
+        "question": "What type of motion do the hands of a clock have?",
+        "referenceAnswer": "Periodic motion",
+        "referenceContext": "2. What type of motion does the hands of a clock have ?"
+    }
+,
+    {
+        "question": "What is the correct unit of acceleration?",
+        "referenceAnswer": "ms-2",
+        "referenceContext": "1. What is the unit of acceleration ?"
+    },
+    {
+        "question": "What type of motion do the hands of a clock have?",
+        "referenceAnswer": "Periodic motion",
+        "referenceContext": "2. What type of motion does the hands of a clock have ?"
+    },
+    {
+        "question": "What is instantaneous speed?",
+        "referenceAnswer": "The speed of an object at a particular instant in time.",
+        "referenceContext": "6. Creative question\\nRajib with his family members started for visiting Jaflong in Sylhet by microbus.He recorded the magnitude velocity i.e. speed of the car from the speedometer after every 5min throughout the journey. The magnitude of velocity he got per hour was 18, 36, 54, 45, 54, 36, and 18 kilometer.\\na) What is instantaneous speed ?"
+    }
+]

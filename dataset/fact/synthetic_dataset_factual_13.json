@@ -1,0 +1,593 @@
+[
+    {
+        "question": "What is the name of the chapter?",
+        "referenceAnswer": "MODERN PHYSICS AND ELECTRONICS",
+        "referenceContext": "Chapter thirteen\\nMODERN PHYSICS AND ELECTRONICS"
+    },
+    {
+        "question": "What are the two major theories that were invented at the beginning of the 20th century?",
+        "referenceAnswer": "Theory of relativity and quantum theory.",
+        "referenceContext": "At the beginning of 20th century, a new era has been introduced in the field of physics. During this time, theory of relativity and quantum theory have been invented."
+    },
+    {
+        "question": "What is the chapter's objective?",
+        "referenceAnswer": "To explain radioactivity, radioactive particles and rays, the development of electronics, semiconductor and integrated circuit, different electronic devices, microphone, speaker, radio, television, phone, fax machine, internet and e-mail.",
+        "referenceContext": "In this chapter, we shall discuss about radioactivity, radioactive particles and rays, the gradual development of electronics, semiconductor and integrated circuit, different electronic devices, microphone, speaker, radio, television, phone, fax machine, internet and e-mail."
+    }
+,
+    {
+        "question": "Who discovered radioactivity?",
+        "referenceAnswer": "Henry Becquerel",
+        "referenceContext": "In 1896, French scientist Henry Becquerel observes that a radiation with special penetrating power emits spontaneously from the nucleus of Uranium metal in a continuous manner."
+    },
+    {
+        "question": "What is the name of the element that Becquerel observed emitting radiation?",
+        "referenceAnswer": "Uranium",
+        "referenceContext": "In 1896, French scientist Henry Becquerel observes that a radiation with special penetrating power emits spontaneously from the nucleus of Uranium metal in a continuous manner."
+    },
+    {
+        "question": "What is the chapter's objective?",
+        "referenceAnswer": "To explain radioactivity, radioactive particles and rays, the development of electronics, semiconductor and integrated circuit, different electronic devices, microphone, speaker, radio, television, phone, fax machine, internet and e-mail.",
+        "referenceContext": "In this chapter, we shall discuss about radioactivity, radioactive particles and rays, the gradual development of electronics, semiconductor and integrated circuit, different electronic devices, microphone, speaker, radio, television, phone, fax machine, internet and e-mail."
+    }
+,
+    {
+        "question": "What is the unit used to measure radioactivity?",
+        "referenceAnswer": "Becquerel",
+        "referenceContext": "The unit which is used to measure radioactivity is named Becquerel."
+    },
+    {
+        "question": "What is the name of the radioactive element that Madame Curie and her husband Pierre Curie observed emitting radiation?",
+        "referenceAnswer": "Polonium",
+        "referenceContext": "They noticed that similar type of radiation also emits from the heavy elements like Polonium, Thorium and Actinium etc."
+    },
+    {
+        "question": "What is an alpha particle?",
+        "referenceAnswer": "A Helium nucleus with two protons and two neutrons.",
+        "referenceContext": "Alpha particle: Alpha particle is a Helium nucleus. There are two protons and two neutrons in its nucleus."
+    }
+,
+    {
+        "question": "What is the charge of an alpha particle?",
+        "referenceAnswer": "3.2\u00d710-19 C",
+        "referenceContext": "The mass of this particle is four times than that of the Hydrogen atom and its charge is\\n3.2\u00d710-19 C."
+    },
+    {
+        "question": "What is the mass of a beta particle?",
+        "referenceAnswer": "9.11\u00d710-31 kg",
+        "referenceContext": "Its mass is the same as that of electron i.e. 9.11\u00d710-31kg."
+    },
+    {
+        "question": "What is the charge of a gamma ray?",
+        "referenceAnswer": "Neutral",
+        "referenceContext": "Gamma rays: These rays are charge neutral"
+    }
+,
+    {
+        "question": "What is the speed of a gamma ray?",
+        "referenceAnswer": "3\u00d7108 ms-1",
+        "referenceContext": "Its speed is same to that of light, which means 3\u00d7108 ms-1."
+    },
+    {
+        "question": "What is the half-life of a radioactive element?",
+        "referenceAnswer": "The time it takes for half of the total number of radioactive atoms to decay.",
+        "referenceContext": "The time during which just half of the total number of radioactive atoms undergoes disintegration is called the half-life of that element."
+    },
+    {
+        "question": "What happens to a radioactive element during its half-life?",
+        "referenceAnswer": "Half of the radioactive atoms decay and transform into a new element.",
+        "referenceContext": "As for example, let us assume that there are 800000 atoms in a radioactive element. The time required for the decay of its half i.e. 400000 atoms to transform into a new element is known as its half-life"
+    }
+,
+    {
+        "question": "What is a common medical use of radioactivity?",
+        "referenceAnswer": "Treating incurable cancer.",
+        "referenceContext": "In medical science especially to treat incurable cancer, the uses of radioactivity are frequent now-a-days."
+    },
+    {
+        "question": "What is a common agricultural use of radioactivity?",
+        "referenceAnswer": "Developing high yielding varieties of seeds.",
+        "referenceContext": "In agriculture, radioactive tracers are being successfully used, especially to develop high yielding variety of seeds and in the research to produce special type of fertilizer necessary for trees."
+    },
+    {
+        "question": "What is a common industrial use of radioactivity?",
+        "referenceAnswer": "Making equipment germ-free.",
+        "referenceContext": "The radioactivity is also widely used in industries. To make the equipment germless, to control the thickness of paper in the paper mill, to identify the presence of smoke in the fire, to verify the welding of metals, the radioactivity is being successfully used"
+    }
+,
+    {
+        "question": "Why do some watch hands and numbers glow in the dark?",
+        "referenceAnswer": "They are coated with a mixture of radioactive thorium and zinc sulfide.",
+        "referenceContext": "The hands and number of many watches are seen glittering even in the dark. This happens because the hands and the numbers in the watches are covered with a mixture of radioactive thorium and zinc sulfide, as a result they glitter."
+    },
+    {
+        "question": "What is one potential danger of excessive exposure to radioactive radiation?",
+        "referenceAnswer": "Cancer.",
+        "referenceContext": "The high dose of radioactive radiation can create serious problems in human body. Life killer cancer may cause from this radiation."
+    },
+    {
+        "question": "What is one way to prevent the harmful effects of radioactivity?",
+        "referenceAnswer": "Working with radioactive radiation carefully.",
+        "referenceContext": "So the people who work with radioactive radiation should be careful"
+    }
+,
+    {
+        "question": "What is the key element that defines electronics?",
+        "referenceAnswer": "The control of electric current through vacuum tubes, special types of crystals, and chips.",
+        "referenceContext": "The control of electric current through vacuum tube, special type of crystals and chips is known as electronics."
+    },
+    {
+        "question": "When did the journey of electronics begin?",
+        "referenceAnswer": "With the invention of the Edison effect in 1883.",
+        "referenceContext": "The history of electronics is ancient of more than hundred years. The real journey of electronics begins with the invention of Addison's effect in 1883."
+    },
+    {
+        "question": "What did Edison observe when he applied a positive potential to the plate in his experiment?",
+        "referenceAnswer": "An electric current flowed through the vacuum tube.",
+        "referenceContext": "He saw that when a positive potential is given to the plate with respect to the filament, an electric current flows through the vacuum tube."
+    }
+,
+    {
+        "question": "Who invented the first vacuum tube?",
+        "referenceAnswer": "British physicist Fleming",
+        "referenceContext": "British physicist Fleming first invented the vacuum tube by using Addison effect."
+    },
+    {
+        "question": "What is the function of a diode?",
+        "referenceAnswer": "It changes alternating current to direct current.",
+        "referenceContext": "This tube works as a rectifier that means it changes alternating current to direct current."
+    },
+    {
+        "question": "Who invented the triode vacuum tube?",
+        "referenceAnswer": "Lee de Forest",
+        "referenceContext": "After two years, an American named Lee de Forest invented another vacuum tube called triode."
+    }
+,
+    {
+        "question": "What is the main advantage of a semiconductor device over a vacuum tube?",
+        "referenceAnswer": "Semiconductor devices are smaller, more reliable, and require less power.",
+        "referenceContext": "The expense of power for it is more, it is less reliable and cooling system is necessary to keep it cool. So the scientists were searching for a semiconductor device as its alternative."
+    },
+    {
+        "question": "What is an integrated circuit?",
+        "referenceAnswer": "A semiconductor device that contains millions of microscopic electric circuits.",
+        "referenceContext": "So, IC or integrated circuit is invented. IC is such a creation using semiconductors like silicon, where millions of microscopic electric circuits are gathered in a place like a nail of our finger."
+    },
+    {
+        "question": "What is an analogue signal?",
+        "referenceAnswer": "A signal whose magnitude changes continuously.",
+        "referenceContext": "Analogue signal: The magnitude of some quantity which changes continuously is called analogue. The magnitude of the quantities such as sound, light, temperature, pressure can be of any value within a definite extent. Analogue data is sent continuously."
+    }
+,
+    {
+        "question": "What is an example of an analogue signal?",
+        "referenceAnswer": "Audio and video voltages.",
+        "referenceContext": "Audio and video voltages are the example of analogue signals."
+    },
+    {
+        "question": "What is a digital signal?",
+        "referenceAnswer": "A signal that can receive only definite values and can be changed into discrete values.",
+        "referenceContext": "Digital signal means such a communicative signal which can receive some definite value. These can be changed into discrete values and each of them can be identified separately."
+    },
+    {
+        "question": "What is the purpose of a modem?",
+        "referenceAnswer": "To convert analogue data into digital data, and vice versa.",
+        "referenceContext": "With help of modem, analogue data can be changed into digital and digital data can be changed into analogue data"
+    }
+,
+    {
+        "question": "What is the main advantage of a digital signal over an analogue signal for long-distance transmission?",
+        "referenceAnswer": "Digital signals can be amplified without distortion, while analogue signals lose quality over long distances.",
+        "referenceContext": "If the distance is long, the power of analogue signal decreases gradually. Then to sustain the analogue signal, amplification has to be done. As a result noise increases, and the quality of the signal is reduced or distorted and it can be fully lost. But the digital signal is amplified on the way. As a result the signal remains unchanged."
+    },
+    {
+        "question": "What is one advantage of using an optical fiber to transmit digital signals?",
+        "referenceAnswer": "The quality of the signal remains unchanged.",
+        "referenceContext": "Digital signal is used to transmit a signal through an optical fiber, since the qualitative standard of the last signal remains unchanged. Besides many signal can be sent in every second."
+    },
+    {
+        "question": "What is the main reason why digital devices are generally more expensive than analogue devices?",
+        "referenceAnswer": "The cost of maintaining the system is less in digital than analogue.",
+        "referenceContext": "Though the digital device is more expensive than the analogue device, the total cost is less in digital system than that of the analogue system"
+    }
+,
+    {
+        "question": "What is a semiconductor?",
+        "referenceAnswer": "A material that is neither a good conductor nor a good insulator.",
+        "referenceContext": "There are some materials (such as- silicon and germanium) which are neither good conductor nor insulator. These are called semiconductors."
+    },
+    {
+        "question": "What is the difference between n-type and p-type semiconductors?",
+        "referenceAnswer": "N-type semiconductors have an excess of electrons, while p-type semiconductors have an excess of holes.",
+        "referenceContext": "Semiconductor is divided into n-type and p- type on the basis of the elements added to it. Negative and positive charge carriers are denoted by n-type and p-type respectively."
+    },
+    {
+        "question": "What is the effect of adding phosphorous to silicon?",
+        "referenceAnswer": "It increases the number of free electrons, creating an n-type semiconductor.",
+        "referenceContext": "The semiconductor made by the addition of phosphorous with silicon is an example of n-type material. The presence of phosphorous atoms increases the number of negatively charged electrons which can move freely in the substance."
+    }
+,
+    {
+        "question": "What is a p-n junction diode?",
+        "referenceAnswer": "A device created by sandwiching an n-type material with a p-type material.",
+        "referenceContext": "If an n-type material is sandwiched with a p-type material, a very necessary device is developed which is called a p-n junction diode."
+    },
+    {
+        "question": "What is the main function of a diode?",
+        "referenceAnswer": "It rectifies alternating current (AC) into direct current (DC).",
+        "referenceContext": "It works as a rectifier. Diode makes the electric current unidirectional i.e. the diode transforms the alternating current (AC) into a direct current (DC)."
+    },
+    {
+        "question": "What are the three layers of a transistor?",
+        "referenceAnswer": "Collector, base, and emitter.",
+        "referenceContext": "A transistor is made when a p-type substance is introduced between two n-type materials like a sandwich. These three layers are called collector, base and emitter. The two n-type regions are the emitter and collector and the narrow p-type region is the base of the transistor."
+    }
+,
+    {
+        "question": "What is the main function of a transistor?",
+        "referenceAnswer": "Amplifying electric current.",
+        "referenceContext": "Transistor is used to amplify the electric current."
+    },
+    {
+        "question": "What is an integrated circuit?",
+        "referenceAnswer": "A semiconductor device that contains millions of microscopic electronic circuits.",
+        "referenceContext": "Integrated circuit is commonly known as IC. IC is used in most of the electronic appliances starting from computer, mobile phone to microoven which we see around us. IC is such a creation using semiconductor like silicon where millions of microscopic electronic circuits are gathered in a place like the nail of our finger."
+    },
+    {
+        "question": "What is the name of a famous IC chip?",
+        "referenceAnswer": "Intel chip",
+        "referenceContext": "The famous Intel chip is an example of it."
+    }
+,
+    {
+        "question": "What is the function of a microphone?",
+        "referenceAnswer": "It converts sound into an electric signal.",
+        "referenceContext": "Microphone converts sound into an electric signal."
+    },
+    {
+        "question": "What is the function of a speaker?",
+        "referenceAnswer": "It converts an electric signal into sound.",
+        "referenceContext": "Because the speaker transforms the electric signal of microphone into sound."
+    },
+    {
+        "question": "What are the two main components of a microphone?",
+        "referenceAnswer": "A moving coil and a diaphragm.",
+        "referenceContext": "There is a moving coil and a thin metallic sheet named diaphragm in the microphone."
+    }
+,
+    {
+        "question": "What is the function of the diaphragm in a microphone?",
+        "referenceAnswer": "To convert the vibration of sound into electricity.",
+        "referenceContext": "Diaphragm is that part of the microphone which is designed to transform the vibration of sound into electricity."
+    },
+    {
+        "question": "What is the main component of a loudspeaker?",
+        "referenceAnswer": "A moving coil loudspeaker.",
+        "referenceContext": "Most of the loudspeakers are moving coil loudspeaker."
+    },
+    {
+        "question": "What is the function of the cylindrical permanent magnet in a loudspeaker?",
+        "referenceAnswer": "To produce a strong magnetic field.",
+        "referenceContext": "It has- 1. A cylindrical permanent magnet which produces a strong magnetic field."
+    }
+,
+    {
+        "question": "What is the function of the wire-loop in a loudspeaker?",
+        "referenceAnswer": "To oscillate in the magnetic field.",
+        "referenceContext": "This wire-loop can oscillate to and fro in the magnetic field."
+    },
+    {
+        "question": "What major communication technology was developed in the 19th century?",
+        "referenceAnswer": "Telephone and telegraph.",
+        "referenceContext": "In 19th century, the development and expansion of telephone and telegraph has taken communication power of human one step forward."
+    },
+    {
+        "question": "What is the main purpose of radio?",
+        "referenceAnswer": "Entertainment and communication.",
+        "referenceContext": "Radio is a wide and important medium of entertainment and communication"
+    }
+,
+    {
+        "question": "Who are the two scientists credited with making major contributions to the invention of radio?",
+        "referenceAnswer": "Googlielmo Marcony and Sir Jagadish Chandra Bose.",
+        "referenceContext": "The scientists who have made a great contribution to invent radio are Googlielmo Marcony of Italy and Sir Jagadish Chandra Bose of Bikrampur in Bangladesh."
+    },
+    {
+        "question": "What is an audio signal?",
+        "referenceAnswer": "An electric wave that represents sound.",
+        "referenceContext": "In the studio of a radio-telecast station, a person speaks before the microphone. Microphone converts that sound into electric wave. This wave is known as audio signal."
+    },
+    {
+        "question": "What is a carrier wave?",
+        "referenceAnswer": "A high-frequency electromagnetic wave used to transmit audio signals.",
+        "referenceContext": "So this information carrying low frequency wave is mixed with high frequency electromagnetic wave. This high frequency electromagnetic wave is called carrier wave."
+    }
+,
+    {
+        "question": "What is the name of the process used to mix audio signals with carrier waves?",
+        "referenceAnswer": "Modulation.",
+        "referenceContext": "This combined wave is called modulated wave. The process of mixing these two waves is called modulation"
+    },
+    {
+        "question": "What are the two types of radio waves?",
+        "referenceAnswer": "Ground wave and Sky wave.",
+        "referenceContext": "This radio wave spreads out in the space and it is divided into two waves called Ground wave and Sky wave."
+    },
+    {
+        "question": "What is the name of the process used to separate audio signals from carrier waves?",
+        "referenceAnswer": "Demodulation.",
+        "referenceContext": "The receiver receives the radio wave and converts into electrical signal. After that the sound wave is separated from the carrier wave by the process of demodulation."
+    }
+,
+    {
+        "question": "Who was the first person to send pictures on television?",
+        "referenceAnswer": "Logy Beard",
+        "referenceContext": "In 1926, Logy Beard was able to send pictures on television"
+    },
+    {
+        "question": "How are pictures transmitted on television?",
+        "referenceAnswer": "By converting them into electrical signals and then sending them as electromagnetic waves.",
+        "referenceContext": "Pictures are transformed into electrical signals and then sent with the help of one of the transmitters. With the help of another transmitter pictures are transformed into electrical signals and then transmitted them in the form of electromagnetic wave."
+    },
+    {
+        "question": "What is the role of the TV camera in transmitting pictures?",
+        "referenceAnswer": "It converts pictures into electrical signals.",
+        "referenceContext": "The pictures or the scenery are to be sent has to be converted into electrical signals by the TV camera."
+    }
+,
+    {
+        "question": "What is the role of the electron gun in a television?",
+        "referenceAnswer": "It shoots a narrow electron beam towards the fluorescent phosphor screen.",
+        "referenceContext": "After receiving the video signal, the electron gun shoots the narrow electron beam like a needle. When the electron beam from the electron gun incidents on the fluorescent phosphor screen of the TV, then flash of light is created."
+    },
+    {
+        "question": "How many still pictures are formed on a television screen every second?",
+        "referenceAnswer": "25",
+        "referenceContext": "This forms 25 still picture on the TV screen in every second which our eyes see as moving picture."
+    },
+    {
+        "question": "What is the role of the microphone in transmitting sound on television?",
+        "referenceAnswer": "It converts sound into an electrical signal.",
+        "referenceContext": "The picture which will be sent to television and the sound associated are converted into electrical signal with the help of microphone."
+    }
+,
+    {
+        "question": "How is sound transmitted on television?",
+        "referenceAnswer": "By converting sound into an electrical signal, mixing it with a carrier wave, transmitting it as an electromagnetic wave, and then converting it back to sound using a loudspeaker.",
+        "referenceContext": "The electromagnetic wave comes to our TV antenna sent by the transmitter and creates electric current. This electric current reaches the receiver of television set passing through the wires. The sound receiving receiver of the television set receives this electrical signal and amplifies it. Later it is sent to the loudspeaker which converts this electrical signal into original sound .We can hear this sound."
+    },
+    {
+        "question": "How many electron guns are there in a color television camera?",
+        "referenceAnswer": "Three.",
+        "referenceContext": "There are three separate electron guns in the camera of colour television for three basic colours (Red, Blue and Green) .There are also three electron guns in the receiving machine of colour television."
+    },
+    {
+        "question": "What is the principle behind creating colors on a color television screen?",
+        "referenceAnswer": "Three different types of phosphor granules emit red, blue, and green light when struck by electron beams.",
+        "referenceContext": "The screen of colour television is made of three kinds of phosphor granules. A particular colour illuminates the phosphor granules of that particular colour. Consequently, the screen of a television tube gives red, blue and green light spots"
+    }
+,
+    {
+        "question": "Who invented the telephone?",
+        "referenceAnswer": "Alexander Graham Bell",
+        "referenceContext": "Alexander Graham Bell invented Telephone in 1875."
+    },
+    {
+        "question": "What is the function of the mouthpiece in a telephone?",
+        "referenceAnswer": "It acts as a microphone, converting voice into an electrical signal.",
+        "referenceContext": "In every telephone set, there is a system of receiving and transmitting signal. The mouthpiece of a telephone is microphone, it is the transmitter and the ear-piece is a speaker, and is the receiver."
+    },
+    {
+        "question": "What is the function of the earpiece in a telephone?",
+        "referenceAnswer": "It acts as a speaker, converting an electrical signal into sound.",
+        "referenceContext": "In every telephone set, there is a system of receiving and transmitting signal. The mouthpiece of a telephone is microphone, it is the transmitter and the ear-piece is a speaker, and is the receiver."
+    }
+,
+    {
+        "question": "How does a telephone signal travel from one phone to another?",
+        "referenceAnswer": "The signal is converted to an electrical signal by the microphone, travels through wires to the other phone, and is then converted back to sound by the speaker.",
+        "referenceContext": "When we speak, the microphone of the mouthpiece converts our voice into electrical signal. This signal reaches to the ear-piece of another telephone through the telephone wire. The speaker of the earpiece converts the electrical signal into sound As a result, the caller or the called person can hear the sound and answer."
+    },
+    {
+        "question": "How are telephone sets connected?",
+        "referenceAnswer": "Through wires to a regional head office.",
+        "referenceContext": "Every telephone set is connected to the main regional office through wire. The connection with other telephone set is established through the regional head-office."
+    },
+    {
+        "question": "What are some of the functions of a cell phone or mobile phone?",
+        "referenceAnswer": "Communicating with others, playing games, downloading music and songs, listening to music, watching films, and using the internet.",
+        "referenceContext": "You can not only communicate with other but also, can play games, download music, songs, hear music, watch film and use internet with the help of it"
+    }
+,
+    {
+        "question": "How does a mobile phone make and receive calls?",
+        "referenceAnswer": "By using radio signals instead of wires.",
+        "referenceContext": "This phone is not connected to another phone with wire. This type of phone sends and receives information or speech with the help of radio signal instead of wire."
+    },
+    {
+        "question": "What is the role of the mobile switch station in a mobile phone network?",
+        "referenceAnswer": "It connects calls to the local telephone exchange.",
+        "referenceContext": "Then the call travels to the mobile switch station through micro wave or wire. This station sends this call to the local telephone exchange."
+    },
+    {
+        "question": "What does the abbreviation 'fax' stand for?",
+        "referenceAnswer": "Facsimile",
+        "referenceContext": "Fax is the short form of facsimile"
+    }
+,
+    {
+        "question": "What is the main function of a fax machine?",
+        "referenceAnswer": "To send a copy of a document without any changes.",
+        "referenceContext": "It is used to send a document as it is, without any change."
+    },
+    {
+        "question": "Who invented the fax machine?",
+        "referenceAnswer": "Alexander Bain",
+        "referenceContext": "Though the fax machine was invented in 1842, its journey started in 1930.The scientist Alexander Bain invented fax."
+    },
+    {
+        "question": "How does a fax machine work?",
+        "referenceAnswer": "It scans a document, converts the signal into binary code, transmits it through a modem, and then the receiver converts the signal back to the original document and prints it.",
+        "referenceContext": "Modern fax machine is an ultra modern technology of electro optical machine. Here the original document is scanned through electronic process. Then, the scanned signal is transformed into binary signal. This signal is sent using standard modem device through telephone. The receiver of fax machine receives the transmitted electronic signal through modem and converts it into original document by demodulating it. A printer prints out this document just as it is."
+    }
+,
+    {
+        "question": "What is the main function of a computer?",
+        "referenceAnswer": "To receive, process, transform, preserve, and send data.",
+        "referenceContext": "Computer is such an electronic device that can receive, process, transform, preserve and send any data."
+    },
+    {
+        "question": "What are some fields where computers are used?",
+        "referenceAnswer": "Trade and commerce, administration, education, industry, medical science, communication, defense, and entertainment.",
+        "referenceContext": "The use of computer is increasing day by day in the field of trade and commerce, administration, education, industry, medical science, communication, defense, entertainment etc."
+    },
+    {
+        "question": "What are the main components of a computer system?",
+        "referenceAnswer": "A computer system collects data, processes it according to commands, and presents the results.",
+        "referenceContext": "Computer is a developed electronic system. Computer collects data, process it according to command and represents results as necessary"
+    }
+,
+    {
+        "question": "What is the role of the input devices in a computer system?",
+        "referenceAnswer": "To provide data to the computer.",
+        "referenceContext": "Here the data of the computer is applied. For this, the input devices which are used generally are key-board, mouse-touch pad, scanner, digital camera and microphone."
+    },
+    {
+        "question": "What are the three main components of the CPU?",
+        "referenceAnswer": "Memory unit (RAM), control unit, and arithmetic logic unit.",
+        "referenceContext": "In this unit, there is memory unit or RAM, control unit and arithmetical logic Unit."
+    },
+    {
+        "question": "What is the difference between hardware and software?",
+        "referenceAnswer": "Hardware is the physical components of a computer, while software is a set of instructions that tell the computer what to do.",
+        "referenceContext": "The elemental devices by which a computer is made are called Hardware. Such as keyboard, mouse, processor, monitor, printer etc. Software is a group of commands that says computer what it will have to do."
+    }
+,
+    {
+        "question": "What is one way computers are used in the medical field?",
+        "referenceAnswer": "To record patient information, select medicine, examine eyes, and perform X-ray diagnosis.",
+        "referenceContext": "Computer is used for recording the appointment, identity, address, symptoms of diseases etc of patient, the selection of medicine, to examine the eye, X-ray or other diagnosis, the operation of heart and for the study of medical science."
+    },
+    {
+        "question": "What is one way computers are used in the transportation system?",
+        "referenceAnswer": "To control traffic of ships, aeroplanes, motorcars, and trains.",
+        "referenceContext": "Transport system: Computer is used to control traffic of ship, aero plane, motorcar, train etc, to control speed, to book ticket etc. Besides, computer is used to send, control and run space craft."
+    },
+    {
+        "question": "What is one way computers are used in industry?",
+        "referenceAnswer": "To automate the production of goods.",
+        "referenceContext": "Industries: Computer is being used to produce goods in an automated process, to justify the quality of goods, to collect data, to provide salary of the employees, to maintain schedule of the work etc .To run an atomic reactor or to use such complex and modern machine, computer is very essential."
+    }
+,
+    {
+        "question": "What is one way computers are used in education?",
+        "referenceAnswer": "To teach in classrooms.",
+        "referenceContext": "Education: Computer is being used for teaching in classrooms, for self-learning, to evaluate answer scripts and to publish results."
+    },
+    {
+        "question": "What is the main advantage of using computers in printing?",
+        "referenceAnswer": "It reduces the cost of printing.",
+        "referenceContext": "The excessive cost of printing has been reduced for using computer to compose, design etc."
+    },
+    {
+        "question": "What is the internet?",
+        "referenceAnswer": "An international network that connects more than 400000 smaller networks.",
+        "referenceContext": "Internet is the 'network' of networks or the 'mother of all networks'. It is an international network that has connected more than 400000 small networks of different countries"
+    }
+,
+    {
+        "question": "When was the internet introduced?",
+        "referenceAnswer": "1969",
+        "referenceContext": "The American defence division has introduced internet in 1969."
+    },
+    {
+        "question": "What are some things you can do using the internet?",
+        "referenceAnswer": "Browse websites, send and receive email, make video conferences, gossip, book tickets, perform e-commerce and e-banking, send and receive files, and access online libraries.",
+        "referenceContext": "We can browse website, send and receive e-mail, make video conferencing through internet. We can gossip, book tickets of bus, train and plane, can perform electronic trade and commerce, e-banking and shopping through internet. We can send and receive any file or document electronically. In addition, we can find millions of books, journals, magazines of the online libraries, read them if necessary and print them by downloading."
+    },
+    {
+        "question": "What is the main advantage of using email?",
+        "referenceAnswer": "It is fast and efficient.",
+        "referenceContext": "E-mail is a fast and efficient mode of communication with friends, classmates, relatives or colleagues through internet."
+    }
+,
+    {
+        "question": "What is the main function of email?",
+        "referenceAnswer": "To distribute electronic messages and files among email boxes.",
+        "referenceContext": "E-mail distributes the electronic messages and files among one or more electronic mailboxes."
+    },
+    {
+        "question": "What are the two main components of an email address?",
+        "referenceAnswer": "User ID and domain.",
+        "referenceContext": "E-mail address is necessary for both sender and receiver to use e-mail. Follow the e-mail address given below:\\nsmtapan @ iut - dhaka . edu\\nUser ID\\nInstitution\\tdomain  educational institution"
+    },
+    {
+        "question": "What is one important consideration when using communication devices?",
+        "referenceAnswer": "To use them effectively and avoid wasting electricity.",
+        "referenceContext": "In our country there is a lack of electricity, so we shall not waste electricity by misusing the devices"
+    }
+,
+    {
+        "question": "What is one potential negative consequence of working on a computer for a long time without taking breaks?",
+        "referenceAnswer": "Computer vision syndrome.",
+        "referenceContext": "If anyone works on a computer without taking rest for long time, he or she will fall victim to eye-problems. This is called computer vision syndrome."
+    },
+    {
+        "question": "What are some symptoms of computer vision syndrome?",
+        "referenceAnswer": "Burning, dryness, itching, and redness of the eyes.",
+        "referenceContext": "Among the syndromes there are: burning of eyes, dryness of eyes, itching of eyes and redness of eyes."
+    },
+    {
+        "question": "What is one recommendation for preventing problems associated with prolonged computer use?",
+        "referenceAnswer": "Sit properly and look forward, keep hands straight while typing, and take breaks.",
+        "referenceContext": "When you will work on a computer; you should sit properly and look forward. The hands should not be kept on anything during typing and hands and fingers should be kept straight"
+    }
+,
+    {
+        "question": "What is a recommended distance to keep the computer screen from your eyes?",
+        "referenceAnswer": "20 to 24 inches (50-60 cm).",
+        "referenceContext": "The screen of the computer should be kept 20 to 24 inches (50-60 cm) apart from the eyes."
+    },
+    {
+        "question": "What is a potential consequence of listening to radio or television at high volumes?",
+        "referenceAnswer": "Headaches, hearing problems, and tiredness.",
+        "referenceContext": "The people, who listen to radio and television with high volume, may fall victim to headache, hearing problems, tiredness etc. health problems."
+    },
+    {
+        "question": "What is an alpha particle?",
+        "referenceAnswer": "A helium nucleus.",
+        "referenceContext": "A. Multiple choice questions Tick (? ) the correct answer.\\n1. What do mean by alpha particle emitting from radioactive elements?\\n(a) a hydrogen nucleus\\t(b) a helium nucleus\\n(c) a charge neutral particle\\t(d) a negative particle"
+    }
+,
+    {
+        "question": "What is a beta ray emitted due to radioactive decay?",
+        "referenceAnswer": "The flow of negative electrons.",
+        "referenceContext": "What is actually beta ray emitted due to the radioactive decay?\\n(a) the flow of negative electrons  (b) a charge neutral particle\\n(c) a positive nucleus\\t(d) flow of positive protons"
+    },
+    {
+        "question": "What is a silicon chip called if millions of circuits are added to it?",
+        "referenceAnswer": "An integrated circuit.",
+        "referenceContext": "3. What is called a silicon chip if millions of circuit is added to it?\\n(a) parallel circuit\\t(b) semiconductor transistor\\n(c) integrated circuit\\t(d) semiconductor diode"
+    },
+    {
+        "question": "What is the function of a camera in television broadcasting?",
+        "referenceAnswer": "To transform pictures into electrical signals.",
+        "referenceContext": "4. What is the function of a camera in broadcasting television?\\n(a) to transform picture into electrical signal (b) to transform picture into sound wave\\n(c) to transform electrical signal into picture (d) to transform sound wave into picture"
+    }
+,
+    {
+        "question": "What is an analogue signal?",
+        "referenceAnswer": "A signal whose magnitude changes continuously.",
+        "referenceContext": "a) What is analogue signal?"
+    },
+    {
+        "question": "How does a television broadcast a cricket match?",
+        "referenceAnswer": "A TV camera converts the visual scene into electrical signals, which are then mixed with a carrier wave and transmitted as electromagnetic waves. These waves are received by a television antenna, and the receiver separates the audio and video signals, amplifying them and displaying the picture on the screen and playing the sound through speakers.",
+        "referenceContext": "c) Explain the telecast-technique of the cricket match."
+    },
+    {
+        "question": "What is the internet?",
+        "referenceAnswer": "An international network of networks that allows communication and information sharing between millions of computers.",
+        "referenceContext": "4. What is internet? What can you do through it?"
+    }
+]

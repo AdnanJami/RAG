@@ -1,0 +1,433 @@
+[
+    {
+        "question": "What is the main topic discussed in Chapter eleven?",
+        "referenceAnswer": "Current electricity",
+        "referenceContext": "Chapter eleven\\nCURRENT ELECTRICITY"
+    },
+    {
+        "question": "What is the source of electricity discussed in the previous chapter?",
+        "referenceAnswer": "Static electricity",
+        "referenceContext": "In the previous chapter we have discussed about static electricity. In this chapter different quantities related to current electricity e.g. electric current, resistance, electromotive force and potential difference will be described."
+    },
+    {
+        "question": "What are some of the quantities related to current electricity discussed in this chapter?",
+        "referenceAnswer": "Electric current, resistance, electromotive force, and potential difference",
+        "referenceContext": "In this chapter different quantities related to current electricity e.g. electric current, resistance, electromotive force and potential difference will be described."
+    }
+,
+    {
+        "question": "What is the main concept discussed in section 11.1?",
+        "referenceAnswer": "Production of current electricity from static electricity",
+        "referenceContext": "11.1 Production of current electricity from static electricity"
+    },
+    {
+        "question": "What happens when two bodies of different potential are connected by a conducting wire?",
+        "referenceAnswer": "Electrons flow from the body of low potential to that of higher potential",
+        "referenceContext": "When two bodies of different potential are connected by a conducting wire, electrons flow from the body of low potential to that of higher potential"
+    },
+    {
+        "question": "What is the name of the flow of electrons?",
+        "referenceAnswer": "Electric current",
+        "referenceContext": "When two bodies of different potential are connected by a conducting wire, electrons flow from the body of low potential to that of higher potential. This flow of electrons is called electric current"
+    }
+,
+    {
+        "question": "What condition is required for a continuous flow of electrons?",
+        "referenceAnswer": "The potential difference between the two objects must be maintained",
+        "referenceContext": "If by any process the potential difference between the two objects is maintained, then this flow of electron goes on continuously. This continuous flow of electrons is electric current."
+    },
+    {
+        "question": "What is the definition of electric current?",
+        "referenceAnswer": "The amount of charge that flows in unit time through any cross section of a conductor",
+        "referenceContext": "The amount of charge that flows in unit time through any cross section of a conductor is called electric current."
+    },
+    {
+        "question": "What is the unit of electric current?",
+        "referenceAnswer": "Ampere (A)",
+        "referenceContext": "Unit: The unit of electric current is ampere. If an amount of charge 1 C flows in 1 second through any cross section of a conductor, then the quantity of electric current produced is called 1 A."
+    }
+,
+    {
+        "question": "What is the purpose of the plug keys K1 and K2 in the experiment described?",
+        "referenceAnswer": "To connect and disconnect the high voltage source and the conducting path",
+        "referenceContext": "At the start of the experiment, two plug keys K1 and K2 are taken out and the two metal plates A and B are uncharged by touching with hand. Now, if the plug K1 is closed, the high voltage source will be connected to the two metal plates.\\nNext, switch on the high voltage source to charge up the two metal plates positively and negatively by an equal amount. Now, key K1 is removed and key K2 is pluged in to\\nprovide a continuous conducting path linking the positively and negatively charged metal plates to the galvanometer."
+    },
+    {
+        "question": "What is the purpose of the galvanometer in the experiment?",
+        "referenceAnswer": "To detect the flow of current",
+        "referenceContext": "Here, the galvanometer is a device that can detect the existence of flow of current. It would be observed that the pointer in the galvanometer is seen to deflect momentarily to one side and then quickly return to its initial position."
+    },
+    {
+        "question": "What causes the electric current in the experiment?",
+        "referenceAnswer": "The flow of electrons from the negatively charged plate B through the galvanometer and then to positively charged plate A",
+        "referenceContext": "The current is caused by the flow of electrons from the negatively charged plate B through the galvanometer and then to positively charged plate A"
+    }
+,
+    {
+        "question": "What is the conventional direction of electric current?",
+        "referenceAnswer": "From higher potential to lower potential",
+        "referenceContext": "When current electricity was invented first, it was assumed that the electricity was produced due to the flow of positive charges. This positive charge flows from higher potential to lower potential. So, the direction of conventional current is taken to be from higher potential to lower potential or from positive plate to negative plate of an electric cell."
+    },
+    {
+        "question": "What is the actual direction of electric current?",
+        "referenceAnswer": "From lower potential to higher potential",
+        "referenceContext": "But we know that actually electric current is the flow of negative charges or of electrons, so the actual direction of electric current is from lower potential to higher potential. That is from negative plate to positive plate of an electric cell. Therefore, the actual direction of electric current is opposite to that of conventional current."
+    },
+    {
+        "question": "What is an electric circuit?",
+        "referenceAnswer": "The complete path through which electric current can flow",
+        "referenceContext": "The complete path through which electric current can flow is called electric circuit"
+    }
+,
+    {
+        "question": "What is required to form an electric circuit?",
+        "referenceAnswer": "Joining the two plates of a cell to the two ends of a resistor or an electric device",
+        "referenceContext": "When two plates of a cell are joined to the two ends of a resistor or an electric devices an electric circuit is formed."
+    },
+    {
+        "question": "What is the purpose of using electrical symbols in circuit diagrams?",
+        "referenceAnswer": "To represent common electrical devices in a simple and clear way",
+        "referenceContext": "We have to draw simple and clear circuit diagrams to study current electricity. Symbols that are used to represent common electrical devices that are employed to draw electric circuits are shown in table."
+    },
+    {
+        "question": "What is a conductor?",
+        "referenceAnswer": "A material through which electric current can flow very easily",
+        "referenceContext": "1. Conductor: The materials through which electric current can flow very easily are called conductors"
+    }
+,
+    {
+        "question": "What are insulators?",
+        "referenceAnswer": "Materials through which electric current cannot flow",
+        "referenceContext": "2. Insulator: The materials through which electric current cannot flow are called insulators."
+    },
+    {
+        "question": "Why are plastics used to cover the handles of tools used by electricians?",
+        "referenceAnswer": "Because plastics are insulators and prevent electric shock",
+        "referenceContext": "For example: Plastic, rubber, wood, glass etc. There are no free electrons inside insulating materials. Electrons do not flow easily through plastic type materials. As a result plastics are insulator for electricity. Due to this, the handles of screwdrivers and pliers used by electricians are covered with plastic type materials."
+    },
+    {
+        "question": "What are semiconductors?",
+        "referenceAnswer": "Materials whose current conduction capacity lies between that of conductors and insulators in normal temperature",
+        "referenceContext": "3. Semiconductor: The materials whose current conduction capacity lies between that of conductors and insulators in normal temperature are called semiconductors"
+    }
+,
+    {
+        "question": "What is the main concept discussed in section 11.5?",
+        "referenceAnswer": "Relationship between potential difference and electric current",
+        "referenceContext": "11.5 Relationship between potential difference and electric current- Ohm's law"
+    },
+    {
+        "question": "Who discovered Ohm's law?",
+        "referenceAnswer": "George Simon Ohm",
+        "referenceContext": "George Simon Ohm has discovered the law regarding the relationship between the electric current that flows in a conductor and the potential difference between the two terminals of it- which is known as Ohm's law."
+    },
+    {
+        "question": "What is the relationship between potential difference and electric current according to Ohm's law?",
+        "referenceAnswer": "The current passing through a conductor at constant temperature is directly proportional to the potential difference between the two ends of the conductor.",
+        "referenceContext": "Ohm's law\\nThe current passing through a conductor at constant temperature is directly proportional to the potential difference between the two ends of the conductor."
+    }
+,
+    {
+        "question": "What is the relationship between electric current, potential difference, and resistance?",
+        "referenceAnswer": "V = R I",
+        "referenceContext": "Now at constant temperature, if the current passing through the conductor is I, then according to ohm's law,\\nI ? V\\n==> V ? R I\\n= constant\\nThis constant is called the resistance of the conductor at that temperature.\\nV\\nFig: 11.14\\nor, I ?\\nR"
+    },
+    {
+        "question": "What is the unit of resistance?",
+        "referenceAnswer": "Ohm (\u03a9)",
+        "referenceContext": "The unit of resistance is Ohm, denoted by ?.  It is named after German physicist Georg Simon Ohm"
+    },
+    {
+        "question": "What is the difference between fixed and variable resistance?",
+        "referenceAnswer": "A fixed resistance has a constant value, while a variable resistance can be adjusted",
+        "referenceContext": "We know electric current is the flow of electrons. The resistance of a conductor is the measure of its opposition to the flow of current. Resistance of a conductor is constant for a particular temperature. Such a resistance is called fixed resistance."
+    }
+,
+    {
+        "question": "What is the main cause of resistance in a conductor?",
+        "referenceAnswer": "Collisions between electrons and atoms and molecules",
+        "referenceContext": "When the electrons move within the bulk of a conductor, they collide with the atoms and molecules of the conductor. Due to this their motion is resisted and electric current is obstructed. This property of a conductor is called resistance."
+    },
+    {
+        "question": "What is the unit of resistance?",
+        "referenceAnswer": "Ohm (\u03a9)",
+        "referenceContext": "The SI unit for resistance is ohm. It is expressed by the capital letter omega (?)."
+    },
+    {
+        "question": "What is the main purpose of using resistors in a circuit?",
+        "referenceAnswer": "To control the quantity of current flowing",
+        "referenceContext": "The main objective of using resistors is to control the quantity of the current flowing in a circuit."
+    }
+,
+    {
+        "question": "What is the purpose of a variable resistor?",
+        "referenceAnswer": "To vary the current flowing through a circuit",
+        "referenceContext": "The variable resistors are those whose value of the resistance can be changed according to the necessity. These are called rheostat too. A rheostat is included in a circuit to vary the current flowing through it."
+    },
+    {
+        "question": "What is electromotive force?",
+        "referenceAnswer": "The work done by the source or the energy spent by the source in driving a unit positive charge from one point of the circuit to the same point by traversing the complete circuit along with the source",
+        "referenceContext": "The electromotive force of an electrical energy source is defined as the work done by the source or the energy spent by the source in driving a unit positive charge from one point of the circuit to the same point by traversing the complete circuit along with the source."
+    },
+    {
+        "question": "What is the SI unit of electromotive force?",
+        "referenceAnswer": "Volt (V)",
+        "referenceContext": "Unit: The SI unit of electromotive force is JC-1 or volt (V)."
+    }
+,
+    {
+        "question": "What is the definition of potential difference?",
+        "referenceAnswer": "The amount of work done to carry unit positive charge from one point to another of a circuit",
+        "referenceContext": "The potential difference between any two points is defined as the amount of work done to carry unit positive charge from one point to another of a circuit."
+    },
+    {
+        "question": "What is the relationship between electromotive force and potential difference in a circuit?",
+        "referenceAnswer": "The electromotive force of a cell is the sum of the potential differences which develops in different parts of the circuit along with the cell",
+        "referenceContext": "The electromotive force of a cell is the sum of the potential differences which develops in different parts of the circuit along with the cell."
+    },
+    {
+        "question": "What happens to the electrical energy provided by a dry cell in a torch?",
+        "referenceAnswer": "It is converted into light and heat energy",
+        "referenceContext": "When a dry cell is used in a torch, the electrical energy provided by the dry cell is converted into light and heat energy."
+    }
+,
+    {
+        "question": "What is the unit of potential difference?",
+        "referenceAnswer": "Volt (V)",
+        "referenceContext": "The SI unit for potential difference is the same as that for electromotive force. That is volt (V)."
+    },
+    {
+        "question": "How does the value of electromotive force (E) compare to the value of potential difference (V)?",
+        "referenceAnswer": "E is larger than V",
+        "referenceContext": "Now compare the values of the measured electromotive force and potential difference. You will observe that the value of E is larger than that of V."
+    },
+    {
+        "question": "What are the four factors that influence the resistance of a conductor?",
+        "referenceAnswer": "Length, cross section area, material, and temperature",
+        "referenceContext": "We know, when temperature and other physical conditions (e.g. - length, cross section, area) remain the same, the resistance of a conductor is a constant. The resistance of a conductor depends on four factors.\\n1"
+    }
+,
+    {
+        "question": "What is the relationship between the resistance of a conductor and its length?",
+        "referenceAnswer": "The resistance of a conductor is directly proportional to its length",
+        "referenceContext": "Law of length: The resistance of a conductor is directly proportional to its length when\\nthe cross sectional area, material and temperature of the conductor remain the same."
+    },
+    {
+        "question": "What is the relationship between the resistance of a conductor and its cross sectional area?",
+        "referenceAnswer": "The resistance of a conductor is inversely proportional to its cross sectional area",
+        "referenceContext": "Law of area: The resistance of a conductor is inversely proportional to its cross sectional area when\\nthe length, material and temperature of the conductor remain the same."
+    },
+    {
+        "question": "What is the relationship between the resistance of a conductor and its temperature?",
+        "referenceAnswer": "The resistance of a conductor increases as the temperature increases",
+        "referenceContext": "The resistance of a conductor depends on its temperature."
+    }
+,
+    {
+        "question": "What is the relationship between resistance, length, and cross-sectional area of a conductor?",
+        "referenceAnswer": "R = \u03c1L/A",
+        "referenceContext": "Therefore, we get from the laws of resistance,\\nR ? L\\nA\\nwhen temperature and material remain the same.\\nor, R =? L\\n(11.3)"
+    },
+    {
+        "question": "What is resistivity?",
+        "referenceAnswer": "The resistance of a conductor of unit length and unit cross sectional area at a particular temperature",
+        "referenceContext": "Therefore, at a particular temperature, the resistance of a conductor of unit length and unit cross sectional area is called the specific resistance of that material at that temperature."
+    },
+    {
+        "question": "What is conductivity?",
+        "referenceAnswer": "The reciprocal of resistivity",
+        "referenceContext": "The reciprocal of resistivity is known as conductivity."
+    }
+,
+    {
+        "question": "What is the unit of resistivity?",
+        "referenceAnswer": "\u03a9 m",
+        "referenceContext": "Substituting the units of the quantities on the right side of the equation, the unit of ? is\\n? m2 ? ?\\nm\\nm"
+    },
+    {
+        "question": "What is the resistivity of silver at 20\u00b0C?",
+        "referenceAnswer": "1.6\u00d710-8 \u03a9 m",
+        "referenceContext": "The resistivity of silver at 20 ?C is 1.6\u00d710-8 ? m. Therefore, the resistance of a silver wire of length 1m and cross sectional area of 1m2 is 1.6\u00d710-8 ?."
+    },
+    {
+        "question": "What is the relationship between resistivity and conductivity?",
+        "referenceAnswer": "Conductivity is the reciprocal of resistivity",
+        "referenceContext": "The reciprocal of resistivity is known as conductivity."
+    }
+,
+    {
+        "question": "Why is nichrome wire used in electric kettles?",
+        "referenceAnswer": "Its high resistivity causes a lot of thermal energy to be produced when current flows through it",
+        "referenceContext": "Due to the high resistivity of nichrome, a lot of thermal energy is produced when a current flows through it. This property of nichrome causes water to boil very quickly in electric kettle."
+    },
+    {
+        "question": "What is conductivity?",
+        "referenceAnswer": "The reciprocal of resistivity",
+        "referenceContext": "The reciprocal quantity of resistance is called conductance. Like that, the reciprocal quantity of specific resistance is called conductivity."
+    },
+    {
+        "question": "What is the unit of conductivity?",
+        "referenceAnswer": "(\u03a9 m)-1",
+        "referenceContext": "As unit of ? is ? m, Therefore, the unit of ? is (? m)-1."
+    }
+,
+    {
+        "question": "What is a series circuit?",
+        "referenceAnswer": "A circuit in which the electric components are connected one after another in a single loop",
+        "referenceContext": "The circuit in which the electric components are connected one after another in a single loop is called a series circuit."
+    },
+    {
+        "question": "What happens to the current in a series circuit?",
+        "referenceAnswer": "The same current flows throughout the whole circuit",
+        "referenceContext": "As there is a single path in the circuit, the same current will flow throughout the whole circuit."
+    },
+    {
+        "question": "Why are the little bulbs used for decoration often connected in series?",
+        "referenceAnswer": "Because they are connected one after another",
+        "referenceContext": "The little bulbs that are used for decoration purpose in wedding ceremony or in different programs are connected in series."
+    }
+,
+    {
+        "question": "What is a parallel circuit?",
+        "referenceAnswer": "A circuit in which the electric components are arranged in such a way that one terminal of all the components are joined at a common point and the other terminal are joined at another common point",
+        "referenceContext": "The circuit in which the electric components are arranged in such a way that one terminal of all the components are joined at a common point and the other terminal are joined at another common point then this circuit is called a parallel circuit."
+    },
+    {
+        "question": "What is the relationship between the total current and the individual currents in a parallel circuit?",
+        "referenceAnswer": "The sum of the individual currents flowing through each of the parallel branches is equal to the total current",
+        "referenceContext": "Here, total current of the circuit ? I\\ni.e. in a parallel circuit, the sum of the individual currents flowing through each of the parallel branches is equal to the total current."
+    },
+    {
+        "question": "What are some examples of electrical appliances that are often connected in parallel?",
+        "referenceAnswer": "Light and fan",
+        "referenceContext": "The electrical appliances such as- light, fan etc"
+    }
+,
+    {
+        "question": "What is equivalent resistance?",
+        "referenceAnswer": "A single resistance that can replace a combination of resistances without changing the current and potential difference in the circuit",
+        "referenceContext": "If a single resistance is used instead of combination of resistances and if the current and potential difference is not changed in the circuit, then that resistance is called the equivalent resistance of the combination."
+    },
+    {
+        "question": "What is the relationship between the potential difference across each resistor in a series circuit and the total potential difference?",
+        "referenceAnswer": "The total potential difference is the sum of the potential differences across each resistor",
+        "referenceContext": "If V is the potential difference between the two terminals of all the resistors, i.e\\nV ? V1 ? V2 ? V3"
+    },
+    {
+        "question": "What is the formula for the equivalent resistance of resistors in series?",
+        "referenceAnswer": "R = R1 + R2 + R3",
+        "referenceContext": "Therefore, the equivalent resistance of the three resistors in series is,\\nR ? R1 ? R2 ? R3"
+    }
+,
+    {
+        "question": "What is the formula for the equivalent resistance of resistors in series?",
+        "referenceAnswer": "Rs = R1 + R2 + R3 + ... + Rn",
+        "referenceContext": "If instead of three resistances, n number of resistances are connected in series then\\nequivalent resistance Rs will be\\nRS ? R1 ? R2 ? R3 ? ... ? Rn\\nTherefore, the equivalent resistance of resistors connected is series is equal to the sum of the different resistances included in the combination."
+    },
+    {
+        "question": "What is the relationship between the potential difference across each resistor in a parallel circuit?",
+        "referenceAnswer": "The potential difference across each resistor is the same",
+        "referenceContext": "When several resistances are connected in such a way that one terminal of all the resistances are joined at a common point A and the other terminals are joined at another common point B and potential difference across each of the resistors remains the same, then this combination of resistances are called parallel combination of resistances."
+    },
+    {
+        "question": "What is the relationship between the total current and the individual currents in a parallel circuit?",
+        "referenceAnswer": "The total current is equal to the sum of the individual currents",
+        "referenceContext": "The total current I is divided into several branches. If the currents flowing through the different branches of the circuit are I1, I2 and I3, then, I ? I1 ? I2 ? I3."
+    }
+,
+    {
+        "question": "What is the relationship between the total current and the individual currents in a parallel circuit?",
+        "referenceAnswer": "The total current is equal to the sum of the individual currents",
+        "referenceContext": "Therefore, sum of the currents I1, I2 and I3 of\\nparallel paths is equal to the current I at the junction a. Therefore,\\nI = I1 + I2 + I3\t(11.7)"
+    },
+    {
+        "question": "What is the formula for the equivalent resistance of resistors in parallel?",
+        "referenceAnswer": "1/Rp = 1/R1 + 1/R2 + 1/R3 + ... + 1/Rn",
+        "referenceContext": "If instead of three resistances, n numbers of resistances are connected in parallel then the equivalent resistance RP can be expressed as\\n1\t? 1 ? 1\\nRP\tR1\tR2\\n? 1 ? .."
+    },
+    {
+        "question": "What happens to the equivalent resistance in a parallel circuit as more resistors are added?",
+        "referenceAnswer": "The equivalent resistance decreases",
+        "referenceContext": "If instead of three resistances, n numbers of resistances are connected in parallel then the equivalent resistance RP can be expressed as\\n1\t? 1 ? 1\\nRP\tR1\tR2\\n? 1 ? ..\\nTherefore, the value of the equivalent resistance in parallel combination is smaller than the least value of individual resistances."
+    }
+,
+    {
+        "question": "What is the formula for calculating the equivalent resistance of resistors in parallel?",
+        "referenceAnswer": "1/Rp = 1/R1 + 1/R2 + 1/R3 + ... + 1/Rn",
+        "referenceContext": "If instead of three resistances, n numbers of resistances are connected in parallel then the equivalent resistance RP can be expressed as\\n1\t? 1 ? 1\\nRP\tR1\tR2\\n? 1 ? .."
+    },
+    {
+        "question": "What is electric power?",
+        "referenceAnswer": "The rate at which electrical energy is transformed into other forms of energy",
+        "referenceContext": "When a potential difference is applied between the two terminals of a conductor, an electric current is set up. Due to this, work is done and the electrons acquire energy. This electrical energy may be transformed into different forms of energy (e.g.- heat, light, mechanical energy etc.) according to the nature of the circuit."
+    },
+    {
+        "question": "What is the formula for calculating electric power?",
+        "referenceAnswer": "P = VI",
+        "referenceContext": "Therefore, the electrical power is,\\nPower = rate of doing work\\nP = W = VQ = VI\\nt\tt\\nThe SI unit of power is watt (W)."
+    }
+,
+    {
+        "question": "What is the formula for calculating the energy spent or converted in a conductor?",
+        "referenceAnswer": "W = VQ",
+        "referenceContext": "Therefore, energy spent or the amount of energy converted is\\nW ? VQ"
+    },
+    {
+        "question": "What is the formula for calculating electric power in terms of voltage (V) and current (I)?",
+        "referenceAnswer": "P = VI",
+        "referenceContext": "Substituting the value of W from equation (11.11) we get,\\nP ? VI"
+    },
+    {
+        "question": "What is the unit of electric power?",
+        "referenceAnswer": "Watt (W)",
+        "referenceContext": "We know the unit of power is watt (W)"
+    }
+,
+    {
+        "question": "What is the relationship between kilowatt (kW) and watt (W)?",
+        "referenceAnswer": "1 kW = 10^3 W",
+        "referenceContext": "In the calculations of electric energy generally kW, MW etc. are used instead of watt. 1 kW=103 W and 1 MW=106 W."
+    },
+    {
+        "question": "What is the typical power of an energy saving bulb?",
+        "referenceAnswer": "11-30 W",
+        "referenceContext": "The energy saving bulbs which we use now-a-days has power of 11-30 W."
+    },
+    {
+        "question": "What is the unit used by electricity supply authorities to measure the amount of electrical energy consumed?",
+        "referenceAnswer": "Kilowatt-hour (kWh)",
+        "referenceContext": "Throughout the world, the electricity supply authority measures the amount of electrical energy consumed in units of kilowatt-hour (kWh). We call this kilowatt-hour unit as 'board of trade' unit or in brief 'unit'"
+    }
+,
+    {
+        "question": "What is the relationship between power (P), energy (W), and time (t)?",
+        "referenceAnswer": "W = Pt",
+        "referenceContext": "Since power, P = Work done = Converted energy\\ntime\\n? W\\nt\\ntime\\n?  W ? Pt"
+    },
+    {
+        "question": "What is the value of 1 kWh in joules?",
+        "referenceAnswer": "3.6 \u00d7 10^6 J",
+        "referenceContext": "Therefore, the amount of electrical energy converted or spent when an electric device of 1 kilowatt power works for 1 hour is called 1 kilowatt-hour or 1 unit.\\n1 kWh = 3.6\u00d7 106 J"
+    },
+    {
+        "question": "What is the main cause of system loss in an electrical circuit?",
+        "referenceAnswer": "Resistance in the wires",
+        "referenceContext": "The current passing through the wire produces heat due to resistance. This heat energy is called system loss. The greater the current, the more the heat produced."
+    }
+,
+    {
+        "question": "What is the main reason for system loss in electricity transmission?",
+        "referenceAnswer": "Resistance in the conducting wires",
+        "referenceContext": "The conducting wires which are used for electricity transmission have a definite amount of resistance. As a result, to overcome this resistance, part of the electrical energy is converted to heat."
+    },
+    {
+        "question": "Why is electricity transmitted at high voltage?",
+        "referenceAnswer": "To decrease the loss of energy due to the power grid or conductor",
+        "referenceContext": "Due to the transmission of electricity at high voltage, the loss that occurs due to the power grid or of conductor is decreased to a great extent."
+    },
+    {
+        "question": "What happens to the electric current when electricity is transmitted at high voltage?",
+        "referenceAnswer": "The value of the electric current becomes lower",
+        "referenceContext": "For a definite amount of electrical energy, the value of the electric current becomes lower due to high voltage transmission"
+    }
+]
